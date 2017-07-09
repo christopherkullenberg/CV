@@ -1,0 +1,892 @@
+%%%%%%%%%%%%%%%%% PREAMBLE %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Change the font size of your document - 10pt, 12.1pt, etc. letterpaper in original
+\documentclass[a4paper,11pt,oneside]{article}
+%\setcounter{section}{-1}  %Use this if you want the first page to be in Table of Contents
+\usepackage[utf8]{inputenc}
+\usepackage{setspace}
+\usepackage{hyperref} % Use this with normal dvipdf
+\usepackage{graphicx}
+\usepackage{pdfpages}
+\usepackage{tikz}
+\graphicspath{ {/}} %upload your signature to this file
+\usepackage[left=1in, right=1in, bottom=1.25in, top=1.25in]{geometry}
+\renewcommand{\contentsname}{Contents}
+%%%%%%%%%%%%%%%%% END OF PREAMBLE %%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%% NAME OF APPLICANT %%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Use these two linesif First page should be in Table of Contents
+  %\renewcommand{\thesection}{}
+  %\noindent  \LARGE{\textbf{\section[Summary CV]{Christopher Kullenberg, CV}}}  \\
+% also uncomment \setcounter{section}{-1} in the preamble.
+
+\noindent  \LARGE{\textbf{Christopher Kullenberg, CV}}  \\
+\vspace{-2ex}
+\hline
+\normalsize
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%% CONTACT INFORMATION %%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+\begin{tabular}{l l}
+  %original value of hspace is 1in (for letter paper), changed to .5 for a4paper
+ University of Gothenburg    & \hspace{.5in} \href{mailto:christopher.kullenberg@gu.se}{christopher.kullenberg@gu.se} \\
+ Department of Philosophy, Linguistics \& Theory of Science    & \hspace{.5in}  \href{http://christopherkullenberg.se}{christopherkullenberg.se}   \\
+ Box 200             & \\
+ 405 30 Göteborg & \hspace{.5in} Phone: +46 (0) 735-083022 \\
+ SWEDEN & \hspace{.5in} ORCID: \href{http://orcid.org/0000-0002-1577-3570}{0000-0002-1577-3570} \\
+ \\ (Hyperlinks available if your PDF viewer supports it) & \hspace{.5in}  \textbf{Updated: \today} \\
+\end{tabular}
+\end{center}
+
+\vspace{1em}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%% MAIN BODY %%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\noindent \begin{tabular}{@{} l l}
+ \Large{Education}    & \textbf{University of Gothenburg} \\
+     & - \href{http://files.christopherkullenberg.se/doctoraldegreeonline.pdf}{Ph.D., Theory of Science, 2012.} \\
+     & - \href{http://files.christopherkullenberg.se/examengrundutbildningonline.pdf}{M.A., Theory of Science, 2005}. \\
+     & - \href{http://files.christopherkullenberg.se/examengrundutbildningonline.pdf}{B.A., Media \& Communication Science, 2004}. \\
+     & \\
+
+ \Large{Dissertation}    & \href{http://hdl.handle.net/2077/28807}{--- (2012)\emph{The Quantification of Society - A Study of a Swedish Research Institute and}} \\
+    & \parbox{5.0in}{\href{http://hdl.handle.net/2077/28807}{\emph{Survey-based Social Science}.}}
+    & \\
+ \Large{Research}    & \textbf{University of Gothenburg} \\
+     & - Researcher 50\%, 20140601-20180601. \\
+     & Project: ``Taking Science to the Crowd: Researchers, Programmers and Volunteer  \\
+     & Contributors Transforming Science Online.''\\
+     & Marianne \& Marcus Wallenberg Foundation\\
+     & PI: \href{mailto:dick.kasperowski@gu.se}{Dick Kasperowski}, Grant number: \href{https://www.wallenberg.com/MMW/projektanslag-2013}{MMW 2013.0020}.\\
+     & - Researcher 50\%, 20140101-20161231. \\
+     & Project: ``The Co-production of Social Science and Society:   \\
+     & The Case of Happiness studies.''\\
+     & Swedish Research Council (Vetenskapsrådet)\\
+     & PI: \href{mailto:margareta.hallberg@gu.se}{Margareta Hallberg}, Grant number: \href{http://vrproj.vr.se/detail.asp?arendeid=90421}{2012-1117}.\\
+     & - Researcher 50\%, October 2012 – March 2013.\\
+     & Project: ``Subcultures on the Net: Resistance and Engagement in Knowledge Practices'', \\
+     & LETStudio, Pilot project.
+     & \\
+  \Large{Teaching}   & \textbf{University of Gothenburg} \\
+     & - \href{http://files.christopherkullenberg.se/anstallningarGU.pdf}{Instructor, part time, 2014-2015}.\\
+     & - \href{http://files.christopherkullenberg.se/studierektoronline.pdf}{Study Administrator, spring semester 2014}. \\
+     & - \href{http://files.christopherkullenberg.se/anstallningarGU.pdf}{Adjunct Lecturer, part time, 2006-2013}. \\
+     &\textbf{University West} \\
+     & - \href{http://files.christopherkullenberg.se/universitywest.pdf}{Instructor, part time, 2004-2006}. \\
+     & \\
+ \Large{Awards and }    & \textbf{Swede of the Year} \\
+  \Large{Fellowships}   & Awarded by \href{http://www.fokus.se/2011/12/med-datorn-som-vapen/}{Fokus Magazine}, 2011. \\
+                        & \textbf{Best Open Science} \\
+                        & \href{http://www.mynewsdesk.com/se/pressreleases/1st-annual-open-knowledge-awards-announces-the-winners-1684562}{Open Knowledge Awards, 2016}.\\
+     & \\
+  \Large{Languages}   & Swedish (native), English (advanced), German (intermediate), \\
+\Large{and Skills}    & Python programming language (\href{https://courses.edx.org/certificates/f9c30b3913be4004b95813db59432509}{MITx 6.00.1x Introduction to Computer Science}).  \\
+\end{tabular}
+%end
+
+
+\newpage
+%%%%% TABLE OF CONTENTS %%%%
+\tableofcontents
+\newpage
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%__________                                          .__
+%\______   \ ____   ______ ____ _____ _______   ____ |  |__
+% |       _// __ \ /  ___// __ \\__  \\_  __ \_/ ___\|  |  \
+% |    |   \  ___/ \___ \\  ___/ / __ \|  | \/\  \___|   Y  \
+% |____|_  /\___  >____  >\___  >____  /__|    \___  >___|  /
+%        \/     \/     \/     \/     \/            \/     \/
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%% RESEARCH SUMMARY %%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TODO: Fundera på om jag ska ta med Dubrovnik-stipendiet. Ligger i ``files''
+
+
+\renewcommand{\thesection}{\arabic{section}}
+\clearpage
+\newpage
+\setlength\parindent{0cm}
+\section{Research portfolio}
+%\noindent  \LARGE{\textbf{Research}}  \\
+
+    \subsection{Overview}
+    The scope of my research can be divided into four major subject areas that both
+    deepen and widen my disciplinary integration with Theory of Science and Science \&
+    Technology Studies (STS). The two first areas are broad inquiries into the social,
+    historical and epistemic conditions that shape the phenomena of citizen science and quantitative
+    social sciences, respectively. This research has been pursued within long-term,
+    externally funded research projects, and have made use of the theoretical resources
+    that are usually regarded as part of the field of ``Science studies''. Moreover, the main
+    output of these projects has been scholarly, although the research on citizen
+    science has attracted additional interest also from a broader community of volunteer
+    contributors to science and the mass media.\\
+
+    The third area, concerning the social impact of digital technologies, originated as a
+    side-project where I begun analyzing the rapid changes in the media landscape
+    by applying a general philosophical approach to technology. This interest has
+    had its major output in the shape of populariziations and collaborations with
+    a broader public, and I have frequently written for mass media outlets on these
+    issues as well as given numerous interviews.\\
+
+    Finally, in recent years, I have worked to develop digital methods to be able to
+    take advantage of the rich data sources, which in recent times have become
+    easilys accessible to researchers, sometimes under the umbrella term ``digital humanities''.
+    Here I have collaborated with programmers and people working in the library and
+    archive sectors. Besides writing on the theoretical implications
+    of digital methods, I have also published software and repositories of digital
+    material available to the public and other researchers.\\
+
+    As these four areas are quite diverse, I will elaborate on them separately
+    below, and list key publications for each field. \\
+
+
+    \subsubsection{Citizen Science \& Scientific Citizenship}
+    As a researcher in the project ``Taking Science to the Crowd: Researchers,
+    Programmers and Volunteer Contributors Transforming Science Online'' I have had
+    the benefit of studing the emerging trend of citizen science as a trans-disciplinary
+    team effort, working together with researchers from applied IT, pedagogics and engineering. \\
+
+    With my colleague Dick Kasperowski, I have published the largest meta-study
+    to date of the phenomenon of citizen science (1), a study that was well-received also by citizen
+    scientists themselves, and was reported in the mass media. We used
+    scientometric methods to discover multiple strands of research in
+    academic literature to show how two forms of citizen science had emerged
+    independently in the natural and social sciences.\\
+
+    Moreover, I have worked on the theoretical problems of representation and reference
+    in activist-oriented citizen science. In the first issue of the \emph{Journal of Resistance Studies}}
+     I published a study (2) that analysed how grassroot citizen scientists use scientific
+    methods and knowledge to address local environmental problems. I argued that this
+    practice amalgamates scientific methodologies with political struggles of
+    representing local communities, leading to a sort of ``strategic universalism'',
+    in which science becomes an important resource for action. \\
+
+    Furthermore, in collaboration with \emph{Public \& Science} (Vetenskap och allmänhet) and the
+    European Commission's ``Researcher's Night'' I have planned and will execute the
+    citizen humanities project \emph{\href{http://v-a.se/2016/05/efterlyses-skolelever-till-banbrytande-forskningsprojekt/}{Forskarfredag: Anslagstavlan}}.
+    It involves more that one thousand school children collecting bulletin board
+    messages across Sweden using mobile phone cameras. The data will be analysed
+    during the autumn 2016 by a transdisciplinary research team at the universities
+    of Gothenburg and Stockholm.\\
+
+    As citizen science has gained a lot of attention recently, I have also participated in
+    outreach activities, for example by participating in the monthly chat
+    \emph{\href{http://blogs.plos.org/citizensci/2016/05/17/coops-scoop-citizen-science-practitioners-walk-the-walk-with-open-science-on-the-next-citscichat/}{#CitSciChat}},
+    commented Citizen Science on the TV show \emph{\href{https://youtu.be/vG8sZQnU7mU?t=18m1s}{``Vetenskapens värld.''}} and
+    given several interviews. \\
+
+
+      \noindent  \emph{Main publications} \\
+      (1) ---, \& Dick Kasperowski (2016) ``What Is Citizen Science? – A Scientometric Meta-Analysis'', \emph{PLoS ONE}, 11(1): e0147152. DOI: \href{http://dx.doi.org/10.1371/journal.pone.0147152}{10.1371/journal.pone.0147152}.\\
+      (2) --- (2015) ``Citizen Science as Resistance: Crossing the Boundary Between Reference and Representation'', \href{https://gup.ub.gu.se/publication/218601-citizen-science-as-resistance-crossing-the-boundary-between-reference-and-representation}{\emph{Journal of Resistance Studies}}, 1(1).\\
+
+    \subsubsection{The Co-production of Social Science and Society}
+    Already as an undergraduate student I have worked on the problem of how the
+    social sciences are co-constructed with social and historical conditions. As a
+    Ph.D-candidate I approached this problem in my dissertation (2) by conducting a
+    case study of a large Swedish social scientific survey, the SOM-institute. Here I
+    combined a historical perspective that analysed the role of social science in the
+    modern welfare state (1) with a close-up view of the practice of quantification and
+    survey field work. I argued that the practice of quantifying society was closely
+    intertwined with a wider societal demand for knowledge in numbers, and that the social
+    sciences worked as one of several centers of calculation in the modern welfare state.\\
+
+    After defending my Ph.D-thesis, I continued this line of research in the project
+    ``The Co-production of Social Science and Society: The Case of Happiness studies.''.
+    Here I approached a specific field of research in the social and medical sciences:
+    ``Happiness studies''. With my colleague Gustaf Nelhans, I published a scientometric analysis
+    of the historical emergence of happiness studies, using cited references in journal
+    publications as a method for mapping the disciplinary origins and topical foci of
+    what is today known as happiness research. \\
+
+    % ahmed abf
+    % BNP och lycka-artikeln
+
+      \noindent  \emph{Main publications} \\
+      ---, \& Nelhans Gustaf (2015) ``The happiness turn? Mapping the emergence of happiness studies using cited references'', \emph{Scientometrics}, Volume 103, Issue 2, Page 615-630, DOI: \href{http://dx.doi.org/10.1007/s11192-015-1536-3}{10.1007/s11192-015-1536-3}.\\
+      --- (2012) \emph{The Quantification of Society. A Study of a Swedish Research Institute
+      and Survey-Based Social Science}, Department of Philosophy, Linguistics and Theory of Science, University of Gothenburg, Doctoral dissertation,  \href{https://gupea.ub.gu.se/handle/2077/28807}{ISBN 978-91-628-8458-1}. 213 pages.\\
+      --- (2011) ``Sociology in the Making: Statistics as a Mediator between the Social sciences, Practice and the State'', in Ann Rudinow Saetnan, Heidi Mork Lomell, Svein Hammer, \emph{The Mutual Construction of Statistics and Society}, Routledge.\\
+
+
+    \subsubsection{The Social Impact of Digital Technologies}
+    My research on the social impact of digital technologies appeared at first as a theoretical
+    interest. With Karl Palmås, I published the article ``Contagiontology'' in 2009 (3),
+    where we analysed the relationship between new forms of surveillance and emerging
+    marketing practices. We showed how digital technologies enable a new social diagram
+    of control, where meta-data had begun to play a major role both in mass-surveillance
+    and in viral marketing. I expanded this perspective to include also how warfare
+    was transformed in the digital realm (2) and was frequently invited as a commentator
+    on surveillance, both at conferences and by the mass media.\\
+
+    In the project \href{http://letstudio.gu.se/studio-2/subcultures-on-the-net}{``Subcultures on the Net: Resistance and engagement in knowledge practices''},
+    a pilot study funded by the \href{http://letstudio.gu.se/}{LETStudio}, I
+    approached internet activism and the strategies they used to promote a free and
+    open internet (1), returning to a theme that I had analysed a few years earlier (4).\\
+
+    This are of research has been performed in close proximity to communities online.
+    In 2011, as a participant in the activist group Telecomix, I was
+    awarded the prize \href{http://www.fokus.se/2011/12/med-datorn-som-vapen/}{``Swede of the year''} by Fokus Magazine
+    for making public the role of the internet in the Arab Spring. \\
+
+    Since 2008, I have frequently commented on issues of digital technologies
+    in the mass media in more than 50 interviews (including international outlets), and have been invited as a speaker by
+    the Green Group in the European Parliament, Deutsche Welle, The Council of Europe,
+    the Swedish Embassy in Cairo, Reporters Sans Frontieres in Geneva, and by multiple conferences.
+    I have written more than 25 opinion pieces in newspapers on digital technologies and society.\\
+
+      \noindent  \emph{Main publications} \\
+      (1)--- (2013) ``Resistance in hybrid networks: The case of Telecomix'', in Bueti, Federica (ed.), \emph{Move… ment}, London: Book Works.\\
+      (2)--- (2009) ``The Social Impact of IT – Surveillance and Resistance in Present Day Conficts'', \href{http://www.fiff.de/publikationen/fiff-kommunikation/fk-2009/fiff-ko-1-2009/fiko_1_2009_kullenberg.pdf}{\emph{FiFF-Kommunikation}}, 09(1).\\
+      (3)---, \& Palmås, Karl (2009) ``Contagiontology'', \href{http://www.eurozine.com/articles/2009-03-09-kullenberg-en.html}{\emph{Eurozine}}. First published in \emph{Glänta} 2008(4) as ``Smittontologi''.\\
+      (4)--- (2009) ``Den panspektriska tidsålderns motståndsstrategier'', i Lilja, Mona \& Vinthagen Stellan (red) \emph{Motstånd}, Malmö: Liber AB.\\
+
+
+    \subsubsection{Digital Methods in the Social Sciences and Humanities}
+    As a consequence of my interest in the social impact of digital technologies,
+    I began to develop a number of methodological inquiries. My approach was
+    at first theoretical, and I began to introduce sociological concepts from the
+    19th century sociologist Gabriel de Tarde (3, 4) to find a new conceptual
+    ground for analyzing the vast digital material, sometimes referred to as the
+    ``data deluge''.\\
+
+    However, these theoretical discussions needed to be combined with a methodological and
+    empirical approach. While digital material, or ``found data'', is widely and cheaply
+    available, both in open sources and in archives and databases, it also requires
+    technical skills to be turned into systematic scientific data. I approached the
+    field of scientometrics and used this methodology in two large studies (5, 6).\\
+
+    To make full of digital methods, however, it is necessary to be able to write
+    your own programs and to know how to build scientifically valid databases. In
+    2015, and still developing, I learned the Python programming language and began
+    writing software and scripts for my ongoing research (see for example
+    \href{https://github.com/christopherkullenberg}{github.com/christopherkullenberg}).
+    I also learned how to work with SQL databases and Lucene-based search engines for big data.
+    Some of these projects I also equipped with user interfaces, such as
+    \href{https://genuskollen.se/}{genuskollen.se}, and I am currently working
+    on a prototype for rendering all government whitepapers (Statens Offentliga Utredningar)
+    searchable in an open database (see demo with limited dataset at
+     \href{http://offentligautredningar.se/}{offentligautredningar.se}).\\
+
+     Lastly, in digital methods, there is a pressing concern for a re-definition
+     of research ethics. As ``found data'' is often rich in personal information
+     and can be easily abused when not handled correctly, I have addressed these
+     issues with my colleagues (7) to advance what we call the ``data minimization principle'',
+     meaning that the researcher should craft his or her data collection tools
+     to collect and process only the necessary material used for the purpose of
+     the study at hand.\\
+
+     In 2017 I will publish a large Swedish-language edited volume on digital methods in the social
+     sciences and humanities (2), which includes chapters written by prominent Swedish
+     scholars from several disciplines. The target audience is both students,
+     researchers and journalists.\\
+
+      \noindent  \emph{Main publications} \\
+      (1)--- (2016) ``Sökandet efter den digitala politiken'', \href{https://humanit.hb.se/article/view/504/572}{\emph{Human IT}}, 13(2): 34-46.\\
+      (2)--- (2017, forthcoming, eds.) ``Digitala metoder för samhällsvetenskap och humaniora''.\\
+      (3)--- (2015) ``Internetövervakning som metod'', \href{http://gup.ub.gu.se/records/fulltext/220443/220443.pdf}{\emph{Ikaros}}, 2015(1), pp 9–11.\\
+      (4)--- (2012) ``Introduktion'', in \emph{Tre Klassiska Texter – Émile Durkheim, Gabriel Tarde, Max Weber}, fackgranskad av Christopher Kullenberg, Göteborg: Korpen Koloni.\\
+      (5)---, \& Nelhans Gustaf (2015) ``The happiness turn? Mapping the emergence of happiness studies using cited references'', \emph{Scientometrics}, Volume 103, Issue 2, Page 615-630, DOI: \href{http://dx.doi.org/10.1007/s11192-015-1536-3}{10.1007/s11192-015-1536-3}.\\
+      (6) ---, \& Dick Kasperowski (2016) ``What Is Citizen Science? – A Scientometric Meta-Analysis'', \emph{PLoS ONE}, 11(1): e0147152. DOI: \href{http://dx.doi.org/10.1371/journal.pone.0147152}{10.1371/journal.pone.0147152}.\\
+      (7) (in press) Hård af Segerstad, Y. ; Howes, C. ; Kasperowski, D., Kullenberg, C. (2017) ``Studying closed communities on-line: digital methods and ethical considerations beyond informed consent and pseudonymity''. Zimmer, M. & Kinder-Kurlanda, K. (Eds.). \emph{Internet Research Ethics for the Social Age: New Cases and Challenges}. Peter Lang: Digital Formations (Steve Jones, series editor). (Peer-reviewed book chapter, accepted by publisher) \\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%% FUTURE RESEARCH %%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%\subsection{Future research}
+    % Digital methods
+    % Citizen science and Data citizenship, open science osv.
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%% PUBLICATIONS %%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%   1. Skrifter Skrifter förtecknas endast vid en punkt. Ange utgivningsår, ISBN/ISSN samt antal-et sidor.
+%   Den egna insatsen ska tydligt särskiljas vid sampublicering.
+%   a)Monografier
+%   b)Antologier-refereegranskat bidrag: Avser artikel eller konferenspublikation som granskats av oberoende referenter (peer review) -redaktörsgranskat bidrag-redaktörskap -övrigt
+%   c)Artiklar
+%    -refereegranskad: Avser artikel som granskats av oberoende re-ferenter (peer review).
+%    -övrig vetenskaplig: Avser att artikelns innehåll är av vetenskaplig karaktär och riktar sig mot vetenskapssamhället, men att artikeln ej peer review granskats.
+%   d)Opublicerade men av utgivare accepterade manus
+%   e)Övrigt-Används endast när ingen annan publikationstyp är tillämplig. Hit hör t.ex. översättningar, källpublikationer, utredningar, rapporter m.m. Avser även konferensbidrag som har granskats av referenter men inte publicerats i officiell proceeding eller i konferensmed-delande
+
+\clearpage
+\setlength\parindent{0cm}
+\subsection{Publications}
+%\noindent  \LARGE{\textbf{Publications}}  \\
+
+\subsubsection{Monographs}
+    --- (2012) \emph{The Quantification of Society. A Study of a Swedish Research Institute
+    and Survey-Based Social Science}, Department of Philosophy, Linguistics and Theory of Science, University of Gothenburg, Doctoral dissertation,  \href{https://gupea.ub.gu.se/handle/2077/28807}{ISBN 978-91-628-8458-1}. 213 pages.\\
+    --- (2010) \emph{Det Nätpolitiska Manifestet}, Stockholm: Ink bokförlag, ISBN 9789197846912. 80 pages.
+
+\subsubsection{Book chapters}
+  \noindent  \emph{Peer reviewed} \\
+  --- Hård af Segerstad, Y. ; Howes, C. ; Kasperowski, D. et al. (2017, in press) ``Studying closed communities on-line: digital methods and ethical considerations beyond informed consent and pseudonymity''. Zimmer, M. & Kinder-Kurlanda, K. (Eds.). \emph{Internet Research Ethics for the Social Age: New Cases and Challenges}. Peter Lang: Digital Formations (Steve Jones, series editor).. : Peter Lang. \\
+  --- (2011) ``Sociology in the Making: Statistics as a Mediator between the Social sciences, Practice and the State'', in Ann Rudinow Saetnan, Heidi Mork Lomell, Svein Hammer, \emph{The Mutual Construction of Statistics and Society}, New York: Routledge.\\
+
+  \noindent \emph{Editorial review} \\
+  %--- Hård af Segerstad, Y. ; Kasperowski, D. ; Kullenberg, C. (2016) ``Att studera slutna grupper på nätet: Digitala metoder och etiska överväganden''. in Kullenberg, Christopher (Eds.) \emph{Digitala metoder för samhällsvetenskap och humaniora}. \\
+  --- (2014) ``Verkon tunnelit ja niiden kaivajat'', in Brunila Mikael \& Kallio Kimmo (eds.), \emph{Verkko suljettu – Internet ja avoimuuden rajat}, Helsinki: Into kustannus, ISBN 978-952-264-248-6.\\
+  --- (2013) ``Resistance in hybrid networks: The case of Telecomix'', in Bueti, Federica (ed.), \emph{Move… ment}, London: Book Works.\\
+  --- (2009) ``Den panspektriska tidsålderns motståndsstrategier'', in Lilja, Mona \& Vinthagen Stellan (eds) \emph{Motstånd}, Malmö: Liber AB.\\
+  --- (2008) ``Tre frågor om sociologins objektivitet och förhållande till naturvetenskaperna'', in Hallberg, Margareta (eds), \emph{Vi vet något – Festskrift till Jan Bärmark}, Göteborg: Institutionen för idéhistoria och vetenskapsteori, ISBN 978–91–976239–1–9.\\
+
+\subsubsection{Journal articles}
+  \noindent  \emph{Peer reviewed} \\
+  ---, \& Dick Kasperowski (2016) ``What Is Citizen Science? – A Scientometric Meta-Analysis'', \emph{PLoS ONE}, 11(1): e0147152. DOI: \href{http://dx.doi.org/10.1371/journal.pone.0147152}{10.1371/journal.pone.0147152}.\\
+  --- (2015) ``Citizen Science as Resistance: Crossing the Boundary Between Reference and Representation'', \href{https://gup.ub.gu.se/publication/218601-citizen-science-as-resistance-crossing-the-boundary-between-reference-and-representation}{\emph{Journal of Resistance Studies}}, 1(1).\\
+  ---, \& Nelhans Gustaf (2015) ``The Happiness Turn? Mapping the Emergence of Happiness Studies using Cited References'', \emph{Scientometrics}, Volume 103, Issue 2, Page 615-630, DOI: \href{http://dx.doi.org/10.1007/s11192-015-1536-3}{10.1007/s11192-015-1536-3}.\\
+
+  \noindent  \emph{Non-peer review} \\
+    --- (2016) ``Sökandet efter den digitala politiken'', \href{https://humanit.hb.se/article/view/504/572}{\emph{Human IT}}, 13(2): 34-46 (book review).\\
+    --- (2015) ``Internetövervakning som metod'', \href{http://gup.ub.gu.se/records/fulltext/220443/220443.pdf}{\emph{Ikaros}}, 2015(1), pp 9–11.\\
+    --- (2011) ``Bortom Wikileaks - Om nätläckans infrastruktur'', \emph{Ord \& Bild}, 2011(1).\\
+    --- (2009) ``The Social Impact of IT – Surveillance and Resistance in Present Day Conficts'', \href{http://www.fiff.de/publikationen/fiff-kommunikation/fk-2009/fiff-ko-1-2009/fiko_1_2009_kullenberg.pdf}{\emph{FiFF-Kommunikation}}, 09(1).\\
+    ---, \& Palmås, Karl (2009) ``Contagiontology'', \href{http://www.eurozine.com/articles/2009-03-09-kullenberg-en.html}{\emph{Eurozine}}. First published in \emph{Glänta} 2008(4) as ``Smittontologi''.\\
+    --- (2008) ``Robotar och krig'', \emph{Ord \& Bild}, 2008(5).\\
+
+   \noindent   \emph{Pre-prints}\\
+     --- Ponti, M., T Hillman, D Kasperowski, C Kullenberg (2017) ``Getting it Right or Being Top Rank: Games in Citizen Science'', Socarxiv,
+      \href{https://osf.io/preprints/socarxiv/3qrnc/}{https://osf.io/preprints/socarxiv/3qrnc/} \\
+     --- Kasperowski, D., Kullenberg, C., Mäkitalo, Å. (2017) ``Embedding Citizen Science in Research: Forms of engagement, scientific output and values for science, policy and society'', Socarxiv,  \href{https://osf.io/preprints/socarxiv/tfsgh/}{https://osf.io/preprints/socarxiv/tfsgh/}\\
+
+
+\subsubsection{Other publications}
+
+   \noindent \emph{Reports}\\
+   --- Björkvall, Anders, Johan Järlehed, Christopher Kullenberg, Helle Lykke Nielsen,
+Andreas Nord, Tove Rosendal, Sara Van Meerbergen & Gustav Westberg (2017) \href{https://www.forskarfredag.se/filer/ff2016-anslagstavlan-slutrapport.pdf}{Slutrapport
+   Anslagstavlan - Forskarfredags Massexperiment 2016, VA-rapport 2017:1}, Red. Fredrik Bronéus,
+   Stockholm: Vetenskap och Allmänhet, ISSN 1653-6843.\\
+   --- Kullenberg, Christopher (2017) \href{http://www.slu.se/globalassets/ew/subw/lifewatch/publikationer/slw-summary-report-web-170622.pdf}{Open data - buzz word or virtual opportunities?},
+   in \emph{Swedish LifeWatch – a national e-infrastructure for biodiversity data}, ArtDatabanken SLU, ISBN
+978-91-87853-17-3.\\
+
+
+
+  \noindent \emph{Preface and review of translation}\\
+    --- (2012) ``Introduktion'', in \emph{Tre Klassiska Texter – Émile Durkheim, Gabriel Tarde, Max Weber}, fackgranskad av Christopher Kullenberg, Göteborg: Korpen Koloni.\\
+
+  \noindent \emph{Conference contributions, peer reviewed}\\
+  – Kullenberg, C. (2017) ``Talking about #citizenscience'', \href{http://socav.gu.se/english/research/third-nordic-science-and-technology-studies-conference}{Third Nordic Science and Technology Conference, Göteborg, May 31-June2.\\
+  - Kasperowski, D. ; Kullenberg, C. (2016) ``Citizen Humanities: Configuring Interpretation and Perception for Participation''. \emph{Citizen Science – Innovation in Open Science, Society and Policy}, 19–21 May 2016, Berlin, 26-27.\\
+  - Nelhans, G. ; Kullenberg, C. (2016) ``Happiness as a Valuation of Nations: From Margin to Indicator''. \emph{4S/EASST Conference}, Barcelona 2016.\\
+  - Ponti, M; Hagen, N; Hillman, T; Kasperowski, D; Kullenberg, C; Stankovic, I (2015) ``Designing Futures for Learning in the Crowd: New Challenges and Opportunities for CSCL''. In: Lindwall, O., Häkkinen, P., Koschman, T. Tchounikine, P. & Ludvigsen, S. (Eds.) (2015). \emph{Exploring the Material Conditions of Learning: The Computer Supported Collaborative Learning (CSCL) Conference}, Vol. 2 s. 885-888\\
+  - Kasperowski, D; Hagen, N; Kullenberg, C; Walford, A; Smith, K, V; Liborion, M; Prutzer N & Hamid, S, T (2015) ``Joining Reference and Representation — Citizen Science as Resistance Practice''. \emph{Society for Social Studies of Science 2015 Annual Meeting}, November 11-14 Denver, Colorado.\\
+  --- (2008) ``The Panspectrocist Abstract Machine - Machinic Phyla, Territorialities and Social Diagrams''. \emph{The First International Deleuze Studies Conference}, 1 Monday: 11/08/08.\\
+  --- (2008) ``The Objects and Objections of the Social Sciences – The Re-discovery of Epistemic Practice as a Tool for Enhancing Public Participation''. \emph{Ironists, Reformers or Rebels? The Role of the Social Sciences in Participatory Policy Making}, June 26-27th 2008 at Collegium Helveticum, UZH/ETH Zürich, Switzerland.\\
+  --- (2008) ``From State Sociology to Centres of Calculation: the Swedish case''. \emph{Acting with Science, Technology and Medicine 4S-EASST 2008 Rotterdam}, the Netherlands, August 20-23 2008. . 367-368.\\
+
+  \noindent  \emph{Research notes} \\
+    --- (2017) ``Bibliometric probing of the concept 'open science' - a notebook'', \\
+    \href{https://github.com/christopherkullenberg/openscienceliterature/}{https://github.com/christopherkullenberg/openscienceliterature/}. \\
+
+ \noindent  \emph{Unpublished manuscripts}  \\
+   ---(eds) (2017) ``Digitala metoder för samhällsvetenskap och humaniora'', (Edited volume). \\
+
+
+
+  \noindent \emph{Popularizations in news media} \\
+    --- (2015) ``Tankesprång som kopplar ihop världen'', \href{http://www.svd.se/tankesprang-som-kopplar-ihop-varlden}{\emph{SvD Under Strecket}}, 4 September, 2015.\\
+    --- (2014) ``Gazakonfliktens underjordiska liv'', \href{http://www.svd.se/kultur/understrecket/gazakonfliktens-underjordiska-liv_3776810.svd}{\emph{SvD Under Strecket}}, 26 Juli, 2014.\\
+    --- (2011) ``Internet nära oss'', \href{http://www.fria.nu/artikel/88431}{\emph{Fria tidningen}} 2011-05-30.\\
+
+  \noindent \emph{Opinion pieces} \\
+  --- 20160402, Svenska Dagbladet (with Niclas Hagen), \href{http://www.svd.se/empati-och-solidaritet-tar-nya-former-pa-natet}{``Empati och solidaritet tar nya former på nätet''}. \\
+  --- 20160322, Expressen, \href{http://www.expressen.se/debatt/finns-ingen-anledning-att-cyberkapprusta/}{``Det finns ingen anledning att cyberkapprusta''}. \\
+  --- 20151119, Expressen, \href{http://www.expressen.se/debatt/overvakningsfragor-maste-fa-ta-sin-tid/}{``Övervakningsfrågor måste få ta sin tid''}. \\
+  --- 20130907, Expressen, \href{http://www.expressen.se/debatt/nu-maste-vi-stanga-bakdorrarna/}{``Nu måste vi stänga bakdörrarna''.} \\
+  --- 20130611, Expressen, \href{http://www.expressen.se/debatt/det-stora-avslojandet-aterstar-for-snowden/}{```Det stora avslöjandet återstår för Snowden''}. \\
+  --- 20110221, Expressen, \href{http://www.expressen.se/debatt/christopher-kullenberg-akrobatikrekord-i-regeringskonst/}{``Akrobatirekord i regeringskonst''}. \\
+  --- 20101118, SVT Debatt, \href{}{``Wikileaks är större än den häktade Julian Assange''}. \\
+  --- 20100928, SVT Debatt, \href{}{``Socialdemokraterna bör vara stolta över att ha banat väg för The Pirate Bay''}. \\
+  --- 20100907, Svenska Dagbladet, \href{http://www.svd.se/internetoperatorerna-maste-skyddas-fran-upphovsrattsindustrin}{``Internetoperatörerna måste skyddas från upphovsrättsindustrin''}. \\
+  --- 20100717, Svenska Dagbladet (with Marcin de Kaminski), \href{http://www.svd.se/internet-ar-redan-trasigt}{``Internet är redan trasigt''}. \\
+  --- 20090709, Newsmill, \href{}{``Google borde stå på internetmedborgarnas och inte diktaturernas sida''}. \\
+  --- 20090617, Newsmill, \href{}{``Så hjälper The Pirate Bay motståndet i Iran''}. \\
+  --- 20090506, Newsmill, \href{}{``Bloggarna står för den bästa rapporteringen kring EU:s viktigaste fråga''}. \\
+  --- 20090504, Newsmill, \href{}{``Telekompaketet en medborgarrättslig katastrof''}. \\
+  --- 20090429, Expressen, \href{http://www.expressen.se/debatt/sverige-maste-raddas-undan-var-internetfientliga-regering/}{``Sverige måste räddas undan vår internetfientliga regering''}. \\
+  --- 20081219, Svenska Dagbladet, \href{}{``Nya politiska idéer smittar som virus''}. \\
+  --- 20081113, Sydsvenskan, \href{http://www.sydsvenskan.se/2008-11-12/piratjagarlagen}{``Piratjägarlagen''}. \\
+  --- 20081007, Svenska Dagbladet, \href{http://www.svd.se/det-digitala-livet-ar-inte-mindre-verkligt}{``Det digitala livet är inte mindre verkligt''}. \\
+  --- 20080926, Expressen, \href{}{``De förtjänar inte kallas liberaler''}. \\
+  --- 20080916, Expressen (with Mark Klamberg \& Karl Palmås), \href{http://www.expressen.se/kultur/silence-fiction/}{``Silence Fiction''}. \\
+  --- 20080916, Aftonbladet (with Emina Karic), \href{}{``FRA:s signalspaning liknar Sovjetssystemets centraldator''}. \\
+  --- 20080916, Sydsvenskan, \href{}{``Kreativitet bästa motståndet mot FRA''}. \\
+  --- 20080715, Expressen, (with Evelina Wahlqvist), \href{http://www.expressen.se/debatt/ryssland-ar-inte-hotet-bergling/}{``Ryssland är inte hotet Bergling!''}. \\
+  --- 20080709, Svenska Dagbladet, \href{http://www.svd.se/fra-kan-visst}{``FRA kan visst!''}. \\
+  --- 20080704, Aftonbladet, \href{}{``Anti-FRA – den nya liberalismen''}. \\
+  --- 20080616, Expressen, \href{http://www.expressen.se/debatt/fra-lagen-hindrar-fria-forskningen/}{``FRA hotar den fria forskningen''}. \\
+  --- 20080616, Svenska Dagbladet, \href{http://www.svd.se/meddelarskyddet-bort-med-ett-knapptryck}{``Meddelarskyddet borta med ett knapptryck''}. \\
+  --- 20061011, Svenska Dagbladet, \href{http://www.svd.se/bodstrom-forlorar-snart-natkontrollen}{``Bodström förlorar snart nätkontrollen''}. \\
+  --- 20060806, Svenska Dagbladet,  \href{http://www.svd.se/vi-har-inget-att-oroa-oss-for}{``Vi har inget att oroa oss för''}. \\
+
+
+
+   \noindent \emph{Popularizations: book chapters and articles}\\
+     --- (2017, in press) ``Transistorrytm'', \emph{Monad}, No. 2 (2017). \\
+     --- (2016) ``Alla kan forska - Vad är medborgarvetenskap och hur skiljer den sig från vanlig vetenskap'', \emph{Modern filosofi}, 2016(3), 68-69. \\
+     --- (2013) ``Nätets Geopolitik'', in \emph{Det är vår värld – tio unga röster om global solidaritet}, Stockholm: A-smedjan.\\
+     --- (2010) ``Teknik är samhället gjort hållbart… eller?'', in Tovhult Klara (eds) \emph{Kunskap, kommunikation, kontroll – Drömmar och farhågor i informationssamhället}, Stockholm: Sharing is Caring Förlag. \\
+
+    \noindent \emph{Collections}\\
+      ---, \& Lehne, J. (2009) \emph{Resistance Studies Reader 2008}, London and Gothenburg: Resistance Studies Network.\\
+
+    \noindent \emph{Open data repositories}\\
+    --- (2015) \& Nelhans, Gustaf. (2015). The happiness turn? Mapping the
+    Emergence of “Happiness Studies” Using Cited References. Version 1.0. Svensk
+    Nationell Datatjänst. \href{http://dx.doi.org/10.5878/002633}{DOI 10.5878/002633}.
+    \\
+
+    \noindent \emph{Software}\\
+    --- (2015) \emph{Cite.py}, Citation analysis software, \href{https://github.com/christopherkullenberg/Citepy}{github.com/christopherkullenberg/Citepy}.\\
+    --- (2016) \href{http://offentligautredningar.se}{Offentligautredningar.se}, Search engine for Statens offentliga utredningar,\\ \href{https://github.com/christopherkullenberg/offentligautredningar.se}{github.com/christopherkullenberg/offentligautredningar.se}. \\
+    --- (2016) \href{https://genuskollen.se}{Genuskollen.se}, Gender counter algorithm based on names,\\ \href{https://github.com/christopherkullenberg/gendercounter}{github.com/christopherkullenberg/gendercounter}. \\
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%% RESEARCH PROJECTS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%    2. Forskningsprojekt och forskningssamarbeten
+%    a) externfinansierade
+%    b) ledning av projekt
+%    c) medverkan i projekt
+%    d) andra former av forskningssamarbeten (nationellt/internationellt)
+\subsection{Research Projects \& Collaborations}
+
+    \subsubsection{Externally funded}
+    \begin{itemize}
+      \item Researcher 50\%, 2014-2018, \textbf{co-applicant.} \\
+      ``Taking Science to the Crowd: Researchers, Programmers and Volunteer  \\
+      Contributors Transforming Science Online.''\\ Marianne \& Marcus Wallenberg Foundation\\
+      PI: \href{mailto:dick.kasperowski@gu.se}{Dick Kasperowski}, Grant number: \href{https://www.wallenberg.com/MMW/projektanslag-2013}{MMW 2013.0020}.
+      \item Researcher 50\%, 2014-2016, \textbf{co-applicant.} \\
+      ``The Co-production of Social Science and Society: The Case of Happiness studies.''  \\
+      Swedish Research Council (Vetenskapsrådet)\\
+      PI: \href{mailto:margareta.hallberg@gu.se}{Margareta Hallberg}, Grant number: \href{http://vrproj.vr.se/detail.asp?arendeid=90421}{2012-1117}.
+      \item Researcher 50\%, October 2012 – March 2013, \textbf{main applicant.}\\
+      ``Subcultures on the Net: Resistance and Engagement in Knowledge Practices''\\
+      LETStudio, pilot project.
+    \end{itemize}
+
+    \subsubsection{Research collaborations}
+    \begin{itemize}
+      \item Member of the \href{https://citizenscienceassociation.org/overview/steering-committees/#metadata}{Citizen Science Association Working Group for Data and Metadata.}
+      \item Member of the \href{http://letstudio.gu.se/members/christopher-kullenberg}{Learning and Media Technology Studio, LETStudio, University of Gothenburg.}
+      \item Board Member of the \href{http://cassirer.se/sallskapet/styrelse/}{Swedish Ernst Cassirer Society}.
+    \end{itemize}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%% REFEREE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%3. Vetenskapliga bedömningsuppdrag – nationella och internationella
+%a) sakkunnig vid anställning eller för befordran
+%b) opponentskap
+%c) betygsnämndsledamot
+%d) referee på vetenskapliga arbeten
+%e) sakkunnig på forskningsansökningar
+%f) övrigt
+
+\subsection{Referee work}
+    % Lägg till b) opponentskap att jag varit opponent på Eriks slutseminarium
+
+    \subsubsection{Pre-publication reviews}
+    (see also: \href{publons.com/a/1172130/}{publons.com/a/1172130/})\\
+    - 2017. \emph{Lychnos}.\\
+    - 2016. \emph{PLOS ONE}. \\
+    - 2016. \emph{Nordic Journal of Science and Technology Studies}.\\
+    - 2015. \emph{Journal of the Royal Society of New Zealand}. \\
+    - 2015. \emph{Higher Education}.\\
+    - 2015. \emph{Organization Studies}.\\
+    - 2015. \emph{Journal of Resistance Studies}.\\
+    - 2015. \emph{Journal of Resistance Studies}. \\
+
+    \subsubsection{Research applications reviews}
+    \begin{itemize}
+      \item 2017. \href{http://nwo.nl}{Netherlands Organisation for Scientific Research (NWO)}, Veni Research Proposal.
+      \item \href{http://files.christopherkullenberg.se/erc.pdf}{2015. ERC Consolidator Grant Call 2015, European Research Council}.
+    \end{itemize}
+
+    \subsubsection{Editorial board membership}
+    \begin{itemize}
+      \item \href{http://resistance-journal.org/the-old-rs-mag/}{2008 - 2010. Editor \& founder, Resistance Studies Magazine.}
+      \item \href{http://resistance-journal.org/editorialboard/}{2015 - present, Editorial board member, Resistance Studies Journal.}
+    \end{itemize}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%% OTHER MERITS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+      %4. Andra uppgifter i anslutning till forskning på universitets-, fakultets- eller insti-
+      %tutionsnivå
+      %5. Övriga meriter
+      %a) organisation av konferenser
+      %b) konferensinbjudan (plenarföredrag)
+      %c) konferensdeltagande (papers, posters)
+      %d) gästforskare vid utländskt lärosäte
+      %e) övriga inbjudningar
+      %f) priser och andra utmärkelser
+      %g) redaktörskap/redaktionskommitté för tidskrift
+      %h) andra meriter
+
+%\subsection{Conference organization}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%% PUBLIC OUTREACH %%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsection{Public outreach and extra-academic collaborations}
+
+    \subsubsection{Interviews in mass media}
+    % Universitetsläraren om citizen science
+    % - 20160914 - SR P4 Västernorrland ()
+    % kolla upp Universitetsläraren sulftidningen
+
+    % P1 vetenskapsradion om anslagstavlan..
+   %- 20170522 - SR P4 Gävleborg.
+    - 20170503 - SVT Nyheter, \href{https://www.svt.se/nyheter/lokalt/vast/elever-har-kartlagt-anslagstavlor-i-hela-landet}{Kartläggning: Detta står på anslagstavlor}. \\
+    - 20170503 - SR P4 Östergötland, \href{http://t.sr.se/2pdhEBb}{Forskare: Inbjudningar vanligast på anslagstavlor}.\\
+    - 20170117 - Curie, \href{http://www.tidningencurie.se/nyheter/2017/01/17/trycket-okar-gor-forskningsdata-tillgangliga/}{Trycket ökar: Gör forskningsdata tillgängliga}.\\
+    - 20160007 - GU-journalen 5-2016, \href{https://issuu.com/universityofgothenburg/docs/gu-journalen5-2016/34}{``Anslagstavlan''}.\\
+    - 20161008 - Dagens Nyheter, \href{http://www.dn.se/nyheter/sverige/synen-pa-oppen-publicering-delar-forskarna/}{``Synen på öppen publicering delar forskarna''}.\\
+    - 20161005 - Sveriges Radio, Kulturnytt, \href{http://sverigesradio.se/sida/artikel.aspx?programid=478&artikel=6533649}{``Facebooks balansgång mellan globala krav''}.\\
+    - 20161002 - Arbetarbladet, \href{http://www.arbetarbladet.se/gavleborg/sandviken/vilken-betydelse-har-anslagstavlan-i-dag}{``Vilken betydelse har anslagstavlan idag?}.\\
+    - 20160930 - SR P1, \href{http://t.sr.se/2dszL0a}{Vetenskapsradions veckomagasin}.\\
+    - 20160930 - GU-Journalen, \href{https://issuu.com/universityofgothenburg/docs/guj4-2016}{``Macchiarini did not operate in a vacuum''}.\\
+    - 20160929 - Dagens Samhälle, ``Elever med mobilapp fångar analoga anslag''.\\
+    - 20160811 - DagensETC, ``Forskningen har flyttat in i hemmet''. \\
+    - 20160915 - Språktidningen, \href{http://spraktidningen.se/blogg/skolelever-far-prova-pa-forskarlivet}{``Skolelever får pröva på forskarlivet}.\\
+    - 20160530 - P4 Östergötland, \href{http://t.sr.se/1NY9nMZ}{``Landets anslagstavlor ska kartläggas''}. \\
+    - 20160523 - Piteåtidningen – \href{http://www.pt.se/nyheter/pitea/elever-ska-fota-anslagstavlor-10045575.aspx}{``Elever ska fota anslagstavlor''}. \\
+    - 20160316 - Svenska Dagbladet, \href{http://www.svd.se/sanning-inte-viktigt-for-ett-drev/om/natdrev}{``Sanningen inte viktig för ett drev''}. \\
+    - 20160222 - Sveriges Radio - P1 Morgon: \href{http://t.sr.se/1KBHSak}{``Varför vägrar Apple hacka en telefon åt FBI''}. \\
+    - 20160218 - Götheborske Spionen, \href{http://www.spionen.se/140-redaktionellt/reportage/feature/1593-sa-oevervakas-du-via-naetet}{``Så övervakas du via nätet''}. \\
+    - 20160217 - Sesam, ``Vanliga människor hjälper forskare''.\\
+    - 20160211 - Fria tidningen, \href{http://www.fria.nu/artikel/121724}{``Allmänheten är den nya forskaren''}. \\
+    - 20160115 - GU-journalen, \href{https://issuu.com/universityofgothenburg/docs/guj1-2016/32}{``Vi behöver en lag för internet''}. \\
+    - 20160118 - SR P1 Vetenskapsradion, \href{http://t.sr.se/239vggG}{Här rycker medborgarforskaren in.}\\
+    - 20160118 - Miljöaktuellt, \href{http://miljoaktuellt.se/vanligare-att-forskare-tar-hjalp-av-allmanheten/}{``Vanligt med medborgarforskning på miljöområdet''}. \\
+    - 20160119 - Discover Magazine, \href{http://blogs.discovermagazine.com/inkfish/2016/01/19/what-is-citizen-science-good-for-birds-butterflies-big-data/#.Vp9DvPGFB24}{``What Is Citizen Science Good For? Birds, Butterflies, Big Data''}. \\
+    - 20160120 - Journal of Science Communication, \href{http://jcom.sissa.it/node/3076}{``New study on Citizen Science’s impact on scientific research''}. \\
+    - 20151207 - Sveriges Radio - P1 Morgon, \href{http://t.sr.se/1XMYemi}{``Vad innebär de nya åtgärderna mot terrorism?''}. \\
+    - 20150729 - ARTE, Tracks, \href{http://tracks.arte.tv/fr/christopher-kullenberg-world-war-web}{``Christopher Kullenberg, World War Web''.} \\
+    - 20150601 - Hallands Nyheter, ``Kommunen betalar med informationen''.\\
+    - 20150323 - Sveriges Television Vetenskapens Värld, \href{https://youtu.be/vG8sZQnU7mU?t=18m1s}{``Medborgarforskning.''} \\
+    - 20150103 - SVT Nyheter, \href{http://www.svt.se/nyheter/utrikes/gmail-senaste-malet-for-kinas-natcensur?cmpid=del:pd:ny:20160803:gmail-senaste-malet-for-kinas-natcensur:nyh}{``Gmail senaste offret för Kinas nätcensur''}. \\
+    %- 20140415 \href{http://sverigesradio.se/sida/artikel.aspx?programid=1646&amp;artikel=5837822}{SR P3, Är lagstiftning rätt väg för att stoppa näthatet?}. \\
+    - 20141108 - Sydsvenskan, ``Anonymitet hotad för knarkköpare''. \\
+    - 20140329 - Sydsvenskan, \href{http://www.sydsvenskan.se/2014-03-29/okad-avlyssning-kraver-nya-motvapen}{``Ökad avlyssning kräver nya motvapen''}.\\
+    - 20131021 - SR P4, \href{http://t.sr.se/NC8sUF}{``Övervakningens nödutgångar''}. \\
+    - 20130912 - Aftonbladet, \href{http://www.aftonbladet.se/nyheter/vetmer/article17455373.ab}{``Ditt finger i deras händer''}. \\
+    - 20130907 - Information.dk, \href{http://www.information.dk/471440}{``Det er godt, at vi smadrer myten om det frie internet''}. \\
+    - 20130906 - Sveriges Radio P1, \href{http://t.sr.se/OfP0gG}{``Hur trygga är vi på nätet?''} \\
+    - 20130719 - Dagens Nyheter, \href{http://www.dn.se/kultur-noje/sjalvforstorande-bilder-gor-succe/}{``Självförstörande bilder gör succe''}. \\
+    - 20130615 - Helsingborgs Dagblad, \href{http://www.hd.se/2013-06-15/storebror-ser-dig---men-bryr-vi-oss}{``Storebror ser dig, men bryr vi oss?''} \\
+    - 20130613 - Arbetaren, ``Obama-administrationen måste förklara sig''. \\
+    - 20130607 - Sverige Radio P3, \href{http://t.sr.se/MiZb35}{``Korrerapporten.''} \\
+    - 20130601 - Utbildningsradion, \href{http://urskola.se/Produkter/176858-UR-Samtiden-Overvakning-och-kontroll-Internetovervakning-och-revolutioner}{``Internetövervakning och revolutioner''.} \\
+    - 20130217 - Sydsvenskan, \href{http://www.sydsvenskan.se/2013-02-17/tecken-i-tiden}{``Tecken i tiden''}.\\
+    - 20130214 - Internetworld, \href{http://www.idg.se/2.1085/1.492033/han-driver-pa-for-ett-oppet-nat}{``Han driver på för ett öppet nät.''}. \\
+    - 20121004 - Sveriges Radio Studio ett, \href{http://t.sr.se/1foOdCK}{``Simulerade och verkliga nätattacker.''} \\
+    - 20120430 - Sveriges Radio Studio ett, \href{http://t.sr.se/1cRSOfk}{``Kan man lita på Wikipedia?''} \\
+    - 20120321 - Nerikes Allehanda, \href{http://na.se/nyheter/orebro/1.1589481--de-som-inte-vill-blir-inte-upptackta-}{``De som inte vill bli upptäckta''}. \\
+    - 20120306 - Internetworld, \href{http://www.idg.se/2.1085/1.435933/kreativiteten-ar-inte-individuell}{``Kreativiteten är inte individuell''}. \\
+    %- 20120301 - Akademisk kvart, \href{http://www.youtube.com/watch?v=-HYfVmanye8}{``Humanistisk forskning och engagemang''}. \\
+    - 20111226 - Forbes, \href{http://www.forbes.com/sites/andygreenberg/2011/12/26/meet-telecomix-the-hackers-bent-on-exposing-those-who-censor-and-surveil-the-internet/}{``Meet Telecomix, The Hackers Bent On Exposing Those Who Censor And Surveil The Internet''}. \\
+    - 20111204 - SR P4 Jönköping, \href{http://t.sr.se/1gy095E}{``Christopher från Bodafors är Årets svensk.''} \\
+    - 2011 - ARTE, TRACKS, ``Christopher Kullenberg'', Also on Youtube: \href{https://www.youtube.com/watch?v=a3ppeRZHVcY}{https://www.youtube.com/watch?v=a3ppeRZHVcY}.\\
+    - 20111206 - Voxeurop, \href{http://www.voxeurop.eu/en/content/article/1254651-cyber-revolutionary-tahrir-square}{``The cyber-revolutionary on Tahrir Square''}. \\
+    - 20111206 - Washington Post, \href{https://www.washingtonpost.com/lifestyle/style/the-hacktivists-of-telecomix-lend-a-hand-to-the-arab-spring/2011/12/05/gIQAAosraO_story.html}{``The ‘hacktivists’ of Telecomix lend a hand to the Arab Spring''}. \\
+    - 20111201 - Fokus, \href{http://www.fokus.se/2011/12/med-datorn-som-vapen/}{``Med datorn som vapen''}. \\
+    %- 20111108 - Dagens Nyheter, \href{http://humaninternet.info/intervjuwl.jpg}{Dagens Nyheter}. \\
+    %- 20111023 - FN-dagen, {``Sociala medier och den arabiska våren''}. \\
+    - 20110811 - Wired.it, \href{http://daily.wired.it/news/internet/2011/08/11/telecomix-hacker-egitto-tunisia-iran-13861.html}{``Telecomix, gli hacker di una volta''}. \\
+    %- 20110810 - SR Sahlberg i P1 - “Den Kinesiska Nätcensuren”. Download as \href{http://humaninternet.info/SRKina20110810.ogg}{.ogg}. \\
+    %- 20110626 - SR Godmorgon Världen \href{http://humaninternet.info/SR_GV_20110626.mp3}{mp3}. \\
+    %- 20110611 - Brunchrapporten (P3):\href{http://sverigesradio.se/topsy/ljudfil/3187937.mp3}{whole program (MP3)}. \\
+    - 20110607 - Computer Sweden, \href{http://computersweden.idg.se/2.2683/1.388901/han-praktiserar-yttrandefrihet}{``Han praktiserar yttrandefrihet''}. \\
+    - 20110606 - Dagens Nyheter, \href{http://www.dn.se/nyheter/varlden/sa-begransar-syrien-friheten-pa-internet}{``Så begränsar Syrien internet.''} \\
+    %- 20110526 - SR P3 Brunchrapporten \href{http://humaninternet.info/brunchrapporten20110526.ogg}{OGG direct download} \\
+    - 20110407 - SR P1 Obs!, \href{http://t.sr.se/1zjt3PQ}{``Internet, Gud och människan''}. \\
+    - 20110407 - SR P1, \href{http://t.sr.se/PbptWr}{``Internet, ett nytt politiskt subjekt?''} \\
+    - 20110407 - Hackerspaces Signal Radio, \href{http://signal.hackerspaces.org/archive/2011-04-07-2200-hacktivism-hour.mp3}{``Hacktivism hour''}. \\
+    - 20110322 - Jusektidningen, \href{http://www.tidningenkarriar.se/Arkivet/2011/3/Anarkistisk-hjalte/}{``En anarkistisk hjälte''}. \\
+    %- 20110309 \href{http://sverigesradio.se/sida/artikel.aspx?programid=2422&amp;artikel=4390966}{SR P4 Göteborg}. \\
+    %- 20110308 \href{http://humaninternet.info/S146_hacktivistes_web.ogv}{.ogv}. \\
+    - 20110308 - Dagens Nyheter, \href{http://www.dn.se/vart-internet/vart-internet-hem/sa-kan-stater-hota-friheten-pa-natet/}{``Så kan stater hota friheten på nätet''}. \\
+    - 20110224 - Dagens Nyheter, \href{http://www.dn.se/vart-internet/vart-internet-hem/din-chatt-en-sakerhetsrisk/}{``Din chatt - en säkerhetsrisk''}. \\
+    - 20110221 - Sveriges Radio Studio ett, \href{http://t.sr.se/1cUlHfI}{``Studio Ett- extrasändning om Libyen.''} \\
+    - 20110214 - Sveriges Radio Studio ett, \href{http://t.sr.se/1D1zCXq}{``Iran - oppositionen uppmanar till demonstrationer.''} \\
+    - 20110202 - PC-facile, \href{http://www.pc-facile.com/news/come_comunica_egitto_senza_internet/68959.htm}{``Come comunica l'Egitto senza Internet''}. \\
+    - 20110201 - New Scientist, \href{http://www.newscientist.com/blogs/onepercent/2011/02/egypt-remains-officially-offli.html}{``How Egypt is getting online without the internet''}. \\
+    - 20110131 - Deutsche Welle, \href{http://www.dw.com/en/european-activists-offer-dial-up-internet-to-get-egypt-back-online/a-14807049}{``European activists offer dial-up Internet to get Egypt back online''}. \\
+    - 20110131 - Radio Netherlands, \href{http://www.rnw.nl/english/article/dust-your-dialup-modem-contact-egypt}{``Dust off your old modem for Egypt''}. \\
+    - 20110131 - Huffington Post,  \href{http://www.huffingtonpost.com/2011/01/29/anonymous-internet-egypt_n_815889.html}{``Anonymous Internet Users Team Up To Provide Communication Tools For Egyptian People''}. \\
+    - 20110129 - Sveriges Television, \href{http://www.youtube.com/watch?v=HRZ0QKyiFsE&amp;feature=related}{``Rapport''.} \\
+    %- 20110129 \href{http://sverigesradio.se/sida/artikel.aspx?programid=1300&amp;artikel=4319039}{SR P1 Konflikt}. \\
+    %- 20110128 - SR P1 \href{http://humaninternet.info/srp1egypten.ogg}{ogg}. \\
+    %- 20110128 - YLE Radio Vega, (at 38:40 in this \href{http://humaninternet.info/YLE20110128.ogg}{ogg}. \\
+    %- 20110126 - SR Obs!, \href{http://static.sr.se/laddahem/podradio/SR_p1_obs_110126020100.mp3}{this show (mp3)}. \\
+    - 20110114 - Hackerspaces Signal Radio, \href{http://signal.hackerspaces.org/archive/2011-01-13-2200-hacktivism-hour.mp3}{``Hackerspaces Signal Radio''}. \\
+    - 20110117 - Svenska Dagbladet,  \href{http://www.svd.se/stjarnlackan-far-konkurrens}{``Stjärnläckan får konkurrens''}. \\
+    - 20101220 - Hufvudstadsbladet, ``En rörelse som inte går att stoppa''.\\
+    %- 20101211 - SR P3 Brunchrapporten, \href{http://humaninternet.info/SR_p3_brunch_101209013544.mp3}{MP3}. \\
+    - 20101206 - SR P1 Studio ett, \href{http://t.sr.se/1CQkYCj}{``Nätfriheten hotas''}. \\
+    - 20101115 - SR P3 Brunchrapporten, \href{http://t.sr.se/RI5PTm}{``Cyberkrig, digital atombomb och hackersoldater''}. \\
+    - 20101017 - Sydsvenskan, \href{http://www.sydsvenskan.se/2010-10-17/trollen-harskar-i-natets-utmarker}{``Trollen härskar i nätets utmarker''}. \\
+    - 20100611 - NRLI TV @ Hacknight, \href{http://www.youtube.com/watch?v=VhmH6cJZS4k&amp;feature=related}{``How to Hack Politics. Part II Interview with Christopher Kullenberg''}. \\
+    - 20100601 - Sveriges Radio P3 Brunchrapporten, \href{http://t.sr.se/1cnEijY}{``Kommunikationsstopp för Ship to Gaza''.} \\
+    - 20090729 - Dagens Nyheter, \href{http://www.dn.se/kultur-noje/nyheter/internatet-som-vill-bygga-om-eu/}{``Internätet som vill bygga om EU''}. \\
+    - 20090427 - Peppar.fi, ``EU Röstar om internets framtid''. \\
+    - 20090422 - Dagens Nyheter, \href{http://www.dn.se/kultur-noje/musik/for-tidigt-ropa-hej-internet-inte-raddat/}{``För tidigt ropa hej - internet inte räddat''}. \\
+    - 20090416 - Dagens Nyheter \href{http://www.dn.se/kultur-noje/en-krigsforklaring-mot-internet/}{``En krigsförklaring mot internet''}. \\
+    - 20081215 - GU-Journalen, \href{http://www.gu-journalen.gu.se/english/News/News_detail/?contentId=855527}{``Journal across boundaries''}. \\
+    - 20081219 - Sheffield Live! Radio, \href{http://www.dcs.shef.ac.uk/%7Enoel/soundofscience/Prog%2032.mp3}{``Sound of Science''}. \\
+    - 20080626 - Proletären, \href{http://www.proletaren.se/inrikes/%E2%80%9Dfra-lagen-hotar-kritisk-forskning}{``FRA-lagen hotar kritisk forskning''}.
+
+    \subsubsection{Invited speaker}
+    - 20170426 - \href{https://ecsa.citizen-science.net/sites/default/files/draft_agenda_second_workshop_appsplatforms.pdf}{``Collecting Social Science Data with Smartphone Apps and School Children''}, ECSA workshop ``Defining Principles for Mobile Apps and Platforms Development in Citizen Science'', Gothenburg, Sweden. \\
+    - 20170330 - ``Vad händer om vi inte kan enas om vad som är sant?'', \href{http://flov.gu.se/aktuellt/Nyheter/fulltext//oppet-hus-pa-flov-med-panelsamtal-om-alternativa-fakta-och-informationsbubblor.cid1428426}{FLoV, Göteborgs Universitet}.\\
+    - 20170329 - ``Vad är på gång inom citizen science?'', \href{http://www.vinnova.se/sv/Aktuellt--publicerat/Kalendarium/2017/170329-Informationsmote-Vetenskap-med-och-for-samhallet/}{Informationsmöte Vetenskap med och för samhället Horisont 2020}, Vinnova, Stockholm. Lecture available on \href{https://youtu.be/HHW0j7Zo5E0}{Youtube}.\\
+    - 20161214 - ``Digital methods - Theory, Practice and Ethics'', Higher seminar, Karlstad University.\\
+    - 20161116 - \href{http://www.stadsbiblioteket.nu/tusen-plataer/}{``Tusen platåer''}, Göteborg, Stadsbiblioteket.\\
+    - 20161028 - ``Statens offentliga utredningar digitaliserade'', Högre seminarium, Idéhistoria, Lunds universitet.\\
+    - 20161012 - \href{https://v-a.se/events/va-dagen-2016/}{``VA-Dagen 2016 om öppen vetenskap''}, Stockholm. \\Video: \href{https://youtu.be/CUNnddKvZ9o?t=43m52s}{https://youtu.be/CUNnddKvZ9o?t=43m52s}.\\
+    - 20160922 - \href{http://flov.gu.se/aktuellt/Nyheter/fulltext//sju-filosofer-forelaser-pa-bokmassan-.cid1403852}{``Kan alla forska?''}, Forskartorget, Bokmässan, Göteborg. \\
+    - 20160921 - \href{http://kompetensutveckling.adm.gu.se/seminar/detail/2260}{``Att nå ut via sociala medier''}, University of Gothenburg. \\
+    - 20160912 - \href{http://www.kb.se/aktuellt/utbildningar/2016/Kulturarvet-som-ettor-och-nollor--Del-3-Digital-humaniora/}{``Kulturavet som ettor och nollor''}, National Library of Sweden.\\
+    - 20160209 - \href{http://www.abfgoteborg.org/index.php/archive/2016/170-filosofiscenen-2016/2208-sarah-ahmed-lycka-och-falskt-medvetande}{``Sara Ahmed - lycka, olycka och falskt medvetande''}, ABF, Göteborg, Sweden.\\
+    - 20150929 - \href{http://hum.gu.se/aktuellt/Nyheter/fulltext//nackrostimmen--spionen-i-fickan-som-overvakar-oss.cid1324880}{``Spionen i Fickan''}, Näckrostimmen, University of Gothenburg.\\
+    - 20151209 - \href{http://fhp.nu/tusenplataer}{``Samtal om Tusen Platåer''}, Bio Rio, Stockholm, Sweden.\\
+    - 20151020 - \href{http://www.kb.se/aktuellt/evenemang/2015/SOUhack/}{``Statens röst digitaliserad''}, National Library of Sweden. \\
+    - 20141126 - \href{http://www.wherevent.com/detail/Goteborgs-Konsthall-TUNNELPOLITIK-Forelasning-med-Christopher-Kullenberg}{Tunnelpolitik}, Konsthallen, Gothenburg.
+    - 20141122 - \href{https://www.facebook.com/events/622473101197803/}{``Re-building a common internet''}, Verkko Suljettu, Helsinki, Finland. \\
+    - 20140604 - \href{http://www.urbsec.se/digitalAssets/1483/1483366_program-urbsec-konferens-2014-06-04.pdf}{``Forskning, allmänhet, innovation – Crowd Science som nytt forskningsparadigm'', URBSEC, Gothenburg, Sweden.} \\
+    - 20130223 - \href{http://www.frilansjournalisten.nu/2013/01/sasong-for-arsmoten/}{``Kommunikation och nätet''}, Smålands Frilansklubb, Växjö, Sweden. \\
+    - 20121207 - \href{http://letstudio.gu.se/svenska/aktuellt/nyheter/n/christopher-kullenberg-inbjuden-som-talare-pa-internationell-konferens.cid1111971}{``Does Internet freedom have a price? Examples from the Arab Spring''}, \href{http://www.hre2012.uj.edu.pl/invited-speakers}{The Third International Conference on Human Rights Education, Jagiellonian University, Krakow, Poland.} \\
+    - 20121105 - \href{https://www.youtube.com/watch?v=Zo24Qy_PU8I}{``Vilken roll spelar de nya internetbaserade medierna i samhällsförändrande aktiviteter?''}, Sigmas inspirationsdag, Gothenburg, Sweden. \\
+    - 20120822 - \href{https://transmediale.de/content/resource-002-out-place-out-time}{``reSource 002: Out of Place, Out of Time''}, Transmediale, Berlin, Germany. \\
+    - 20120509 - \href{http://pol.gu.se/aktuellt/kalendarium/aktuellt_detalj/?eventId=1777397828}{''The Arabic Spring. Internet and social media - crucial tools in organizing the civil uprisings in Tunis and Egypt.''}, Brännpunkt Europa, University of Gothenburg. \\
+    - 20120301 - \href{http://www.youtube.com/watch?v=-HYfVmanye8}{``Humanistisk forskning och engagemang''}, Akademisk kvart, University of Gothenburg, Sweden. \\
+    - 20111124 - \href{https://www.youtube.com/watch?v=zWROWpMaKmE}{``Our Internet - Our Rights, Our Freedoms''}, Council of Europe, Vienna, Austria. \\
+    - 20111119 - ``What will be the needs of tomorrow's leaders'', Swedish Embassy Cairo, Cairo, Egypt. \\
+    - 20111022 - \href{http://www.youtube.com/watch?v=6Mi0g93ModU}{``Nätaktivism – nya möjligheter men också faror''}. Svenska FN-förbundet, Göteborg, Sweden. \\
+    - 20111304 - \href{http://www.rsf-ch.ch/anonymat-des-communications-s%C3%A9curit%C3%A9-des-donn%C3%A9es-protection-des-sources-0}{``Anonymat des communications, sécurité des données, protection des sources''}, Reporters Sans Frontieres, Geneva, Switzerland. \\
+    - 20100504 - ``Greens/EFA and Activists Workshop on ACTA and the Public interest'', European Parliament, Brussels, Belgium. \\
+    - 20090604 - \href{https://issuu.com/deutsche-welle/docs/program-deutsche-welle-global-media-forum-2009}{``Information Technology: Provoking or Preventing Conflict''}, Deutsche Welle Global Media Forum, Bonn, Germany. \\
+    - 20091107 - \href{https://vimeo.com/10286077}{``Net Neutrality, Surveillance and how to Re-build Politics''}, Free Society Conference, Gothenburg, Sweden. \\
+    - 20091103 - \href{https://internetdagarna.se/arkiv/2009/program-2009/3-november.html}{``Revision av telekompaketet''}, Internetdagarna, Stockholm, Sweden. \\
+    - 20091028 - ``Invited speaker by the Ministry of Enterprise, Energy and Communications on the implementation of the Telecoms Package'', Government of Sweden, Stockholm, Sweden.\\
+    - 20090111 - \href{https://www.youtube.com/watch?v=G9cXIKvywvs}{``Lightning talk: Resistance Studies Magazine''}, 25th Chaos Communication Congress, Berlin, Germany.\\
+    - 20081108 - \href{http://www.fiff.de/veranstaltungen/fiff-jahrestagungen/fiff-jahrestagung-2008-krieg-und-frieden-digital/Programmheft.pdf/at_download/file}{``The social impact of IT''}, Krieg und Frieden Digital, Aachen, Germany.
+
+
+
+%___________                  .__    .__
+%\__    ___/___ _____    ____ |  |__ |__| ____    ____
+%  |    |_/ __ \\__  \ _/ ___\|  |  \|  |/    \  / ___\
+%  |    |\  ___/ / __ \\  \___|   Y  \  |   |  \/ /_/  >
+%  |____| \___  >____  /\___  >___|  /__|___|  /\___  /
+%             \/     \/     \/     \/        \//_____/
+
+% U N D E R V I S N I N G
+\clearpage
+\setlength\parindent{0cm}
+
+\section{Teaching portfolio}
+
+  \subsection{Overview}
+  For the past decade I have instructed both disciplinary and interdisciplinary courses
+  in Theory of Science and Media \& Communication Studies, on all levels of education.
+  I have supervised 23 completed bachelor- and master's theses and I am currently
+  co-supervising one Ph.D-candidate. \\
+
+  As a theorist of science, I have taught students from the natural-,
+  medical-, social- and human sciences. I have been the principal
+  instructor of the large cross-faculty course  \href{http://files.christopherkullenberg.se/kursplaner/NTH001_Teoretiska_och_historiska_perspektiv_pa%cc%8a_naturvetenskap_10512.pdf}{``Theoretical and Historical Perspectives on Science''},
+  which hosts up to 100 students from the natural sciences. During this time I
+  developed the course with the purpose of not only of deepening the student's
+  knowledge on the sociology and history of science, but I also created excercises
+  in peer review to introduce them to the core epistemic practice of science.\\
+
+  I have also taught the core disciplinary course \href{http://files.christopherkullenberg.se/kursplaner/VT2106_Klassisk_vetenskapsteori_13187.pdf}{``Classical Theory of Science''},
+  both on basic and advanced levels. \\
+
+  During the spring semester of 2014 I was \href{http://files.christopherkullenberg.se/studierektoronline.pdf}{Study administrator (studierektor)} for the subject of theory of science. \\
+
+  During 2004-2006 I taught courses in Media- \& Communication studies and Strategic Communication
+  at the \href{http://files.christopherkullenberg.se/universitywest.pdf}{University West} and supervised bachelor's theses in the same subjects.
+  At the University of Gothenburg I have been the principal instructor of the course
+  \href{http://files.christopherkullenberg.se/kursplaner/KT2102.pdf}{``Communication in New and Social Media''} and supervised master's theses in communication studies.
+  With Dick Kasperowski I developed the course \href{http://files.christopherkullenberg.se/kursplaner/KT2110.pdf}{``Communication of Scientific Knowledge''}.\\
+
+
+
+    %1. Egen pedagogisk utbildning
+    % - högskolepedagogisk kurs
+    % - handledarutbildning (obligatorisk)
+    \subsection{Formal education, Teaching in higher education (Högskolepedagogik)}
+    \begin{itemize}
+      \item \href{http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf}{2006. Teaching and Learning in Higher Education} (\href{http://files.christopherkullenberg.se/PE0940.pdf}{Högskolepedagogik för lärare, PE0940}), 7.5 ECTS.
+      \item \href{http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf}{2006. Supervision in Postgraduate Education} (\href{http://files.christopherkullenberg.se/PD0180.pdf}{Högskolepedagogisk handledning, PD0180}), 7.5 ECTS.
+      \item 2016. Formal credits for the course \href{http://kursplaner.gu.se/svenska/HPE102.pdf}{HPE102 Teaching and learning in Higher Education 2: Discipline Specific Pedagogic}.
+    \end{itemize}
+
+
+    \subsection{Courses \& Thesis supervision, graduate level}
+    %2. Undervisning och handledning
+    %a) på grund och/eller avancerad nivå
+    % - bredd och omfattning
+    % - handledning
+    % - kursutveckling
+    % - tvärvetenskapligt samarbete
+    % - övrig
+
+        \subsubsection{Theory of Science}
+        \noindent \emph{Course administrator and teacher:}
+        \begin{itemize}
+          \item 2013. \href{http://files.christopherkullenberg.se/kursplaner/FHV241Strimman.pdf}{``FHV241 The Strand: People, Knowledge and Public Health Practice''}, 6 ECTS, (Strimman, moment 1: Tre konstruktioner av människan och folkhälsoarbete i praktiken), 1.5 ECTS, Second cycle, University of Gothenburg.
+          \item 2007 - 2014. (Course administrator 2012 - 2013). \href{http://files.christopherkullenberg.se/kursplaner/NTH001_Teoretiska_och_historiska_perspektiv_pa%cc%8a_naturvetenskap_10512.pdf}{``NTH001 Theoretical and Historical Perspectives on Science, 7.5 ECTS}, First cycle, University of Gothenburg.
+          \item 2014. \href{http://files.christopherkullenberg.se/kursplaner/VT1101_Introduktion_i_klassisk_vetenskapsteori__grundkurs_13185.pdf}{``VT1101 Classical Theory of Science, Introductory Course (Introduktion till klassisk vetenskapsteori)''}, 15 ECTS, First cycle, University of Gothenburg.
+          \item 2014. \href{http://files.christopherkullenberg.se/kursplaner/VT2106_Klassisk_vetenskapsteori_13187.pdf}{``VT2106 Classical Theory of Science (Klassisk vetenskapsteori)''}, 15 ECTS, Second cycle level, University of Gothenburg.
+        \end{itemize}
+
+        \subsubsection{Media \& Communication Studies, Strategic Communication}
+             \noindent \emph{Course administrator and teacher:}
+             \begin{itemize}
+               \item 2012 - 2013. \href{http://files.christopherkullenberg.se/kursplaner/KT2102.pdf}{``Communication in New and Social Media''}, 7.5 ECTS, Second cycle, University of Gothenburg
+               \item 2005. ``Media, Individual and Every-day Life'', 7.5 ECTS, Basic level, University West.
+               \item 2005. ``Strategic Communication'', 7.5 ECTS, Basic level, University West.
+             \end{itemize}
+
+             \noindent \emph{Thesis supervision:} \\
+             - Sofie Andersson (2013) ``Det kommunikativa målarbetet – en kommunal budgetresa från politiker till medarbetare'', University of Gothenburg.\\
+             - Malin Arosilta (2013) ``Demokratiska värden som varumärke - En studie om ''Göteborg 2021''.'', University of Gothenburg.\\
+             - Anna Cöster (2013) ``Att vara kyrka på internet. Svenska kyrkan i sociala medier.'', University of Gothenburg.\\
+             - Charlotta Dahlberg (2013) ``Utbildning till salu – gymnasieskolors kommunikativa strategier. '', University of Gothenburg.\\
+             - Jenny Fogelberg (2013) ``Kommunen i sociala medier–transparens och medborgardialog i Varbergs kommun.'', University of Gothenburg.\\
+             - Daniel Alexander Jansson (2013) ``Felaktiga Förväntningar – en studie av Arbetsförmedlingens kommunikation mot ungdomar'', University of Gothenburg.\\
+             - Sven Lindström (2013) ``Vad håller vi på med? – En kartläggning av kommunikationsprocessen kring kampanjen ”Vad håller du på med?”'', University of Gothenburg.\\
+             - Sunanda Malm (2013) `` Målförståelse, kommunikation och varumärkesarbete på en svensk myndighet, sett ur ett medarbetarperspektiv'''', University of Gothenburg.\\
+             - Maria Pettersson (2013) ``''Vissa saker är bara jävligt svårt att prata om'' – Om ungas användning av internet för terapeutiska samtal.'', University of Gothenburg.\\
+             - Annie Sjölund (2013) ``Skall man skjuta får man ju vårda också'' - En studie om sjuksköterskors uppfattningar om Försvarsmakten'', University of Gothenburg.\\
+             - Agneta Slonawski (2013) ``”Jag tror man mest söker information hos kompisar eller på nätet.” - Förutsättningar för att nå unga med information om alkohol och droger för Mini-Maria Göteborg.'', University of Gothenburg.\\
+             - Karin Svenner (2013) ``''Synen på kommunikation – en kvalitativ innehållsanalys av femton kommunikationspolicyer i offentlig förvaltning\\
+             - Lovisa Vasiliou (2013) ``1.000 bilder av Värmland - En studie av Region Värmlands kommunikationsprocess inför skrivandet av Värmlandsstrategin'', University of Gothenburg.\\
+             - Jörgen Wade (2013) ``Förväntningar på socialt intranät och vilken syn på organisationskommunikation dessa förväntningar reflekterar'', University of Gothenburg.\\
+             - Charlotta Windeman och Linda Andreasson (2006) ``Meningen måste ju vara att få folk till butiken : en kvalitativ studie av ICA respektive Coop:s profiler och images'',	University West, Media \& Communication studies. \\
+             - Andreas Johansson och Ellinor Wetterblad (2006) ``Organisationers medierelationer : en kvantitativ kartläggning av organisationers mediekontakt och medieverktyg'',	University West, Media \& Communication studies. \\
+             - Lars Karlsson (2006) ``Primitiv och utan identitet : en kvalitativ analys av synen på ``den andre'' i Metros pratbubbletävling'',	University West, Media \& Communication studies. \\
+             - Tobias Hagrenius (2006) ``Samma nyheter i olika tidningar? en kvalitativ innehållsanalys på tre gratistidningar'',	University West, Media \& Communication studies. \\
+             %- Susanne Gebauer och Malin Schöldstein (2006) 	University West, Media \& Communication studies. \\
+             %- Katarina Clendinning och Malin Lith  (2006)	University West, Media \& Communication studies. \\
+             - Jelena Siric, Lorans Zaya (2005) ``Släpp in mig, yao! En studie om den kontroversiella tidningen Gringo'', 	University West, Media \& Communication studies. \\
+             - Jeanette Borg, Karolina Colliander (2005) ``Kolla - Kollektivtrafik åt alla'',	University West, Media \& Communication studies. \\
+             - Annika Jonasson och Tina Nyrén (2005) ``Terrorism är kommunikation. En diskursanalys av Aftonbladet, Dagens Nyheter och Svenska Dagbladets rapportering av terrordåden vid München 1972, Lockerbie 1988 och World Trade Center 2001'', University West, Media \& Communication studies. \\
+             - Daniel Sjöberg (2004) ``Ideologi i amerikanska programprodukter – En receptionsanalys av programmet L-Word baserad på kvalitativa intervjuer med elva respondenter''. University West, Media \& Communication studies. \\
+             - Christina Axelsson och Helena Johansson (2004) ``LunarStorm - Framtidens fritidsgård? En kvalitativ studie om unga människors användning av Internetcommunities och deras inställningar till betaltjänster'', University West, Media \& Communication studies. \\
+
+    %b) på forskarnivå
+    % handledning av doktorander (skilj mellan huvudhandledare och bi handledare, disputerade och ännu ej disputerade, ange namn och  disputationsår, i de fall handledning varit aktuell under endast en del  av forskarsutbildningen ska tidsomfånget anges )
+    %undervisning och utveckling av forskarutbildningskurser
+    % ledning av doktorand- och forskarseminarier
+    %tvärvetenskapligt samarbete
+    %övrigt
+    \subsection{Courses \& Thesis supervision, postgraduate level}
+
+    \subsubsection{Ph.D-thesis supervision}
+    - 2016 - 2017. Co-supervisor for Ph.D.-candidate Erik Joelsson, Theory of Science, University of Gothenburg. \href{https://gupea.ub.gu.se/handle/2077/51493}{Thesis completed in February 2017}.
+
+    \subsubsection{Teaching, post-graduate level}
+    - (2012), Guest lecture, ``Net politics, process philosophy and Deleuze'', Theories of Practical Knowing, HDK/Högskolan för Design och Konsthantverk, Göteborg.\\
+    - (2012), Guest lecture and seminar, ``Tyst kunskap'', 2012 års Marstrandsseminarium, Teori & metod Tystnad, tradition eller ``anything goes''?, Varberg.\\
+    - (2016), Guest lecture ``Citizen Science and Biodiversity Research'', BioEnv higher education, Department of Biological and Environmental Sciences, University of Gothenburg.\\
+      % Bihandledare Erik joelsson
+      % Opponent Eriks slutseminarium
+      % Gästföreläsningar  Gästföreläsning Lenas doktorandseminarium,
+
+
+
+        %3. Pedagogiskt utvecklingsarbete
+        % - utvärderingar
+        % - projekt
+        % - pedagogiska konferenser
+        % - övrigt
+
+        %4. Läromedel och pedagogiska skrifter
+        % - tryckt material
+        % - digitalt material
+        % - övrigt
+
+        %5. Andra uppgifter i anslutning till undervisning på fakultets eller institutionsnivå
+        \subsection{Other}
+          \begin{itemize}
+            % Lägg till när jag fått Lenas intyg att jag gjort kurusplaner etc.
+            \item \href{http://files.christopherkullenberg.se/studierektoronline.pdf}{Study Administrator (Studierektor), Spring semester 2014}. % Lena intyg också
+            \item \href{http://files.christopherkullenberg.se/IntygREGU.pdf}{2012 - 2014. Member of Rådet för Europastudier vid Göteborgs universitet (REGU)}. %Referens Urban Strandberg
+          \end{itemize}
+
+        %6. Övrig pedagogisk meritering
+        %T.ex. gästlärare vid utländskt lärosäte.
+        %Som underlag för bedömning av den pedagogiska skickligheten bifogas referenser,
+        %tjänstgöringsintyg och andra typer av skriftliga värdeomdömen, liksom sammanställ-
+        %ningar och uppföljningar av kursvärderingar.
+
+
+
+
+
+%  _____                                   .___.__
+%  /  _  \ ______ ______   ____   ____    __| _/|__|__  ___
+% /  /_\  \\____ \\____ \_/ __ \ /    \  / __ | |  \  \/  /
+%/    |    \  |_> >  |_> >  ___/|   |  \/ /_/ | |  |>    <
+%\____|__  /   __/|   __/ \___  >___|  /\____ | |__/__/\_ \
+%       \/|__|   |__|        \/     \/      \/          \/
+% All of of this is hyperlinked, so it is uncommented by default for online version.
+% Note: these documents contain personnummer.
+
+%\clearpage
+%\section{Appendix}
+
+    % Make index, make sure numbers correspond with the overlay belows
+%    \begin{enumerate}
+%      \item Letter from the President of the European Research Council, Jean-Pierre Bourguignon. 1 page.
+%      \item Proofs of course completion, pedagogics in higher education, 2 pages.
+%      \item Previous positions, University of Gothenburg, 1 page.
+%    \end{enumerate}
+
+%    \clearpage
+        % Use the \node at (15, .1) to move around the text saying ``appendix''
+%        \includepdf[pagecommand={\begin{tikzpicture}[remember picture, overlay]\node at (15, .1) {Appendix 1};\end{tikzpicture}},pages={1-},scale=.75,lastpage=7]{files/doctoraldegree.pdf}
+%        \includepdf[pagecommand={\begin{tikzpicture}[remember picture, overlay]\node at (15, .1) {Appendix 2};\end{tikzpicture}},pages={1-},scale=.75,lastpage=7]{files/examengrundutbildning.pdf}
+%        \includepdf[pagecommand={\begin{tikzpicture}[remember picture, overlay]\node at (15, .1) {Appendix 3};\end{tikzpicture}},pages={1-},scale=.75,lastpage=7]{files/intygpedagogisktarbeteGU.pdf}
+%        \includepdf[pagecommand={\begin{tikzpicture}[remember picture, overlay]\node at (15, .1) {Appendix 5};\end{tikzpicture}},pages={1-},scale=.75,lastpage=7]{files/universitywest.pdf}
+%        \includepdf[pagecommand={\begin{tikzpicture}[remember picture, overlay]\node at (15, .1) {Appendix 6};\end{tikzpicture}},pages={1-},scale=.75,lastpage=7]{files/erc.pdf}
+%        \includepdf[pagecommand={\begin{tikzpicture}[remember picture, overlay]\node at (15, .1) {Appendix 7};\end{tikzpicture}},pages={1-},scale=1,lastpage=7]{files/hogskolepedagogik.pdf}
+        %\includepdf[pagecommand={\begin{tikzpicture}[remember picture, overlay]\node at (15, .1) {Appendix 5};\end{tikzpicture}},pages={1-},scale=1,lastpage=7]{files/anstallningarGU.pdf}
+        %\includepdf[pagecommand={\begin{tikzpicture}[remember picture, overlay]\node at (15, .1) {Appendix 7};\end{tikzpicture}},pages={1-},scale=1,lastpage=7]{files/ekvivaleringpedagogik.pdf}
+
+
+\end{document}
