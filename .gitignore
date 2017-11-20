@@ -1,5 +1,5 @@
 upload.sh
-
+oldlatex/
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
