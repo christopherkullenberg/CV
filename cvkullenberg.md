@@ -192,7 +192,7 @@ date: \today
 ## Referee work
 
 ### Expert for employment or promotion
-  1.  (2017) Reviewer for application as Ph.D. candidate in Theory of Science, Dept. of Philosophy, Linguistics and Theory of Science, University of Gothenburg.
+  1. Reviewer for application as Ph.D. candidate in Theory of Science, Dept. of Philosophy, Linguistics and Theory of Science, University of Gothenburg, (2017).
 
 ### Pre-publication reviews
   (see also: \href{publons.com/a/1172130/}{publons.com/a/1172130/})
@@ -353,8 +353,8 @@ date: \today
 <!-- TEACHING -->
 
 ## Formal education, Teaching in higher education (Högskolepedagogik)
-  1. \href{http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf}{2006. Teaching and Learning in Higher Education} (\href{http://files.christopherkullenberg.se/PE0940.pdf}{Högskolepedagogik för lärare, PE0940}), 7.5 ECTS.}
-  1. \href{http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf}{2006. Supervision in Postgraduate Education} (\href{http://files.christopherkullenberg.se/PD0180.pdf}{Högskolepedagogisk handledning, PD0180}), 7.5 ECTS.}
+  1. \href{http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf}{2006. Teaching and Learning in Higher Education} (\href{http://files.christopherkullenberg.se/PE0940.pdf}{Högskolepedagogik för lärare, PE0940}), 7.5 ECTS.
+  1. \href{http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf}{2006. Supervision in Postgraduate Education} (\href{http://files.christopherkullenberg.se/PD0180.pdf}{Högskolepedagogisk handledning, PD0180}), 7.5 ECTS.
   1. \href{http://kursplaner.gu.se/svenska/HPE102.pdf}{2016. Formal credits for the course HPE102 Teaching and learning in Higher Education 2: Discipline Specific Pedagogic}.
 
 
@@ -366,7 +366,7 @@ date: \today
 #### Course administrator and teacher
   1. 2017 (Course administrator together with Mats Dahlström) Digital Research Methods, distance course 15 credits BMBD116h, University of Borås.
   1. 2013 \href{http://files.christopherkullenberg.se/kursplaner/FHV241Strimman.pdf}{"FHV241 The Strand: People, Knowledge and Public Health Practice"}, 6 ECTS, (Strimman, moment 1: Tre konstruktioner av människan och folkhälsoarbete i praktiken), 1.5 ECTS, Second cycle, University of Gothenburg.
-  1. 2007 - 2014. (Course administrator 2012 - 2013). \href{http://files.christopherkullenberg.se/kursplaner/NTH001_Teoretiska_och_historiska_perspektiv_pa%cc%8a_naturvetenskap_10512.pdf}{"NTH001 Theoretical and Historical Perspectives on Science, 7.5 ECTS}, First cycle, University of Gothenburg.""}
+  1. 2007 - 2014. (Course administrator 2012 - 2013). \href{http://files.christopherkullenberg.se/kursplaner/NTH001_Teoretiska_och_historiska_perspektiv_pa%cc%8a_naturvetenskap_10512.pdf}{"NTH001 Theoretical and Historical Perspectives on Science, 7.5 ECTS}, First cycle, University of Gothenburg.
   1. 2014 \href{http://files.christopherkullenberg.se/kursplaner/VT1101_Introduktion_i_klassisk_vetenskapsteori__grundkurs_13185.pdf}{"VT1101 Classical Theory of Science, Introductory Course (Introduktion till klassisk vetenskapsteori)"}, 15 ECTS, First cycle, University of Gothenburg.
   1. 2014 \href{http://files.christopherkullenberg.se/kursplaner/VT2106_Klassisk_vetenskapsteori_13187.pdf}{"VT2106 Classical Theory of Science (Klassisk vetenskapsteori)"}, 15 ECTS, Second cycle level, University of Gothenburg.
 
@@ -374,7 +374,7 @@ date: \today
 ### Media & Communication Studies, Strategic Communication: Courses
 
 #### Course administrator and teacher
-  1. 2012 1. 2013, 2017. (Course administrator) \href{http://files.christopherkullenberg.se/kursplaner/KT2102.pdf}{"Communication in New and Social Media"}, 7.5 ECTS, Second cycle, University of Gothenburg
+  1. 2012 1. 2013, 2017. (Course administrator) \href{http://files.christopherkullenberg.se/kursplaner/KT2102.pdf}{"Communication in New and Social Media"}, 7.5 ECTS, Second cycle, University of Gothenburg.
   1. 2005 (Course administrator) "Media, Individual and Every-day Life", 7.5 ECTS, Basic level, University West.
   1. 2005 (Course administrator) "Strategic Communication", 7.5 ECTS, Basic level, University West.
 
@@ -440,6 +440,6 @@ date: \today
 ### Electronic material
   1. \href{http://digitalametoder.science}{digitalametoder.science - Tools and tutorials for digital methods in the humanities and social sciences}.
 
-##Other
+## Other pedagogical experiences
   1. \href{http://files.christopherkullenberg.se/studierektoronline.pdf}{Study Administrator (Studierektor), Spring semester 2014}.
   1. \href{http://files.christopherkullenberg.se/IntygREGU.pdf}{2012 1. 2014. Member of Rådet för Europastudier vid Göteborgs universitet (REGU)}.
