@@ -222,7 +222,7 @@ date: \today
   1. Member of the scientific advisory board of the project ["Minnen av Selma Lagerlöf", funded by Riksbankens Jubileumsfond](http://anslag.rj.se/sv/anslag/52553).
 
 
-##Public outreach and extra-academic collaborations
+## Public outreach and extra-academic collaborations
 
 ### Interviews in mass media
   1. 20170503 - SVT Nyheter, [Kartläggning: Detta står på anslagstavlor](https://www.svt.se/nyheter/lokalt/vast/elever-har-kartlagt-anslagstavlor-i-hela-landet).
@@ -361,7 +361,7 @@ date: \today
 
 
 
-##Courses & Thesis supervision, graduate level
+## Courses & Thesis supervision, graduate level
 
 ### Theory of Science: Courses
 
@@ -423,7 +423,7 @@ date: \today
 
 
 
-##Courses & Thesis supervision, postgraduate level
+## Courses & Thesis supervision, postgraduate level
 
 ### Ph.D-thesis supervision
   1. 2007 - ongoing. [Co-supervisor for Licentiate thesis of Jörgen Vikström](http://files.christopherkullenberg.se/Beslut%20byte%20handledare%20J%20Vikstrom.pdf), Theory of Science, University of Gothenburg.
@@ -437,7 +437,7 @@ date: \today
 
 
 
-##Teaching materials
+## Teaching materials
 
 ### Electronic material
   1. [digitalametoder.science - Tools and tutorials for digital methods in the humanities and social sciences](http://digitalametoder.science).
