@@ -58,12 +58,14 @@ date: \today
 ### Journal articles
 
 #### Peer reviewed
+
   <!-- Spotifyartikeln -->
   <!-- Gamingartikeln -->
-  1. Kullenberg, C. , & Nelhans, Gustaf (2017) ["Measuring Welfare beyond GDP 1. Kullenberg, C.  Objective and Subjective Indicators in Sweden, 1968-2015"](https://dx.doi.org/10.3384/VS.2001-5992.17517), *Valuation Studies, 5(1)*.
-  1. Kullenberg, C. , & Dick Kasperowski (2016) "What Is Citizen Science? – A Scientometric Meta-Analysis", *PLoS ONE*, 11(1): e0147152. DOI: [10.1371/journal.pone.0147152](http://dx.doi.org/10.1371/journal.pone.0147152)
+
+  1. Kullenberg, C. , & Nelhans, Gustaf (2017) ["Measuring Welfare beyond GDP 1. Kullenberg, C.  Objective and Subjective Indicators in Sweden, 1968-2015"](https://dx.doi.org/10.3384/VS.2001-5992.17517), *Valuation Studies, 5(1)*,  [10.3384/VS.2001-5992.17517](https://dx.doi.org/10.3384/VS.2001-5992.17517).
+  1. Kullenberg, C. , & Dick Kasperowski (2016) "What Is Citizen Science? – A Scientometric Meta-Analysis", *PLoS ONE*, 11(1): e0147152, [10.1371/journal.pone.0147152](http://dx.doi.org/10.1371/journal.pone.0147152).
   1. Kullenberg, C.  (2015) "Citizen Science as Resistance: Crossing the Boundary Between Reference and Representation", [Journal of Resistance Studies](https://gup.ub.gu.se/publication/218601-citizen-science-as-resistance-crossing-the-boundary-between-reference-and-representation), 1(1).
-  1. Kullenberg, C. , & Nelhans, Gustaf (2015) "The Happiness Turn? Mapping the Emergence of Happiness Studies using Cited References", *Scientometrics*, Volume 103, Issue 2, Page 615-630, DOI: [10.1007/s11192-015-1536-3](http://dx.doi.org/10.1007/s11192-015-1536-3)
+  1. Kullenberg, C. , & Nelhans, Gustaf (2015) "The Happiness Turn? Mapping the Emergence of Happiness Studies using Cited References", *Scientometrics*, Volume 103, Issue 2, Page 615-630,  [10.1007/s11192-015-1536-3](http://dx.doi.org/10.1007/s11192-015-1536-3).
 
 #### Non-peer review
   1. Kullenberg, C.  (2016) ["Sökandet efter den digitala politiken"](https://humanit.hb.se/article/view/504/572), *Human IT*, 13(2): 34-46 (book review).
@@ -311,45 +313,45 @@ date: \today
   1. 20080626 - Proletären, [](http://www.proletaren.se/inrikes/)
 
 ### Invited speaker
-1. 20171211 - ["Öppen vetenskap och demokrati"](http://www.u-care.uu.se/kalendarium/evenemang/?eventId=29958), Mötesplats U-CARE 1. Open Science, Uppsala University.
-1. 20171108 - ["Collecting Analog Bulletin Board Messages Using a Citizen Science Methodology, GPS 400 Gothenburg Cultures on the town 1621-2021](http://gps400.gu.se/digitalAssets/1662/1662945_gps400-conference_final-programme.pdf).
-1. 20170915 - ["Perspektiv på digitalt driven forskning inom humaniora'](http://patriksv.net/2017/08/program-and-inbjudna-deltagare-15-september-pa-kth/), Royal Institute of Technology (KTH), Stockholm.
-1. 20170426 - ["Collecting Social Science Data with Smartphone Apps and School Children"](https://ecsa.citizen-science.net/sites/default/files/draft_agenda_second_workshop_appsplatforms.pdf), ECSA workshop "Defining Principles for Mobile Apps and Platforms Development in Citizen Science", Gothenburg, Sweden.
-1. 20170330 - "Vad händer om vi inte kan enas om vad som är sant?", [FLoV, Göteborgs Universitet](http://flov.gu.se/aktuellt/Nyheter/fulltext//oppet-hus-pa-flov-med-panelsamtal-om-alternativa-fakta-och-informationsbubblor.cid1428426).
-1. 20170329 - "Vad är på gång inom citizen science?", [Informationsmöte Vetenskap med och för samhället Horisont 2020](http://www.vinnova.se/sv/Aktuellt--publicerat/Kalendarium/2017/170329-Informationsmote-Vetenskap-med-och-for-samhallet/), Vinnova, Stockholm. Lecture available on [Youtube](https://youtu.be/HHW0j7Zo5E0).
-1. 20170329 - "Vad är på gång inom citizen science?", [Informationsmöte Vetenskap med och för samhället Horisont 2020](http://www.vinnova.se/sv/Aktuellt--publicerat/Kalendarium/2017/170329-Informationsmote-Vetenskap-med-och-for-samhallet/), Vinnova, Stockholm. Lecture available on [Youtube](https://youtu.be/HHW0j7Zo5E0).
-1. 20161214 - "Digital methods 1. Theory, Practice and Ethics", Higher seminar, Karlstad University.
-1. 20161116 - ["Tusen platåer"](http://www.stadsbiblioteket.nu/tusen-plataer/), Göteborg, Stadsbiblioteket.
-1. 20161028 - "Statens offentliga utredningar digitaliserade", Högre seminarium, Idéhistoria, Lunds universitet.
-1. 20161012 - ["VA-Dagen 2016 om öppen vetenskap"](https://v-a.se/events/va-dagen-2016/), Stockholm. "Video: [https://youtu.be/CUNnddKvZ9o?t=43m52s](https://youtu.be/CUNnddKvZ9o?t=43m52s).
-1. 20161012 - ["VA-Dagen 2016 om öppen vetenskap"](https://v-a.se/events/va-dagen-2016/), Stockholm. "Video: [https://youtu.be/CUNnddKvZ9o?t=43m52s](https://youtu.be/CUNnddKvZ9o?t=43m52s).
-1. 20160922 - ["Kan alla forska?"](http://flov.gu.se/aktuellt/Nyheter/fulltext//sju-filosofer-forelaser-pa-bokmassan-.cid1403852), Forskartorget, Bokmässan, Göteborg.
-1. 20160921 - ["Att nå ut via sociala medier"](http://kompetensutveckling.adm.gu.se/seminar/detail/2260), University of Gothenburg.
-1. 20160912 - ["Kulturavet som ettor och nollor"](http://www.kb.se/aktuellt/utbildningar/2016/Kulturarvet-som-ettor-och-nollor--Del-3-Digital-humaniora/), National Library of Sweden.
-1. 20160209 - ["Sara Ahmed 1. lycka, olycka och falskt medvetande"](http://www.abfgoteborg.org/index.php/archive/2016/170-filosofiscenen-2016/2208-sarah-ahmed-lycka-och-falskt-medvetande), ABF, Göteborg, Sweden.
-1. 20150929 - ["Spionen i Fickan"](http://hum.gu.se/aktuellt/Nyheter/fulltext//nackrostimmen--spionen-i-fickan-som-overvakar-oss.cid1324880), Näckrostimmen, University of Gothenburg.
-1. 20151209 - ["Samtal om Tusen Platåer"](http://fhp.nu/tusenplataer), Bio Rio, Stockholm, Sweden.
-1. 20151020 - ["Statens röst digitaliserad"](http://www.kb.se/aktuellt/evenemang/2015/SOUhack/), National Library of Sweden.
-1. 20141126 - [Tunnelpolitik](http://www.wherevent.com/detail/Goteborgs-Konsthall-TUNNELPOLITIK-Forelasning-med-Christopher-Kullenberg), Konsthallen, Gothenburg.
-1. 20141122 - ["Re-building a common internet"](https://www.facebook.com/events/622473101197803/), Verkko Suljettu, Helsinki, Finland.
-1. 20140604 - ["Forskning, allmänhet, innovation – Crowd Science som nytt forskningsparadigm"](http://www.urbsec.se/digitalAssets/1483/1483366_program-urbsec-konferens-2014-06-04.pdf), URBSEC, Gothenburg, Sweden.
-1. 20130223 - ["Kommunikation och nätet"](http://www.frilansjournalisten.nu/2013/01/sasong-for-arsmoten/), Smålands Frilansklubb, Växjö, Sweden.
-1. 20121207 - ["Does Internet freedom have a price? Examples from the Arab Spring"](http://letstudio.gu.se/svenska/aktuellt/nyheter/n/christopher-kullenberg-inbjuden-som-talare-pa-internationell-konferens.cid1111971), [The Third International Conference on Human Rights Education, Jagiellonian University, Krakow, Poland](http://www.hre2012.uj.edu.pl/invited-speakers).
-1. 20121105 - ["Vilken roll spelar de nya internetbaserade medierna i samhällsförändrande aktiviteter?"](https://www.youtube.com/watch?v=Zo24Qy_PU8I), Sigmas inspirationsdag, Gothenburg, Sweden.
-1. 20120822 - ["reSource 002: Out of Place, Out of Time"](https://transmediale.de/content/resource-002-out-place-out-time), Transmediale, Berlin, Germany.
-1. 20120509 - ["The Arabic Spring. Internet and social media 1. crucial tools in organizing the civil uprisings in Tunis and Egypt."](http://pol.gu.se/aktuellt/kalendarium/aktuellt_detalj/?eventId=1777397828), Brännpunkt Europa, University of Gothenburg.
-1. 20120301 - ["Humanistisk forskning och engagemang"](http://www.youtube.com/watch?v=-HYfVmanye8), Akademisk kvart, University of Gothenburg, Sweden.
-1. 20111124 - ["Our Internet 1. Our Rights, Our Freedoms"](https://www.youtube.com/watch?v=zWROWpMaKmE), Council of Europe, Vienna, Austria.
-1. 20111119 - "What will be the needs of tomorrow's leaders", Swedish Embassy Cairo, Cairo, Egypt.
-1. 20111022 - ["Nätaktivism – nya möjligheter men också faror"](http://www.youtube.com/watch?v=6Mi0g93ModU). Svenska FN-förbundet, Göteborg, Sweden.
-1. 20111304  - ["Anonymat des communications, sécurité des données, protection des sources"](http://www.rsf-ch.ch/anonymat-des-communications-s%C3%A9curit%C3%A9-des-donn%C3%A9es-protection-des-sources-0), Reporters Sans Frontieres, Geneva, Switzerland.
-1. 20100504 - "Greens/EFA and Activists Workshop on ACTA and the Public interest", European Parliament, Brussels, Belgium.
-1. 20090604 - ["Information Technology: Provoking or Preventing Conflict"](https://issuu.com/deutsche-welle/docs/program-deutsche-welle-global-media-forum-2009), Deutsche Welle Global Media Forum, Bonn, Germany.
-1. 20091107 - ["Net Neutrality, Surveillance and how to Re-build Politics"](https://vimeo.com/10286077), Free Society Conference, Gothenburg, Sweden.
-1. 20091103 - ["Revision av telekompaketet"](https://internetdagarna.se/arkiv/2009/program-2009/3-november.html), Internetdagarna, Stockholm, Sweden.
-1. 20091028 - "Invited speaker by the Ministry of Enterprise, Energy and Communications on the implementation of the Telecoms Package", Government of Sweden, Stockholm, Sweden.
-1. 20090111 - ["Lightning talk: Resistance Studies Magazine"](https://www.youtube.com/watch?v=G9cXIKvywvs), 25th Chaos Communication Congress, Berlin, Germany.
-1. 20081108 - ["The social impact of IT"](http://www.fiff.de/veranstaltungen/fiff-jahrestagungen/fiff-jahrestagung-2008-krieg-und-frieden-digital/Programmheft.pdf/at_download/file), Krieg und Frieden Digital, Aachen, Germany.
+  1. 20171211 - ["Öppen vetenskap och demokrati"](http://www.u-care.uu.se/kalendarium/evenemang/?eventId=29958), Mötesplats U-CARE 1. Open Science, Uppsala University.
+  1. 20171108 - ["Collecting Analog Bulletin Board Messages Using a Citizen Science Methodology, GPS 400 Gothenburg Cultures on the town 1621-2021](http://gps400.gu.se/digitalAssets/1662/1662945_gps400-conference_final-programme.pdf).
+  1. 20170915 - ["Perspektiv på digitalt driven forskning inom humaniora'](http://patriksv.net/2017/08/program-and-inbjudna-deltagare-15-september-pa-kth/), Royal Institute of Technology (KTH), Stockholm.
+  1. 20170426 - ["Collecting Social Science Data with Smartphone Apps and School Children"](https://ecsa.citizen-science.net/sites/default/files/draft_agenda_second_workshop_appsplatforms.pdf), ECSA workshop "Defining Principles for Mobile Apps and Platforms Development in Citizen Science", Gothenburg, Sweden.
+  1. 20170330 - "Vad händer om vi inte kan enas om vad som är sant?", [FLoV, Göteborgs Universitet](http://flov.gu.se/aktuellt/Nyheter/fulltext//oppet-hus-pa-flov-med-panelsamtal-om-alternativa-fakta-och-informationsbubblor.cid1428426).
+  1. 20170329 - "Vad är på gång inom citizen science?", [Informationsmöte Vetenskap med och för samhället Horisont 2020](http://www.vinnova.se/sv/Aktuellt--publicerat/Kalendarium/2017/170329-Informationsmote-Vetenskap-med-och-for-samhallet/), Vinnova, Stockholm. Lecture available on [Youtube](https://youtu.be/HHW0j7Zo5E0).
+  1. 20170329 - "Vad är på gång inom citizen science?", [Informationsmöte Vetenskap med och för samhället Horisont 2020](http://www.vinnova.se/sv/Aktuellt--publicerat/Kalendarium/2017/170329-Informationsmote-Vetenskap-med-och-for-samhallet/), Vinnova, Stockholm. Lecture available on [Youtube](https://youtu.be/HHW0j7Zo5E0).
+  1. 20161214 - "Digital methods 1. Theory, Practice and Ethics", Higher seminar, Karlstad University.
+  1. 20161116 - ["Tusen platåer"](http://www.stadsbiblioteket.nu/tusen-plataer/), Göteborg, Stadsbiblioteket.
+  1. 20161028 - "Statens offentliga utredningar digitaliserade", Högre seminarium, Idéhistoria, Lunds universitet.
+  1. 20161012 - ["VA-Dagen 2016 om öppen vetenskap"](https://v-a.se/events/va-dagen-2016/), Stockholm. "Video: [https://youtu.be/CUNnddKvZ9o?t=43m52s](https://youtu.be/CUNnddKvZ9o?t=43m52s).
+  1. 20161012 - ["VA-Dagen 2016 om öppen vetenskap"](https://v-a.se/events/va-dagen-2016/), Stockholm. "Video: [https://youtu.be/CUNnddKvZ9o?t=43m52s](https://youtu.be/CUNnddKvZ9o?t=43m52s).
+  1. 20160922 - ["Kan alla forska?"](http://flov.gu.se/aktuellt/Nyheter/fulltext//sju-filosofer-forelaser-pa-bokmassan-.cid1403852), Forskartorget, Bokmässan, Göteborg.
+  1. 20160921 - ["Att nå ut via sociala medier"](http://kompetensutveckling.adm.gu.se/seminar/detail/2260), University of Gothenburg.
+  1. 20160912 - ["Kulturavet som ettor och nollor"](http://www.kb.se/aktuellt/utbildningar/2016/Kulturarvet-som-ettor-och-nollor--Del-3-Digital-humaniora/), National Library of Sweden.
+  1. 20160209 - ["Sara Ahmed 1. lycka, olycka och falskt medvetande"](http://www.abfgoteborg.org/index.php/archive/2016/170-filosofiscenen-2016/2208-sarah-ahmed-lycka-och-falskt-medvetande), ABF, Göteborg, Sweden.
+  1. 20150929 - ["Spionen i Fickan"](http://hum.gu.se/aktuellt/Nyheter/fulltext//nackrostimmen--spionen-i-fickan-som-overvakar-oss.cid1324880), Näckrostimmen, University of Gothenburg.
+  1. 20151209 - ["Samtal om Tusen Platåer"](http://fhp.nu/tusenplataer), Bio Rio, Stockholm, Sweden.
+  1. 20151020 - ["Statens röst digitaliserad"](http://www.kb.se/aktuellt/evenemang/2015/SOUhack/), National Library of Sweden.
+  1. 20141126 - [Tunnelpolitik](http://www.wherevent.com/detail/Goteborgs-Konsthall-TUNNELPOLITIK-Forelasning-med-Christopher-Kullenberg), Konsthallen, Gothenburg.
+  1. 20141122 - ["Re-building a common internet"](https://www.facebook.com/events/622473101197803/), Verkko Suljettu, Helsinki, Finland.
+  1. 20140604 - ["Forskning, allmänhet, innovation – Crowd Science som nytt forskningsparadigm"](http://www.urbsec.se/digitalAssets/1483/1483366_program-urbsec-konferens-2014-06-04.pdf), URBSEC, Gothenburg, Sweden.
+  1. 20130223 - ["Kommunikation och nätet"](http://www.frilansjournalisten.nu/2013/01/sasong-for-arsmoten/), Smålands Frilansklubb, Växjö, Sweden.
+  1. 20121207 - ["Does Internet freedom have a price? Examples from the Arab Spring"](http://letstudio.gu.se/svenska/aktuellt/nyheter/n/christopher-kullenberg-inbjuden-som-talare-pa-internationell-konferens.cid1111971), [The Third International Conference on Human Rights Education, Jagiellonian University, Krakow, Poland](http://www.hre2012.uj.edu.pl/invited-speakers).
+  1. 20121105 - ["Vilken roll spelar de nya internetbaserade medierna i samhällsförändrande aktiviteter?"](https://www.youtube.com/watch?v=Zo24Qy_PU8I), Sigmas inspirationsdag, Gothenburg, Sweden.
+  1. 20120822 - ["reSource 002: Out of Place, Out of Time"](https://transmediale.de/content/resource-002-out-place-out-time), Transmediale, Berlin, Germany.
+  1. 20120509 - ["The Arabic Spring. Internet and social media 1. crucial tools in organizing the civil uprisings in Tunis and Egypt."](http://pol.gu.se/aktuellt/kalendarium/aktuellt_detalj/?eventId=1777397828), Brännpunkt Europa, University of Gothenburg.
+  1. 20120301 - ["Humanistisk forskning och engagemang"](http://www.youtube.com/watch?v=-HYfVmanye8), Akademisk kvart, University of Gothenburg, Sweden.
+  1. 20111124 - ["Our Internet 1. Our Rights, Our Freedoms"](https://www.youtube.com/watch?v=zWROWpMaKmE), Council of Europe, Vienna, Austria.
+  1. 20111119 - "What will be the needs of tomorrow's leaders", Swedish Embassy Cairo, Cairo, Egypt.
+  1. 20111022 - ["Nätaktivism – nya möjligheter men också faror"](http://www.youtube.com/watch?v=6Mi0g93ModU). Svenska FN-förbundet, Göteborg, Sweden.
+  1. 20111304  - ["Anonymat des communications, sécurité des données, protection des sources"](http://www.rsf-ch.ch/anonymat-des-communications-s%C3%A9curit%C3%A9-des-donn%C3%A9es-protection-des-sources-0), Reporters Sans Frontieres, Geneva, Switzerland.
+  1. 20100504 - "Greens/EFA and Activists Workshop on ACTA and the Public interest", European Parliament, Brussels, Belgium.
+  1. 20090604 - ["Information Technology: Provoking or Preventing Conflict"](https://issuu.com/deutsche-welle/docs/program-deutsche-welle-global-media-forum-2009), Deutsche Welle Global Media Forum, Bonn, Germany.
+  1. 20091107 - ["Net Neutrality, Surveillance and how to Re-build Politics"](https://vimeo.com/10286077), Free Society Conference, Gothenburg, Sweden.
+  1. 20091103 - ["Revision av telekompaketet"](https://internetdagarna.se/arkiv/2009/program-2009/3-november.html), Internetdagarna, Stockholm, Sweden.
+  1. 20091028 - "Invited speaker by the Ministry of Enterprise, Energy and Communications on the implementation of the Telecoms Package", Government of Sweden, Stockholm, Sweden.
+  1. 20090111 - ["Lightning talk: Resistance Studies Magazine"](https://www.youtube.com/watch?v=G9cXIKvywvs), 25th Chaos Communication Congress, Berlin, Germany.
+  1. 20081108 - ["The social impact of IT"](http://www.fiff.de/veranstaltungen/fiff-jahrestagungen/fiff-jahrestagung-2008-krieg-und-frieden-digital/Programmheft.pdf/at_download/file), Krieg und Frieden Digital, Aachen, Germany.
 
 
 <!-- TEACHING -->
@@ -400,6 +402,7 @@ date: \today
   1. Karin Svenner (2013) "Synen på kommunikation - en kvalitativ innehållsanalys av femton kommunikationspolicyer i offentlig förvaltning", University of Gothenburg.
   1. Lovisa Vasiliou (2013) "1.000 bilder av Värmland - En studie av Region Värmlands kommunikationsprocess inför skrivandet av Värmlandsstrategin", University of Gothenburg.
   1. Jörgen Wade (2013) "Förväntningar på socialt intranät och vilken syn på organisationskommunikation dessa förväntningar reflekterar", University of Gothenburg.
+
 
 ### Strategic communication studies: Thesis supervision, bachelor level
   1. Charlotta Windeman och Linda Andreasson (2006) ["Meningen måste ju vara att få folk till butiken : en kvalitativ studie av ICA respektive Coop:s profiler och images"](http://urn.kb.se/resolve?urn=urn:nbn:se:hv:diva-846),	University West, Media & Communication studies.
