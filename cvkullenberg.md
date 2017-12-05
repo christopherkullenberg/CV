@@ -78,7 +78,10 @@ date: \today
 
 ### Book chapters
 
-#### Peer reviewed <!-- Norska boken + LETSboken-->
+#### Peer reviewed
+
+<!-- Norska boken + LETSboken-->
+
   1. Hård af Segerstad, Y. ; Howes, C. ; Kasperowski, D. & Kullenberg, C. (2017, in press) "Studying closed communities on-line: digital methods and ethical considerations beyond informed consent and pseudonymity". Zimmer, M. & Kinder-Kurlanda, K. (Eds.). *Internet Research Ethics for the Social Age: New Cases and Challenges*. Peter Lang.
   1. Kullenberg, C. (2011) "Sociology in the Making: Statistics as a Mediator between the Social sciences, Practice and the State", in Ann Rudinow Saetnan, Heidi Mork Lomell, Svein Hammer, *The Mutual Construction of Statistics and Society*, New York: Routledge.
 
@@ -313,7 +316,11 @@ date: \today
   1. 20080626 - Proletären, [](http://www.proletaren.se/inrikes/)
 
 ### Invited speaker
+
+  <!-- Lägg till Geneve/Strasser -->
+
   1. 20171211 - ["Öppen vetenskap och demokrati"](http://www.u-care.uu.se/kalendarium/evenemang/?eventId=29958), Mötesplats U-CARE 1. Open Science, Uppsala University.
+  1. 20171204 - "Medborgarvetenskap och samverkan", SSU Haga-Anneldal, Gotenburg.
   1. 20171108 - ["Collecting Analog Bulletin Board Messages Using a Citizen Science Methodology, GPS 400 Gothenburg Cultures on the town 1621-2021](http://gps400.gu.se/digitalAssets/1662/1662945_gps400-conference_final-programme.pdf).
   1. 20170915 - ["Perspektiv på digitalt driven forskning inom humaniora'](http://patriksv.net/2017/08/program-and-inbjudna-deltagare-15-september-pa-kth/), Royal Institute of Technology (KTH), Stockholm.
   1. 20170426 - ["Collecting Social Science Data with Smartphone Apps and School Children"](https://ecsa.citizen-science.net/sites/default/files/draft_agenda_second_workshop_appsplatforms.pdf), ECSA workshop "Defining Principles for Mobile Apps and Platforms Development in Citizen Science", Gothenburg, Sweden.
@@ -363,7 +370,7 @@ date: \today
 
 
 
-## Courses & Thesis supervision, graduate level
+## Courses & Thesis supervision/examination, graduate level
 
 ### Theory of Science: Courses
 
@@ -423,6 +430,10 @@ date: \today
   1. Julia Ahlqvist (2017) "Sambandet mellan kommunikativt ledarskap och arbetsmotivation hos medarbetare i servicebranschen", Magisteruppsats, University of Borås.
 
 <!-- Lägg till maskininlärningsuppsatsen -->
+
+### Library and information science: Thesis examination, masters's Degree
+  1. Helena Löfström (2017) "Explaining the predictions of classification",
+  master's thesis, University of Borås.
 
 
 
