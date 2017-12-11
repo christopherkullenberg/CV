@@ -25,12 +25,13 @@ date: \today
 
 ## Employments
 
-### Research projects, externally funded. <!-- add vinnova and formas-->
-  1. Researcher 50%, "Taking Science to the Crowd: Researchers, Programmers and Volunteer Contributors Transforming Science Online." Marianne & Marcus Wallenberg Foundation. PI: [Dick Kasperowski](mailto:dick.kasperowski@gu.se), Grant number: [MMW 2013.0020](https://www.wallenberg.com/MMW/projektanslag-2013).
-  1. Researcher 50%, "Taking Science to the Crowd: Researchers, Programmers and Volunteer Contributors Transforming Science Online." Marianne & Marcus Wallenberg Foundation. PI: Dick Kasperowski, Grant number: [MMW 2013.0020](https://www.wallenberg.com/MMW/projektanslag-2013).
-  1. Researcher 50\%, "The Co-production of Social Science and Society: The Case of Happiness studies."  Swedish Research Council (Vetenskapsrådet)
+### Research projects, externally funded. <!-- aand formas-->
+  1. Researcher 40%, 2017-2021, "Arenor för relationsbyggande samverkan genom medborgarforskning",
+  Vinnova, PI: [Dick Kasperowski](mailto:dick.kasperowski@gu.se), Grant number: 2017-03527.
+  1. Researcher 50%, 2015-2018, "Taking Science to the Crowd: Researchers, Programmers and Volunteer Contributors Transforming Science Online." Marianne & Marcus Wallenberg Foundation. PI: [Dick Kasperowski](mailto:dick.kasperowski@gu.se), Grant number: [MMW 2013.0020](https://www.wallenberg.com/MMW/projektanslag-2013).
+  1. Researcher 50%, 2015-2017, "The Co-production of Social Science and Society: The Case of Happiness studies."  Swedish Research Council (Vetenskapsrådet)
       PI: Margareta Hallberg, Grant number: [2012-1117](http://vrproj.vr.se/detail.asp?arendeid=90421).
-  1. Researcher 50%, "Subcultures on the Net: Resistance and Engagement in Knowledge Practices", LETStudio, pilot project.
+  1. Researcher 50%, 2015, "Subcultures on the Net: Resistance and Engagement in Knowledge Practices", LETStudio, pilot project.
 
 ### Adjunct lecturer, instructor
   * [Instructor, part time, 2004-2006](http://files.christopherkullenberg.se/universitywest.pdf). University West.
