@@ -104,7 +104,8 @@ date: \today
   1. Kullenberg, C.  Ulrike Sturm, Sven Schade, Luigi Ceccaroni, Margaret Gold,
   Christopher C. M. Kyba, Bernat Claramunt, Muki Haklay, Dick Kasperowski,
   Alexandra Albert, Jaume Piera, Jonathan Brier, Christopher Kullenberg,
-  Soledad Luna (2017) ["Defining principles for mobile apps and platforms development in citizen science"](https://doi.org/10.3897/rio.3.e21283), *RIO Journal* 3: e21283.
+  Soledad Luna (2017) ["Defining principles for mobile apps and platforms development in citizen science"](https://doi.org/10.3897/rio.4.e23394), Workshop Report, Research Ideas and Outcomes 4:
+  e23394 (04 Jan 2018).
   1. Kullenberg, C.  Björkvall, Anders, Johan Järlehed, Christopher Kullenberg, Helle Lykke Nielsen,
   Andreas Nord, Tove Rosendal, Sara Van Meerbergen & Gustav Westberg (2017) ["Slutrapport
   Anslagstavlan - Forskarfredags Massexperiment 2016](https://www.forskarfredag.se/filer/ff2016-anslagstavlan-slutrapport.pdf), VA-rapport 2017:1}, Red. Fredrik Bronéus,
@@ -392,6 +393,9 @@ date: \today
 
 
 ### Communication studies: Thesis supervision, Master (Magister) level}
+
+  <!-- Lägg till Daniel Kursu -->
+
   1. Clara Tortosa (2017) "Vem är göteborgaren i Vårt Göteborg? - En diskursanalys av Vi och dem i en kommuntidning", University of Gothenburg.
   1. Peter Häggbom Norrby (2017) "Medborgaren i kommunens kommunikationspolicy - En jämförelse mellan tio kommuner", University of Gothenburg.
   1. Louise Sjöström (2017), "Från kulturpolitik till kommunikation - En analys av hur fem verksamheters statliga och kommunala uppdrag omsätts i kommunikationen", University of Gothenburg.
