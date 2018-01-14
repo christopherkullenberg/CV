@@ -416,8 +416,8 @@ date: \today
   1. Jörgen Wade (2013) "Förväntningar på socialt intranät och vilken syn på organisationskommunikation dessa förväntningar reflekterar", University of Gothenburg.
 
 
-### Strategic communication studies: Thesis supervision, bachelor level
-  1. Charlotta Windeman och Linda Andreasson (2006) ["Meningen måste ju vara att få folk till butiken : en kvalitativ studie av ICA respektive Coop:s profiler och images"](http://urn.kb.se/resolve?urn=urn:nbn:se:hv:diva-846),	University West, Media & Communication studies.
+### Media and communication studies: Thesis supervision, bachelor level
+  1. Charlotta Windeman och Linda Andreasson (2006) ["Meningen måste ju vara att få folk till butiken : en kvalitativ studie av ICA respektive Coop:s profiler och images"](http://urn.kb.se/resolve?urn=urn:nbn:se:hv:diva-846), University West, Media & Communication studies.
   1. Andreas Johansson och Ellinor Wetterblad (2006) ["Organisationers medierelationer : en kvantitativ kartläggning av organisationers mediekontakt och medieverktyg"](http://urn.kb.se/resolve?urn=urn:nbn:se:hv:diva-846),	University West, Media & Communication studies.
   1. Lars Karlsson (2006) ["Primitiv och utan identitet : en kvalitativ analys av synen på "den andre" i Metros pratbubbletävling"](http://www.uppsatser.se/uppsats/7e12f0e57f/),	University West, Media & Communication studies.
   1. Tobias Hagrenius (2006) ["Samma nyheter i olika tidningar? en kvalitativ innehållsanalys på tre gratistidningar"](http://urn.kb.se/resolve?urn=urn:nbn:se:hv:diva-851),	University West, Media & Communication studies.
@@ -427,11 +427,20 @@ date: \today
   1. Daniel Sjöberg (2004) "Ideologi i amerikanska programprodukter - En receptionsanalys av programmet L-word baserad på kvalitativa intervjuer med elva respondenter". University West, Media and Communication studies.
   1. Christina Axelsson och Helena Johansson (2004) "LunarStorm - Framtidens fritidsgård? En kvalitativ studie om unga människors användning av Internetcommunities och deras inställningar till betaltjänster", University West, Media and Communication studies.
 
+
 ### Information architecture studies: Thesis examination, bachelor's Degree
   1. Jonna Axelsson (2017) "Ideella organisationers webbplatser blir användbara - Hur användarupplevelsen kan förbättras på leadersodrabohuslan.se med fokus på användbarhet", Bachelor's Thesis, Information Architecture, University of Borås.
   1. Christine Thelin (2017) "Skapa bättre användarupplevelse och öka besöken - Utvärdering och utvecklingsförslag åt en webbplats inom cafébranschen", Bachelor's Thesis, Information Architecture, University of Borås.
 
+
+### Strategic information and communication: Thesis supervision, master's Degree
+  1. Emma Håkansson (2018) "Att kommunicera strategiskt - En kvalitativ studie av strategisk kommunikation i tolv svenska kommuner", University of Borås.
+  1. Emma Lidell (2018) "The United Nations and the Sustainable Development Goals - The importance of communicating sustainability", University of Borås.
+  1. Linn Lundström (2018) "Att stimulera hållbara attityder och beteenden i dagens konsumtionssamhälle", University of Borås.
+
+
 ### Strategic information and communication: Thesis examination, master's Degree
+  1. Viktoria Lagerkvist (2018) "Samspel eller kamp? En kritisk analys av bibliotekschefers strategiska kommunikation i den kommunala politiska verkligheten", Magisteruppsats, University of Borås.
   1. Julia Ahlqvist (2017) "Sambandet mellan kommunikativt ledarskap och arbetsmotivation hos medarbetare i servicebranschen", Magisteruppsats, University of Borås.
 
 <!-- Lägg till maskininlärningsuppsatsen -->
