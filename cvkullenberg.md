@@ -274,8 +274,9 @@ date: \today
   1. 20130601 - Utbildningsradion, ["Internetövervakning och revolutioner".](http://urskola.se/Produkter/176858-UR-Samtiden-Overvakning-och-kontroll-Internetovervakning-och-revolutioner)
   1. 20130217 - Sydsvenskan, ["Tecken i tiden"](http://www.sydsvenskan.se/2013-02-17/tecken-i-tiden).
   1. 20130214 - Internetworld, ["Han driver på för ett öppet nät."](http://www.idg.se/2.1085/1.492033/han-driver-pa-for-ett-oppet-nat).
-  1. 20121004 - Sveriges Radio Studio ett, ["Simulerade och verkliga nätattacker.](http://t.sr.se/1foOdCK)
-  1. 20120430 - Sveriges Radio Studio ett, ["Kan man lita på Wikipedia?](http://t.sr.se/1cRSOfk)
+  1. 2013(Frühjahr) - Revue, Magaziene for the Next Society, "On and off the grid. Interview: Christopher Kullenberg speaks with Tim Vogler and Jan Bathel", ISBN 978-36-98155008-1-8.
+  1. 20121004 - Sveriges Radio Studio ett, ["Simulerade och verkliga nätattacker."](http://t.sr.se/1foOdCK)
+  1. 20120430 - Sveriges Radio Studio ett, ["Kan man lita på Wikipedia?"](http://t.sr.se/1cRSOfk)
   1. 20120321 - Nerikes Allehanda, ["De som inte vill bli upptäckta"](http://na.se/nyheter/orebro/1.1589481--de-som-inte-vill-blir-inte-upptackta-).
   1. 20120306 - Internetworld, ["Kreativiteten är inte individuell"](http://www.idg.se/2.1085/1.435933/kreativiteten-ar-inte-individuell).
   1. 20111226 - Forbes, ["Meet Telecomix, The Hackers Bent On Exposing Those Who Censor And Surveil The Internet"](http://www.forbes.com/sites/andygreenberg/2011/12/26/meet-telecomix-the-hackers-bent-on-exposing-those-who-censor-and-surveil-the-internet/).
