@@ -232,6 +232,7 @@ date: \today
 ## Public outreach and extra-academic collaborations
 
 ### Interviews in mass media
+  1. 20180122 - SVT Nyheter, [De kartlägger porrbotarna på Twitter](https://www.svt.se/nyheter/inrikes/de-kartlagger-porrbotarna-pa-twitter).
   1. 20170503 - SVT Nyheter, [Kartläggning: Detta står på anslagstavlor](https://www.svt.se/nyheter/lokalt/vast/elever-har-kartlagt-anslagstavlor-i-hela-landet).
   1. 20170503 - SR P4 Östergötland, [Forskare: Inbjudningar vanligast på anslagstavlor](http://t.sr.se/2pdhEBb).
   1. 20170117 - Curie, [Trycket ökar: Gör forskningsdata tillgängliga](http://www.tidningencurie.se/nyheter/2017/01/17/trycket-okar-gor-forskningsdata-tillgangliga/).
