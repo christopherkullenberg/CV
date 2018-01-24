@@ -61,12 +61,12 @@ date: \today
 #### Peer reviewed
 
   <!-- Spotifyartikeln -->
-  <!-- Gamingartikeln -->
 
-  1. Kullenberg, C. , & Nelhans, Gustaf (2017) ["Measuring Welfare beyond GDP 1. Kullenberg, C.  Objective and Subjective Indicators in Sweden, 1968-2015"](https://dx.doi.org/10.3384/VS.2001-5992.17517), *Valuation Studies, 5(1)*,  [10.3384/VS.2001-5992.17517](https://dx.doi.org/10.3384/VS.2001-5992.17517).
-  1. Kullenberg, C. , & Dick Kasperowski (2016) "What Is Citizen Science? – A Scientometric Meta-Analysis", *PLoS ONE*, 11(1): e0147152, [10.1371/journal.pone.0147152](http://dx.doi.org/10.1371/journal.pone.0147152).
-  1. Kullenberg, C.  (2015) "Citizen Science as Resistance: Crossing the Boundary Between Reference and Representation", [Journal of Resistance Studies](https://gup.ub.gu.se/publication/218601-citizen-science-as-resistance-crossing-the-boundary-between-reference-and-representation), 1(1).
-  1. Kullenberg, C. , & Nelhans, Gustaf (2015) "The Happiness Turn? Mapping the Emergence of Happiness Studies using Cited References", *Scientometrics*, Volume 103, Issue 2, Page 615-630,  [10.1007/s11192-015-1536-3](http://dx.doi.org/10.1007/s11192-015-1536-3).
+  1.  Marisa Ponti, Thomas Hillman, **Christopher Kullenberg**, Dick Kasperowski (2018) "Getting it Right or Being Top Rank: Games in Citizen Science", *Citizen Science: Theory and Practice*, 3(1), DOI: [10.5334/cstp.101](http://doi.org/10.5334/cstp.101).
+  1. **Kullenberg, C.** , & Nelhans, Gustaf (2017) ["Measuring Welfare beyond GDP 1. Kullenberg, C.  Objective and Subjective Indicators in Sweden, 1968-2015"](https://dx.doi.org/10.3384/VS.2001-5992.17517), *Valuation Studies, 5(1)*,  [10.3384/VS.2001-5992.17517](https://dx.doi.org/10.3384/VS.2001-5992.17517).
+  1. **Kullenberg, C.** , & Dick Kasperowski (2016) "What Is Citizen Science? – A Scientometric Meta-Analysis", *PLoS ONE*, 11(1): e0147152, [10.1371/journal.pone.0147152](http://dx.doi.org/10.1371/journal.pone.0147152).
+  1. **Kullenberg, C.**  (2015) "Citizen Science as Resistance: Crossing the Boundary Between Reference and Representation", [Journal of Resistance Studies](https://gup.ub.gu.se/publication/218601-citizen-science-as-resistance-crossing-the-boundary-between-reference-and-representation), 1(1).
+  1. **Kullenberg, C.** , & Nelhans, Gustaf (2015) "The Happiness Turn? Mapping the Emergence of Happiness Studies using Cited References", *Scientometrics*, Volume 103, Issue 2, Page 615-630,  [10.1007/s11192-015-1536-3](http://dx.doi.org/10.1007/s11192-015-1536-3).
 
 #### Non-peer review
   1. Kullenberg, C.  (2016) ["Sökandet efter den digitala politiken"](https://humanit.hb.se/article/view/504/572), *Human IT*, 13(2): 34-46 (book review).
@@ -232,10 +232,12 @@ date: \today
 ## Public outreach and extra-academic collaborations
 
 ### Interviews in mass media
-  1. 20180122 - SVT Nyheter, [De kartlägger porrbotarna på Twitter](https://www.svt.se/nyheter/inrikes/de-kartlagger-porrbotarna-pa-twitter).
-  1. 20170503 - SVT Nyheter, [Kartläggning: Detta står på anslagstavlor](https://www.svt.se/nyheter/lokalt/vast/elever-har-kartlagt-anslagstavlor-i-hela-landet).
-  1. 20170503 - SR P4 Östergötland, [Forskare: Inbjudningar vanligast på anslagstavlor](http://t.sr.se/2pdhEBb).
-  1. 20170117 - Curie, [Trycket ökar: Gör forskningsdata tillgängliga](http://www.tidningencurie.se/nyheter/2017/01/17/trycket-okar-gor-forskningsdata-tillgangliga/).
+  1. 20180123 - Sputnik News, ["Swedish Group Rises Against Wave of Porn Bots Flooding Social Networks"](https://sputniknews.com/viral/201801231060991240-sweden-bots-porn-storm/).
+  1. 20180123 - Aftonbladet, ["Svenska twittrare invaderade av porrbotar"](https://www.aftonbladet.se/nyheter/a/On3x0w/svenska-twittrare-invaderade-av-porrbotar).
+  1. 20180122 - SVT Nyheter, ["De kartlägger porrbotarna på Twitter"](https://www.svt.se/nyheter/inrikes/de-kartlagger-porrbotarna-pa-twitter).
+  1. 20170503 - SVT Nyheter, ["Kartläggning: Detta står på anslagstavlor"](https://www.svt.se/nyheter/lokalt/vast/elever-har-kartlagt-anslagstavlor-i-hela-landet).
+  1. 20170503 - SR P4 Östergötland, ["Forskare: Inbjudningar vanligast på anslagstavlor"](http://t.sr.se/2pdhEBb).
+  1. 20170117 - Curie, ["Trycket ökar: Gör forskningsdata tillgängliga"](http://www.tidningencurie.se/nyheter/2017/01/17/trycket-okar-gor-forskningsdata-tillgangliga/).
   1. 20160007 - GU-journalen 5-2016, ["Anslagstavlan"](https://issuu.com/universityofgothenburg/docs/gu-journalen5-2016/34).
   1. 20161008 - Dagens Nyheter, ["Synen på öppen publicering delar forskarna"](http://www.dn.se/nyheter/sverige/synen-pa-oppen-publicering-delar-forskarna/).
   1. 20161005 - Sveriges Radio, Kulturnytt, ["Facebooks balansgång mellan globala krav"](http://sverigesradio.se/sida/artikel.aspx?programid=478&artikel=6533649).
@@ -378,6 +380,8 @@ date: \today
 
 ### Theory of Science: Courses
 
+<!-- Lägg till evidenshandledningen-->
+
 #### Course administrator and teacher
   1. 2017 (Course administrator together with Mats Dahlström) Digital Research Methods, distance course 15 credits BMBD116h, University of Borås.
   1. 2013 ["FHV241 The Strand: People, Knowledge and Public Health Practice"](http://files.christopherkullenberg.se/kursplaner/FHV241Strimman.pdf), 6 ECTS, (Strimman, moment 1: Tre konstruktioner av människan och folkhälsoarbete i praktiken), 1.5 ECTS, Second cycle, University of Gothenburg.
@@ -389,6 +393,7 @@ date: \today
 ### Media & Communication Studies, Strategic Communication: Courses
 
 #### Course administrator and teacher
+  1. 2018 (Course administrator) "KT2501 V18 Magisteruppsats", 15 ECTS, Second cycle, University of Gothenburg.
   1. 2012 1. 2013, 2017. (Course administrator) ["Communication in New and Social Media"](http://files.christopherkullenberg.se/kursplaner/KT2102.pdf), 7.5 ECTS, Second cycle, University of Gothenburg.
   1. 2005 (Course administrator) "Media, Individual and Every-day Life", 7.5 ECTS, Basic level, University West.
   1. 2005 (Course administrator) "Strategic Communication", 7.5 ECTS, Basic level, University West.
@@ -397,6 +402,7 @@ date: \today
 ### Communication studies: Thesis supervision, Master (Magister) level}
 
   <!-- Lägg till Daniel Kursu -->
+  <!-- Lägg till våren 18 de sex uppsatserna -->
 
   1. Clara Tortosa (2017) "Vem är göteborgaren i Vårt Göteborg? - En diskursanalys av Vi och dem i en kommuntidning", University of Gothenburg.
   1. Peter Häggbom Norrby (2017) "Medborgaren i kommunens kommunikationspolicy - En jämförelse mellan tio kommuner", University of Gothenburg.
