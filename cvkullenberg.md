@@ -232,6 +232,7 @@ date: \today
 ## Public outreach and extra-academic collaborations
 
 ### Interviews in mass media
+  1. 20180131 - SR P3, PP3, [Porrbotar och ord man borde sluta med](http://t.sr.se/2Gv0I2K).
   1. 20180123 - Sputnik News, ["Swedish Group Rises Against Wave of Porn Bots Flooding Social Networks"](https://sputniknews.com/viral/201801231060991240-sweden-bots-porn-storm/).
   1. 20180123 - Aftonbladet, ["Svenska twittrare invaderade av porrbotar"](https://www.aftonbladet.se/nyheter/a/On3x0w/svenska-twittrare-invaderade-av-porrbotar).
   1. 20180122 - SVT Nyheter, ["De kartlägger porrbotarna på Twitter"](https://www.svt.se/nyheter/inrikes/de-kartlagger-porrbotarna-pa-twitter).
@@ -320,6 +321,7 @@ date: \today
   1. 20081215 - GU-Journalen, ["Journal across boundaries"](http://www.gu-journalen.gu.se/english/News/News_detail/?contentId=855527).
   1. 20081219 - Sheffield Live! Radio, [](http://www.dcs.shef.ac.uk/)
   1. 20080626 - Proletären, [](http://www.proletaren.se/inrikes/)
+
 
 ### Invited speaker
 
@@ -425,7 +427,7 @@ date: \today
 
 
 ### Media and communication studies: Thesis supervision, bachelor level
-  1. Charlotta Windeman och Linda Andreasson (2006) ["Meningen måste ju vara att få folk till butiken : en kvalitativ studie av ICA respektive Coop:s profiler och images"](http://urn.kb.se/resolve?urn=urn:nbn:se:hv:diva-846), University West, Media & Communication studies.
+  1. Charlotta Windeman och Linda Andreasson (2006) ["Meningen måste ju vara att få folk till butiken: en kvalitativ studie av ICA respektive Coop:s profiler och images"](http://urn.kb.se/resolve?urn=urn:nbn:se:hv:diva-846), University West, Media & Communication studies.
   1. Andreas Johansson och Ellinor Wetterblad (2006) ["Organisationers medierelationer : en kvantitativ kartläggning av organisationers mediekontakt och medieverktyg"](http://urn.kb.se/resolve?urn=urn:nbn:se:hv:diva-846),	University West, Media & Communication studies.
   1. Lars Karlsson (2006) ["Primitiv och utan identitet : en kvalitativ analys av synen på "den andre" i Metros pratbubbletävling"](http://www.uppsatser.se/uppsats/7e12f0e57f/),	University West, Media & Communication studies.
   1. Tobias Hagrenius (2006) ["Samma nyheter i olika tidningar? en kvalitativ innehållsanalys på tre gratistidningar"](http://urn.kb.se/resolve?urn=urn:nbn:se:hv:diva-851),	University West, Media & Communication studies.
@@ -462,7 +464,7 @@ date: \today
 ## Courses & Thesis supervision, postgraduate level
 
 ### Ph.D-thesis supervision
-  1. 2007 - ongoing. [Co-supervisor for Licentiate thesis of Jörgen Vikström](http://files.christopherkullenberg.se/Beslut%20byte%20handledare%20J%20Vikstrom.pdf), Theory of Science, University of Gothenburg.
+  1. 2017 - ongoing. [Co-supervisor for Licentiate thesis of Jörgen Vikström](http://files.christopherkullenberg.se/Beslut%20byte%20handledare%20J%20Vikstrom.pdf), Theory of Science, University of Gothenburg.
   1. 2016 - 2017. Co-supervisor for Ph.D.-candidate Erik Joelsson, Theory of Science, University of Gothenburg. [Thesis completed in February 2017](https://gupea.ub.gu.se/handle/2077/51493).
 
 ### Teaching, post-graduate level
