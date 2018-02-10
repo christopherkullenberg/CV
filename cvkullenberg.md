@@ -7,6 +7,7 @@ date: \today
 \newpage
 
 
+
 ## Formal education
 
 ### Academic first degrees
