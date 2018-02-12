@@ -26,6 +26,9 @@ date: \today
 
 ## Employments
 
+## Current Employment
+  * Senior Lecturer in Theory of Science, Dept. of Philosophy, Linguistics and Theory of Science, University of Gothenburg.
+
 ### Research projects, externally funded. <!-- aand formas-->
   1. Researcher 40%, 2017-2021, "Arenor för relationsbyggande samverkan genom medborgarforskning",
   Vinnova, PI: [Dick Kasperowski](mailto:dick.kasperowski@gu.se), Grant number: 2017-03527.
@@ -41,10 +44,10 @@ date: \today
 
 ### Lecturer
   * [University Lecturer, part time, 201708-201802](http://files.christopherkullenberg.se/anstallningsbeslutboras.pdf). University of Borås.
-  * [2018. University Lecturer in Theory of Science, full time. Application number PAR 2017/92. University of Gothenburg.]()
+  * 20180201 - current. Senior Lecturer in Theory of Science, full time. Application number PAR 2017/92. University of Gothenburg.
 
 ### Other
-* [Study Administrator, spring semester 2014](http://files.christopherkullenberg.se/studierektoronline.pdf). University of Gothenburg.
+  * [Study Administrator, spring semester 2014](http://files.christopherkullenberg.se/studierektoronline.pdf). University of Gothenburg.
 
 
 
@@ -62,6 +65,7 @@ date: \today
 #### Peer reviewed
 
   <!-- Spotifyartikeln -->
+  <!-- Anslagstavlan pedagogikartikel -->
 
   1.  Marisa Ponti, Thomas Hillman, **Christopher Kullenberg**, Dick Kasperowski (2018) "Getting it Right or Being Top Rank: Games in Citizen Science", *Citizen Science: Theory and Practice*, 3(1), DOI: [10.5334/cstp.101](http://doi.org/10.5334/cstp.101).
   1. **Kullenberg, C.** , & Nelhans, Gustaf (2017) ["Measuring Welfare beyond GDP 1. Kullenberg, C.  Objective and Subjective Indicators in Sweden, 1968-2015"](https://dx.doi.org/10.3384/VS.2001-5992.17517), *Valuation Studies, 5(1)*,  [10.3384/VS.2001-5992.17517](https://dx.doi.org/10.3384/VS.2001-5992.17517).
@@ -83,6 +87,7 @@ date: \today
 #### Peer reviewed
 
 <!-- Norska boken + LETSboken-->
+<!-- Anslagstavlan på svenska till antologi -->
 
   1. Hård af Segerstad, Y. ; Howes, C. ; Kasperowski, D. & Kullenberg, C. (2017, in press) "Studying closed communities on-line: digital methods and ethical considerations beyond informed consent and pseudonymity". Zimmer, M. & Kinder-Kurlanda, K. (Eds.). *Internet Research Ethics for the Social Age: New Cases and Challenges*. Peter Lang.
   1. Kullenberg, C. (2011) "Sociology in the Making: Statistics as a Mediator between the Social sciences, Practice and the State", in Ann Rudinow Saetnan, Heidi Mork Lomell, Svein Hammer, *The Mutual Construction of Statistics and Society*, New York: Routledge.
@@ -322,6 +327,13 @@ date: \today
   1. 20081215 - GU-Journalen, ["Journal across boundaries"](http://www.gu-journalen.gu.se/english/News/News_detail/?contentId=855527).
   1. 20081219 - Sheffield Live! Radio, [](http://www.dcs.shef.ac.uk/)
   1. 20080626 - Proletären, [](http://www.proletaren.se/inrikes/)
+
+
+<!--
+### Exhibitions
+
+* Tekniska museet.
+-->
 
 
 ### Invited speaker
