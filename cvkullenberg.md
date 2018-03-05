@@ -27,10 +27,10 @@ date: \today
 ## Employments
 
 ## Current Employment
-  * Senior Lecturer in Theory of Science, Dept. of Philosophy, Linguistics and Theory of Science, University of Gothenburg.
+  * 20180201 - Senior Lecturer in Theory of Science, Dept. of Philosophy, Linguistics and Theory of Science, University of Gothenburg.
 
 ### Research projects, externally funded. <!-- aand formas-->
-  1. Researcher 40%, 2017-2021, "Arenor för relationsbyggande samverkan genom medborgarforskning",
+  1. Responsible for work package "Portal construction", 40%, 2017-2021, "Arenor för relationsbyggande samverkan genom medborgarforskning",
   Vinnova, PI: [Dick Kasperowski](mailto:dick.kasperowski@gu.se), Grant number: 2017-03527.
   1. Researcher 50%, 2015-2018, "Taking Science to the Crowd: Researchers, Programmers and Volunteer Contributors Transforming Science Online." Marianne & Marcus Wallenberg Foundation. PI: [Dick Kasperowski](mailto:dick.kasperowski@gu.se), Grant number: [MMW 2013.0020](https://www.wallenberg.com/MMW/projektanslag-2013).
   1. Researcher 50%, 2015-2017, "The Co-production of Social Science and Society: The Case of Happiness studies."  Swedish Research Council (Vetenskapsrådet)
@@ -43,7 +43,7 @@ date: \today
   * [Instructor, part time, 2014-2015](http://files.christopherkullenberg.se/anstallningarGU.pdf). University of Gothenburg.
 
 ### Lecturer
-  * [University Lecturer, part time, 201708-201802](http://files.christopherkullenberg.se/anstallningsbeslutboras.pdf). University of Borås.
+  * [Senior lecturer, part time, 201708-201802](http://files.christopherkullenberg.se/anstallningsbeslutboras.pdf). University of Borås.
   * 20180201 - current. Senior Lecturer in Theory of Science, full time. Application number PAR 2017/92. University of Gothenburg.
 
 ### Other
@@ -122,7 +122,13 @@ date: \today
 #### Preface and review of translation
   1. Kullenberg, C.  (2012) "Introduktion", in *Tre Klassiska Texter – Émile Durkheim, Gabriel Tarde, Max Weber*, fackgranskad av Christopher Kullenberg, Göteborg: Korpen Koloni.
 
-#### Conference contributions, peer reviewed  <!-- 4S australien -->
+#### Conference contributions, peer reviewed  
+
+  <!-- 4S australien -->
+  <!--  EASST -->
+  <!-- Zurich -->
+
+
   1. Andreas Nord, Johan Järlehed & Christopher Kullenberg, [För anslagstavlan i tiden: Vad händer på svenska anslagstavlor?](http://www2.nordiska.uu.se/konferens/svebe36/sammandrag/nord-jarlehed-kullenberg/), *Svenskans beskrivning*, Uppsala University, 25–27 october 2017.
   1. Kullenberg, C. (2017) "Talking about #citizenscience", [Third Nordic Science and Technology Conference, Göteborg, May 31-June2](http://socav.gu.se/english/research/third-nordic-science-and-technology-studies-conference).
   1. Kasperowski, D. ; Kullenberg, C. (2016) "Citizen Humanities: Configuring Interpretation and Perception for Participation". *Citizen Science – Innovation in Open Science, Society and Policy*, 19–21 May 2016, Berlin, 26-27.
@@ -175,7 +181,9 @@ date: \today
   1. Kullenberg, C.  20060806, Svenska Dagbladet,  ["Vi har inget att oroa oss för"](http://www.svd.se/vi-har-inget-att-oroa-oss-for).
 
 #### Popularizations: book chapters and articles
-  1. Kullenberg, C.  (2017, in press) "Transistorrytm", *Monad*, No. 2 (2017).
+
+  <!-- 1. Kullenberg, C.  (2017, in press) "Transistorrytm", *Monad*, No. 2 (2017). -->
+
   1. Kullenberg, C.  (2016) "Alla kan forska 1. Vad är medborgarvetenskap och hur skiljer den sig från vanlig vetenskap", *Modern filosofi*, 2016(3), 68-69.
   1. Kullenberg, C.  (2013) "Nätets Geopolitik", in *Det är vår värld – tio unga röster om global solidaritet*, Stockholm: A-smedjan.
   1. Kullenberg, C.  (2010) "Teknik är samhället gjort hållbart… eller?", in Tovhult Klara (eds) *Kunskap, kommunikation, kontroll – Drömmar och farhågor i informationssamhället*, Stockholm: Sharing is Caring Förlag.
@@ -196,9 +204,14 @@ date: \today
 
 
 ## Research Collaborations
+
+  <!-- scishop -->
+
   1. Member of the [Citizen Science Association Working Group for Data and Metadata.](https://citizenscienceassociation.org/overview/steering-committees/#metadata)
   1. Member of the [Learning and Media Technology Studio, LETStudio, University of Gothenburg.](http://letstudio.gu.se/members/christopher-kullenberg)
   1. Board Member of the [Swedish Ernst Cassirer Society](http://cassirer.se/sallskapet/styrelse/).
+
+
 
 
 ## Referee work
@@ -232,12 +245,16 @@ date: \today
 
 
 ### Other
+
+  <!-- Luftdata -->
+
   1. Member of the scientific advisory board of the project ["Minnen av Selma Lagerlöf", funded by Riksbankens Jubileumsfond](http://anslag.rj.se/sv/anslag/52553).
 
 
 ## Public outreach and extra-academic collaborations
 
 ### Interviews in mass media
+  1. 20180305 - Dagens Nyheter, [Metoo - koden som förändrade världen](https://www.dn.se/nyheter/vetenskap/metoo-koden-som-forandrade-varlden/).
   1. 20180131 - SR P3, PP3, [Porrbotar och ord man borde sluta med](http://t.sr.se/2Gv0I2K).
   1. 20180123 - Sputnik News, ["Swedish Group Rises Against Wave of Porn Bots Flooding Social Networks"](https://sputniknews.com/viral/201801231060991240-sweden-bots-porn-storm/).
   1. 20180123 - Aftonbladet, ["Svenska twittrare invaderade av porrbotar"](https://www.aftonbladet.se/nyheter/a/On3x0w/svenska-twittrare-invaderade-av-porrbotar).
