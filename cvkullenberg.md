@@ -128,7 +128,6 @@ date: \today
   <!--  EASST -->
   <!-- Zurich -->
 
-
   1. Andreas Nord, Johan Järlehed & Christopher Kullenberg, [För anslagstavlan i tiden: Vad händer på svenska anslagstavlor?](http://www2.nordiska.uu.se/konferens/svebe36/sammandrag/nord-jarlehed-kullenberg/), *Svenskans beskrivning*, Uppsala University, 25–27 october 2017.
   1. Kullenberg, C. (2017) "Talking about #citizenscience", [Third Nordic Science and Technology Conference, Göteborg, May 31-June2](http://socav.gu.se/english/research/third-nordic-science-and-technology-studies-conference).
   1. Kasperowski, D. ; Kullenberg, C. (2016) "Citizen Humanities: Configuring Interpretation and Perception for Participation". *Citizen Science – Innovation in Open Science, Society and Policy*, 19–21 May 2016, Berlin, 26-27.
@@ -254,6 +253,7 @@ date: \today
 ## Public outreach and extra-academic collaborations
 
 ### Interviews in mass media
+  1. 20180308 - Dagens Nyheter, [Hatkontots filmer tillbaka på Youtube](https://www.dn.se/nyheter/sverige/hatkontots-filmer-tillbaka-pa-youtube/)
   1. 20180305 - Dagens Nyheter, [Metoo - koden som förändrade världen](https://www.dn.se/nyheter/vetenskap/metoo-koden-som-forandrade-varlden/).
   1. 20180131 - SR P3, PP3, [Porrbotar och ord man borde sluta med](http://t.sr.se/2Gv0I2K).
   1. 20180123 - Sputnik News, ["Swedish Group Rises Against Wave of Porn Bots Flooding Social Networks"](https://sputniknews.com/viral/201801231060991240-sweden-bots-porn-storm/).
@@ -346,11 +346,11 @@ date: \today
   1. 20080626 - Proletären, [](http://www.proletaren.se/inrikes/)
 
 
-<!--
+
 ### Exhibitions
 
-* Tekniska museet.
--->
+* Co-creator of [Digital Now #4: En kod som förändrar världen #metoo](https://www.tekniskamuseet.se/pa-gang/invigning-digital-now-4-en-kod-som-forandrar-varlden-metoo/), Tekniska muséet (National Museum of Science and Technology), Stockholm.
+
 
 
 ### Invited speaker
