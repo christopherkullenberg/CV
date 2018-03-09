@@ -125,10 +125,9 @@ date: \today
 #### Conference contributions, peer reviewed  
 
   <!-- 4S australien -->
-  <!--  EASST -->
-  <!-- Zurich -->
 
-  1. Andreas Nord, Johan Järlehed & Christopher Kullenberg, [För anslagstavlan i tiden: Vad händer på svenska anslagstavlor?](http://www2.nordiska.uu.se/konferens/svebe36/sammandrag/nord-jarlehed-kullenberg/), *Svenskans beskrivning*, Uppsala University, 25–27 october 2017.
+  1. Kasperowski, Dick., Kullenberg, Christopher., Rohden, Frauke. (2018) ["Epistemic cultures in citizen science and humanities: Distribution, epistemic subjects, programs and anti-programs"](https://nomadit.co.uk/easst/easst2018/conferencesuite.php/panels/Views/All%20Panels), *EASST2018: Meetings - Making Science, Technology and Society together*, Lancaster University, UK.
+  1. Andreas Nord, Johan Järlehed & Christopher Kullenberg, ["För anslagstavlan i tiden: Vad händer på svenska anslagstavlor?"](http://www2.nordiska.uu.se/konferens/svebe36/sammandrag/nord-jarlehed-kullenberg/), *Svenskans beskrivning*, Uppsala University, 25–27 october 2017.
   1. Kullenberg, C. (2017) "Talking about #citizenscience", [Third Nordic Science and Technology Conference, Göteborg, May 31-June2](http://socav.gu.se/english/research/third-nordic-science-and-technology-studies-conference).
   1. Kasperowski, D. ; Kullenberg, C. (2016) "Citizen Humanities: Configuring Interpretation and Perception for Participation". *Citizen Science – Innovation in Open Science, Society and Policy*, 19–21 May 2016, Berlin, 26-27.
   1. Nelhans, G. ; Kullenberg, C. (2016) "Happiness as a Valuation of Nations: From Margin to Indicator". *4S/EASST Conference*, Barcelona 2016.
@@ -349,14 +348,13 @@ date: \today
 
 ### Exhibitions
 
-* Co-creator of [Digital Now #4: En kod som förändrar världen #metoo](https://www.tekniskamuseet.se/pa-gang/invigning-digital-now-4-en-kod-som-forandrar-varlden-metoo/), Tekniska muséet (National Museum of Science and Technology), Stockholm.
+* 2018 - Co-creator of [Digital Now #4: En kod som förändrar världen #metoo](https://www.tekniskamuseet.se/pa-gang/invigning-digital-now-4-en-kod-som-forandrar-varlden-metoo/), Tekniska muséet (National Museum of Science and Technology), Stockholm.
 
 
 
 ### Invited speaker
 
-  <!-- Lägg till Geneve/Strasser -->
-
+  1. 20180602 - "The politics of Data in the intersection between Hacker Culture and Citizen Science", Science & Dissent Workshop, June 1-2, 2018, University of Geneva, Switzerland
   1. 20171211 - ["Öppen vetenskap och demokrati"](http://www.u-care.uu.se/kalendarium/evenemang/?eventId=29958), Mötesplats U-CARE 1. Open Science, Uppsala University.
   1. 20171204 - "Medborgarvetenskap och samverkan", SSU Haga-Anneldal, Gotenburg.
   1. 20171108 - ["Collecting Analog Bulletin Board Messages Using a Citizen Science Methodology, GPS 400 Gothenburg Cultures on the town 1621-2021](http://gps400.gu.se/digitalAssets/1662/1662945_gps400-conference_final-programme.pdf).
@@ -483,7 +481,7 @@ date: \today
   1. Viktoria Lagerkvist (2018) "Samspel eller kamp? En kritisk analys av bibliotekschefers strategiska kommunikation i den kommunala politiska verkligheten", Magisteruppsats, University of Borås.
   1. Julia Ahlqvist (2017) "Sambandet mellan kommunikativt ledarskap och arbetsmotivation hos medarbetare i servicebranschen", Magisteruppsats, University of Borås.
 
-<!-- Lägg till maskininlärningsuppsatsen -->
+
 
 ### Library and information science: Thesis examination, masters's Degree
   1. Helena Löfström (2017) "Explaining the predictions of classification",
