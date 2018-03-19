@@ -252,9 +252,10 @@ date: \today
 ## Public outreach and extra-academic collaborations
 
 ### Interviews in mass media
-  1. 20180308 - Dagens Nyheter, [Hatkontots filmer tillbaka på Youtube](https://www.dn.se/nyheter/sverige/hatkontots-filmer-tillbaka-pa-youtube/)
-  1. 20180305 - Dagens Nyheter, [Metoo - koden som förändrade världen](https://www.dn.se/nyheter/vetenskap/metoo-koden-som-forandrade-varlden/).
-  1. 20180131 - SR P3, PP3, [Porrbotar och ord man borde sluta med](http://t.sr.se/2Gv0I2K).
+  1. 20180314 - Göteborgs Posten, ["Expert: Tystnaden skadar Google"](http://www.gp.se/nyheter/ekonomi/experten-d%C3%A4rf%C3%B6r-skadar-tystnaden-google-1.5393870)
+  1. 20180308 - Dagens Nyheter, ["Hatkontots filmer tillbaka på Youtube"](https://www.dn.se/nyheter/sverige/hatkontots-filmer-tillbaka-pa-youtube/)
+  1. 20180305 - Dagens Nyheter, ["Metoo - koden som förändrade världen"](https://www.dn.se/nyheter/vetenskap/metoo-koden-som-forandrade-varlden/).
+  1. 20180131 - SR P3, PP3, ["Porrbotar och ord man borde sluta med"](http://t.sr.se/2Gv0I2K).
   1. 20180123 - Sputnik News, ["Swedish Group Rises Against Wave of Porn Bots Flooding Social Networks"](https://sputniknews.com/viral/201801231060991240-sweden-bots-porn-storm/).
   1. 20180123 - Aftonbladet, ["Svenska twittrare invaderade av porrbotar"](https://www.aftonbladet.se/nyheter/a/On3x0w/svenska-twittrare-invaderade-av-porrbotar).
   1. 20180122 - SVT Nyheter, ["De kartlägger porrbotarna på Twitter"](https://www.svt.se/nyheter/inrikes/de-kartlagger-porrbotarna-pa-twitter).
@@ -496,6 +497,8 @@ date: \today
   1. 2016 - 2017. Co-supervisor for Ph.D.-candidate Erik Joelsson, Theory of Science, University of Gothenburg. [Thesis completed in February 2017](https://gupea.ub.gu.se/handle/2077/51493).
 
 ### Teaching, post-graduate level
+
+  1. (2018-03-14), Guest lecture, "Digital methods", *Digital and Visual Methods*, Chalmers University of Technology, Dept. for Science, Technology and Society.  
   1. (2017), Guest lecture, "Outreach and cooperation with society at large", [Introduktionsvecka för doktorander](http://hum.gu.se/utbildning/forskarniva/introduktionsvecka-for-doktorander-2017), University of Gothenburg.
   1. (2016), Guest lecture "Citizen Science and Biodiversity Research", BioEnv higher education, Department of Biological and Environmental Sciences, University of Gothenburg.
   1. (2012), Guest lecture, "Net politics, process philosophy and Deleuze", Theories of Practical Knowing, HDK/Högskolan för Design och Konsthantverk, Göteborg.
