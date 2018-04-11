@@ -107,6 +107,9 @@ date: \today
 ### Other publications
 
 #### Reports
+
+  <!-- lägg till: Formasrapporten -->
+
   1. Kullenberg, C.  Ulrike Sturm, Sven Schade, Luigi Ceccaroni, Margaret Gold,
   Christopher C. M. Kyba, Bernat Claramunt, Muki Haklay, Dick Kasperowski,
   Alexandra Albert, Jaume Piera, Jonathan Brier, Christopher Kullenberg,
@@ -244,7 +247,6 @@ date: \today
 
 ### Other
 
-  <!-- Luftdata -->
 
   1. Member of the scientific advisory board of the project ["Minnen av Selma Lagerlöf", funded by Riksbankens Jubileumsfond](http://anslag.rj.se/sv/anslag/52553).
 
