@@ -254,8 +254,9 @@ date: \today
 ## Public outreach and extra-academic collaborations
 
 ### Interviews in mass media
-  1. 20180314 - Göteborgs Posten, ["Expert: Tystnaden skadar Google"](http://www.gp.se/nyheter/ekonomi/experten-d%C3%A4rf%C3%B6r-skadar-tystnaden-google-1.5393870)
-  1. 20180308 - Dagens Nyheter, ["Hatkontots filmer tillbaka på Youtube"](https://www.dn.se/nyheter/sverige/hatkontots-filmer-tillbaka-pa-youtube/)
+  1. 20180412 - Computer Sweden, ["Stort skifte väntar när forskningens data öppnas upp"](https://computersweden.idg.se/2.2683/1.700745/forskning-data).
+  1. 20180314 - Göteborgs Posten, ["Expert: Tystnaden skadar Google"](http://www.gp.se/nyheter/ekonomi/experten-d%C3%A4rf%C3%B6r-skadar-tystnaden-google-1.5393870).
+  1. 20180308 - Dagens Nyheter, ["Hatkontots filmer tillbaka på Youtube"](https://www.dn.se/nyheter/sverige/hatkontots-filmer-tillbaka-pa-youtube/).
   1. 20180305 - Dagens Nyheter, ["Metoo - koden som förändrade världen"](https://www.dn.se/nyheter/vetenskap/metoo-koden-som-forandrade-varlden/).
   1. 20180131 - SR P3, PP3, ["Porrbotar och ord man borde sluta med"](http://t.sr.se/2Gv0I2K).
   1. 20180123 - Sputnik News, ["Swedish Group Rises Against Wave of Porn Bots Flooding Social Networks"](https://sputniknews.com/viral/201801231060991240-sweden-bots-porn-storm/).
