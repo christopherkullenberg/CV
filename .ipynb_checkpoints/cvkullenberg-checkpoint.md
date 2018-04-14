@@ -90,7 +90,7 @@ date: \today
 <!-- Norska boken + LETSboken-->
 <!-- Anslagstavlan på svenska till antologi -->
 
-  1. Hård af Segerstad, Y. ; Howes, C. ; Kasperowski, D. & Kullenberg, C. (2017, in press) "Studying closed communities on-line: digital methods and ethical considerations beyond informed consent and pseudonymity". Zimmer, M. & Kinder-Kurlanda, K. (Eds.). *Internet Research Ethics for the Social Age: New Cases and Challenges*. Peter Lang.
+  1. Hård af Segerstad, Y. ; Howes, C. ; Kasperowski, D. & Kullenberg, C. (2017) "Studying closed communities on-line: digital methods and ethical considerations beyond informed consent and pseudonymity". Zimmer, M. & Kinder-Kurlanda, K. (Eds.). *Internet Research Ethics for the Social Age: New Cases and Challenges*. Peter Lang.
   1. Kullenberg, C. (2011) "Sociology in the Making: Statistics as a Mediator between the Social sciences, Practice and the State", in Ann Rudinow Saetnan, Heidi Mork Lomell, Svein Hammer, *The Mutual Construction of Statistics and Society*, New York: Routledge.
 
 #### Editorial review
@@ -120,7 +120,7 @@ date: \today
   Andreas Nord, Tove Rosendal, Sara Van Meerbergen & Gustav Westberg (2017) ["Slutrapport
   Anslagstavlan - Forskarfredags Massexperiment 2016](https://www.forskarfredag.se/filer/ff2016-anslagstavlan-slutrapport.pdf), VA-rapport 2017:1}, Red. Fredrik Bronéus,
   Stockholm: Vetenskap och Allmänhet, ISSN 1653-6843.
-  1. Kullenberg, C.  Kullenberg, Christopher (2017) [Open data 1. buzz word or virtual opportunities?](http://www.slu.se/globalassets/ew/subw/lifewatch/publikationer/slw-summary-report-web-170622.pdf), in *Swedish LifeWatch – a national e-infrastructure for biodiversity data*, ArtDatabanken SLU, ISBN
+  1. Kullenberg, C.  Kullenberg, Christopher (2017) [Open data - buzz word or virtual opportunities?](http://www.slu.se/globalassets/ew/subw/lifewatch/publikationer/slw-summary-report-web-170622.pdf), in *Swedish LifeWatch – a national e-infrastructure for biodiversity data*, ArtDatabanken SLU, ISBN
   978-91-87853-17-3.
 
 #### Preface and review of translation
@@ -142,7 +142,7 @@ date: \today
   1. Kullenberg, C.  (2008) "From State Sociology to Centres of Calculation: the Swedish case". *Acting with Science, Technology and Medicine 4S-EASST 2008 Rotterdam*, the Netherlands, August 20-23 2008. 367-368.
 
 #### Research notes
-  1. Kullenberg, C.  (2017) "Bibliometric probing of the concept 'open science' 1. a notebook",
+  1. Kullenberg, C.  (2017) "Bibliometric probing of the concept 'open science' - a notebook",
   [https://github.com/christopherkullenberg/openscienceliterature/](https://github.com/christopherkullenberg/openscienceliterature/).
 
 
@@ -186,7 +186,7 @@ date: \today
 
   <!-- 1. Kullenberg, C.  (2017, in press) "Transistorrytm", *Monad*, No. 2 (2017). -->
 
-  1. Kullenberg, C.  (2016) "Alla kan forska 1. Vad är medborgarvetenskap och hur skiljer den sig från vanlig vetenskap", *Modern filosofi*, 2016(3), 68-69.
+  1. Kullenberg, C.  (2016) "Alla kan forska - Vad är medborgarvetenskap och hur skiljer den sig från vanlig vetenskap", *Modern filosofi*, 2016(3), 68-69.
   1. Kullenberg, C.  (2013) "Nätets Geopolitik", in *Det är vår värld – tio unga röster om global solidaritet*, Stockholm: A-smedjan.
   1. Kullenberg, C.  (2010) "Teknik är samhället gjort hållbart… eller?", in Tovhult Klara (eds) *Kunskap, kommunikation, kontroll – Drömmar och farhågor i informationssamhället*, Stockholm: Sharing is Caring Förlag.
 
@@ -199,10 +199,10 @@ date: \today
   Nationell Datatjänst. [DOI 10.5878/002633](http://dx.doi.org/10.5878/002633).
 
 #### Software
-  1. Kullenberg, C (2018) **Talk Analyzer**, forum analysis software, [https://github.com/christopherkullenberg/talk-analyzer](https://github.com/christopherkullenberg/talk-analyzer)
-  1. Kullenberg, C. (2015) **Cite.py**, Citation analysis software, [https://github.com/christopherkullenberg/Citepy](https://github.com/christopherkullenberg/Citepy)
+  1. Kullenberg, C (2018) *Talk Analyzer*, forum analysis software, [https://github.com/christopherkullenberg/talk-analyzer](https://github.com/christopherkullenberg/talk-analyzer)
+  1. Kullenberg, C. (2015) *Cite.py*, Citation analysis software, [https://github.com/christopherkullenberg/Citepy](https://github.com/christopherkullenberg/Citepy)
   1. Kullenberg, C. (2016) [offentligautredningar.flov.gu.se](http://offentligautredningar.flov.gu.se/), Search engine for Statens offentliga utredningar,  [github.com/christopherkullenberg/offentligautredningar.se](https://github.com/christopherkullenberg/offentligautredningar.se).
-  1. Kullenberg, C. (2016) [Genuskollen.se](https://genuskollen.se), Gender counter algorithm based on names, [github.com/christopherkullenberg/gendercounter](https://github.com/christopherkullenberg/gendercounter).
+  1. Kullenberg, C. (2016) *[Genuskollen.se](https://genuskollen.se)*, Gender counter algorithm based on names, [github.com/christopherkullenberg/gendercounter](https://github.com/christopherkullenberg/gendercounter).
 
 
 
