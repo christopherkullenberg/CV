@@ -224,8 +224,12 @@ date: \today
   Philosophy, Linguistics and Theory of Science, University of Gothenburg, (2017).
 
 ### Pre-publication reviews
+
+  <!-- Add: Citizen science theory and practice -->
+
   (see also: [publons.com/a/1172130/](publons.com/a/1172130/))
 
+  1. *Journal of Science Communication* (2018)
   1. *Journal of Resistance Studies* (2017)
   1. *Cities* (2017)
   1. *Lychnos* (2017)
@@ -350,8 +354,10 @@ date: \today
 
 
 
-### Exhibitions
-  1. 2018 - Co-creator of [Digital Now #4: En kod som förändrar världen #metoo](https://www.tekniskamuseet.se/pa-gang/invigning-digital-now-4-en-kod-som-forandrar-varlden-metoo/), Tekniska muséet (National Museum of Science and Technology), Stockholm.
+### Exhibitions and public outreach workshops
+  1. 20180421 - Co-organiser and workshop instructor on [Citizen Science med miljösensorer för luftkvalitet](http://vetenskapsfestivalen.se/wp-content/uploads/2018/04/Vetenskapsfestivalen-%C3%96ppna-programmet-2018.pdf), Vetenskapsfestivalen (Gothenburg Science Fair), Gothenburg.
+  1. 20180308 - Co-creator of [Digital Now #4: En kod som förändrar världen #metoo](https://www.tekniskamuseet.se/pa-gang/invigning-digital-now-4-en-kod-som-forandrar-varlden-metoo/), Tekniska muséet (National Museum of Science and Technology), Stockholm.
+
 
 
 ### Invited speaker
