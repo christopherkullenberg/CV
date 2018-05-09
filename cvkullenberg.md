@@ -22,6 +22,7 @@ date: \today
   * [2006. Supervision in Postgraduate Education](http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf) ([Högskolepedagogisk handledning, PD0180](http://files.christopherkullenberg.se/PD0180.pdf)), 7.5 ECTS.
   * [2016. Formal credits for the course HPE102 Teaching and learning in Higher Education 2: Discipline Specific Pedagogic](http://kursplaner.gu.se/svenska/HPE102.pdf).
   * [2016. MITx 6.00.1x Introduction to Computer Science](https://courses.edx.org/certificates/f9c30b3913be4004b95813db59432509).
+  * 2018. LADOK3 Authorization course, University of Gothenburg. 
 
 
 ## Employments
@@ -225,10 +226,11 @@ date: \today
 
 ### Pre-publication reviews
 
-  <!-- Add: Citizen science theory and practice -->
+  <!-- Add: Citizen science theory and practice number 2-->
 
   (see also: [publons.com/a/1172130/](publons.com/a/1172130/))
 
+  1. *Citizen Science: Theory and Practice* (2018)
   1. *Journal of Science Communication* (2018)
   1. *Journal of Resistance Studies* (2017)
   1. *Cities* (2017)
