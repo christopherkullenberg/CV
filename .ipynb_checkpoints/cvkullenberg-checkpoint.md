@@ -16,6 +16,9 @@ date: \today
 
 ### Doctoral degree
   * [Ph.D., Theory of Science, 2012.](http://files.christopherkullenberg.se/doctoraldegreeonline.pdf)
+  
+### Promotion to Reader
+  * [Reader in Theory of Science (Docent i Vetenskapsteori), 2018-05-09](http://files.christopherkullenberg.se/Docentbevis_ChristopherKullenberg_P2017_366_anon.pdf)
 
 ### Other courses
   * [2006. Teaching and Learning in Higher Education](http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf) ([Högskolepedagogik för lärare, PE0940](http://files.christopherkullenberg.se/PE0940.pdf)), 7.5 ECTS.
@@ -226,10 +229,11 @@ date: \today
 
 ### Pre-publication reviews
 
-  <!-- Add: Citizen science theory and practice -->
+  <!-- Add: Citizen science theory and practice number 2-->
 
   (see also: [publons.com/a/1172130/](publons.com/a/1172130/))
 
+  1. *Citizen Science: Theory and Practice* (2018)
   1. *Journal of Science Communication* (2018)
   1. *Journal of Resistance Studies* (2017)
   1. *Cities* (2017)
