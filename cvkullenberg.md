@@ -229,10 +229,10 @@ date: \today
 
 ### Pre-publication reviews
 
-  <!-- Add: Citizen science theory and practice number 2-->
 
   (see also: [publons.com/a/1172130/](publons.com/a/1172130/))
 
+  1. *Citizen Science: Theory and Practice* (2018)
   1. *Citizen Science: Theory and Practice* (2018)
   1. *Journal of Science Communication* (2018)
   1. *Journal of Resistance Studies* (2017)
@@ -441,11 +441,15 @@ date: \today
   1. 2005 (Course administrator) "Strategic Communication", 7.5 ECTS, Basic level, University West.
 
 
-### Communication studies: Thesis supervision, Master (Magister) level}
+### Master's Programme for communication officers in the public sector: Thesis supervision, Master (Magister) level}
 
   <!-- Lägg till Daniel Kursu -->
-  <!-- Lägg till våren 18 de sex uppsatserna -->
+  <!-- Lägg till våren 18, 3 till uppsatser -->
 
+
+  1. Gabriela Velasquez Ulloa (2018) "Hur når vi ut? Om att skapa engagemang
+på sociala medier", University of Gothenburg. 
+  1. Emelie Engström (2018) "Goa patienter och kompetent personal? En innehålls- och textanalys av Sahlgrenska Universitetssjukhusets värdeord på Instagram", University of Gothenburg.
   1. Clara Tortosa (2017) "Vem är göteborgaren i Vårt Göteborg? - En diskursanalys av Vi och dem i en kommuntidning", University of Gothenburg.
   1. Peter Häggbom Norrby (2017) "Medborgaren i kommunens kommunikationspolicy - En jämförelse mellan tio kommuner", University of Gothenburg.
   1. Louise Sjöström (2017), "Från kulturpolitik till kommunikation - En analys av hur fem verksamheters statliga och kommunala uppdrag omsätts i kommunikationen", University of Gothenburg.
@@ -478,6 +482,12 @@ date: \today
   1. Christina Axelsson och Helena Johansson (2004) "LunarStorm - Framtidens fritidsgård? En kvalitativ studie om unga människors användning av Internetcommunities och deras inställningar till betaltjänster", University West, Media and Communication studies.
 
 
+### Master's Programme for communication officers in the public sector: Thesis examination, master's Degree (Magister).
+
+  1. Katarina von Sydow (2018) "Angereds närsjukhus kommunikation av folkhälsa – en fallstudie av 'Rökfria lekplatser' och 'Angereds hjältar', University of Gothenburg.
+  1. Sofie Alnäs (2018) "Kommunikatörer på GU", University of Gothenburg.
+
+
 ### Information architecture studies: Thesis examination, bachelor's Degree
   1. Jonna Axelsson (2017) "Ideella organisationers webbplatser blir användbara - Hur användarupplevelsen kan förbättras på leadersodrabohuslan.se med fokus på användbarhet", Bachelor's Thesis, Information Architecture, University of Borås.
   1. Christine Thelin (2017) "Skapa bättre användarupplevelse och öka besöken - Utvärdering och utvecklingsförslag åt en webbplats inom cafébranschen", Bachelor's Thesis, Information Architecture, University of Borås.
@@ -493,10 +503,20 @@ date: \today
   1. Viktoria Lagerkvist (2018) "Samspel eller kamp? En kritisk analys av bibliotekschefers strategiska kommunikation i den kommunala politiska verkligheten", Magisteruppsats, University of Borås.
   1. Julia Ahlqvist (2017) "Sambandet mellan kommunikativt ledarskap och arbetsmotivation hos medarbetare i servicebranschen", Magisteruppsats, University of Borås.
 
+<!--
 
 ### Library and information science: Thesis examination, masters's Degree
   1. Helena Löfström (2017) "Explaining the predictions of classification",
   master's thesis, University of Borås.
+
+-->
+
+<!--
+
+### Evidence-basing: practice, theory, context: Master's level (Magister)
+  1. Emelie Askaner
+
+-->
 
 
 
@@ -507,7 +527,7 @@ date: \today
   1. 2016 - 2017. Co-supervisor for Ph.D.-candidate Erik Joelsson, Theory of Science, University of Gothenburg. [Thesis completed in February 2017](https://gupea.ub.gu.se/handle/2077/51493).
 
 ### Teaching, post-graduate level
-  1. (2018-03-14), Guest lecture, "Digital methods", *Digital and Visual Methods*, Chalmers University of Technology, Dept. for Science, Technology and Society.  
+  1. (2018-03-14), Guest lecture, "Digital methods", *Digital and Visual Methods*, Chalmers University of Technology, Dept. for Science, Technology and Society.
   1. (2017), Guest lecture, "Outreach and cooperation with society at large", [Introduktionsvecka för doktorander](http://hum.gu.se/utbildning/forskarniva/introduktionsvecka-for-doktorander-2017), University of Gothenburg.
   1. (2016), Guest lecture "Citizen Science and Biodiversity Research", BioEnv higher education, Department of Biological and Environmental Sciences, University of Gothenburg.
   1. (2012), Guest lecture, "Net politics, process philosophy and Deleuze", Theories of Practical Knowing, HDK/Högskolan för Design och Konsthantverk, Göteborg.
@@ -521,5 +541,8 @@ date: \today
   1. [digitalametoder.science - Tools and tutorials for digital methods in the humanities and social sciences](http://digitalametoder.science).
 
 ## Other pedagogical experiences
+
+   <!-- lägg till koordinator -->
+
   1. [Study Administrator (Studierektor), Spring semester 2014](http://files.christopherkullenberg.se/studierektoronline.pdf).
   1. [2012 1. 2014. Member of Rådet för Europastudier vid Göteborgs universitet (REGU)](http://files.christopherkullenberg.se/IntygREGU.pdf).
