@@ -209,7 +209,6 @@ date: \today
   1. Kullenberg, C. (2016) *[Genuskollen.se](https://genuskollen.se)*, Gender counter algorithm based on names, [github.com/christopherkullenberg/gendercounter](https://github.com/christopherkullenberg/gendercounter).
 
 
-
 ## Research Collaborations
 
   <!-- scishops.eu -->
@@ -232,6 +231,7 @@ date: \today
 
   (see also: [publons.com/a/1172130/](publons.com/a/1172130/))
 
+  1. *New Media and Society" (2018)
   1. *Citizen Science: Theory and Practice* (2018)
   1. *Citizen Science: Theory and Practice* (2018)
   1. *Journal of Science Communication* (2018)
@@ -485,7 +485,8 @@ på sociala medier", University of Gothenburg.
 ### Master's Programme for communication officers in the public sector: Thesis examination, master's Degree (Magister).
 
   1. Katarina von Sydow (2018) "Angereds närsjukhus kommunikation av folkhälsa – en fallstudie av 'Rökfria lekplatser' och 'Angereds hjältar', University of Gothenburg.
-  1. Sofie Alnäs (2018) "Kommunikatörer på GU", University of Gothenburg.
+  1. Sofie Alnäs (2018) "I skärningspunkten mellan lokal och central styrning. En undersökning av kommunikatörens
+roll på sex institutioner vid Göteborgs universitet", University of Gothenburg.
 
 
 ### Information architecture studies: Thesis examination, bachelor's Degree
@@ -513,7 +514,7 @@ på sociala medier", University of Gothenburg.
 
 <!--
 
-### Evidence-basing: practice, theory, context: Master's level (Magister)
+### Evidence-basing: practice, theory, context: Master's level (Magister): Thesis supervision
   1. Emelie Askaner
 
 -->
