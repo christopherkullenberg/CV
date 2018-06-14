@@ -512,12 +512,10 @@ roll på sex institutioner vid Göteborgs universitet", University of Gothenburg
 
 -->
 
-<!--
 
 ### Evidence-basing: practice, theory, context: Master's level (Magister): Thesis supervision
-  1. Emelie Askaner
+  1. Emelie Askaner (2018) "Implementering och standardisering: Undersökning av en  standardiserings påverkan på arbetsterapeuter professionella status - Förväntningar och farhågor  inför en implementeringsplan av AusTOMs, Magisteruppsats, University of Gothenburg.
 
--->
 
 
 
