@@ -3,7 +3,7 @@ title: CV
 author: Christopher Kullenberg
 date: \today
 ---
-
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
 \newpage
 
 
@@ -11,27 +11,28 @@ date: \today
 ## Formal education
 
 ### Academic first degrees
-  * [M.A., Theory of Science, 2005](http://files.christopherkullenberg.se/examengrundutbildningonline.pdf).
   * [B.A., Media \& Communication Science, 2004](http://files.christopherkullenberg.se/examengrundutbildningonline.pdf).
+  * [M.A., Theory of Science, 2005](http://files.christopherkullenberg.se/examengrundutbildningonline.pdf).
+
 
 ### Doctoral degree
   * [Ph.D., Theory of Science, 2012.](http://files.christopherkullenberg.se/doctoraldegreeonline.pdf)
   
-### Promotion to Reader
+### Promotion to Reader (Docent)
   * [Reader in Theory of Science (Docent i Vetenskapsteori), 2018-05-09](http://files.christopherkullenberg.se/Docentbevis_ChristopherKullenberg_P2017_366_anon.pdf)
 
 ### Other courses
-  * [2006. Teaching and Learning in Higher Education](http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf) ([Högskolepedagogik för lärare, PE0940](http://files.christopherkullenberg.se/PE0940.pdf)), 7.5 ECTS.
-  * [2006. Supervision in Postgraduate Education](http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf) ([Högskolepedagogisk handledning, PD0180](http://files.christopherkullenberg.se/PD0180.pdf)), 7.5 ECTS.
-  * [2016. Formal credits for the course HPE102 Teaching and learning in Higher Education 2: Discipline Specific Pedagogic](http://kursplaner.gu.se/svenska/HPE102.pdf).
-  * [2016. MITx 6.00.1x Introduction to Computer Science](https://courses.edx.org/certificates/f9c30b3913be4004b95813db59432509).
-  * 2018. LADOK3 Authorization course, University of Gothenburg. 
+  * [2006 Teaching and Learning in Higher Education](http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf) ([Högskolepedagogik för lärare, PE0940](http://files.christopherkullenberg.se/PE0940.pdf)), 7.5 ECTS.
+  * [2006 Supervision in Postgraduate Education](http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf) ([Högskolepedagogisk handledning, PD0180](http://files.christopherkullenberg.se/PD0180.pdf)), 7.5 ECTS.
+  * [2016 Formal credits for the course HPE102 Teaching and learning in Higher Education 2: Discipline Specific Pedagogic](http://kursplaner.gu.se/svenska/HPE102.pdf).
+  * [2016 MITx 6.00.1x Introduction to Computer Science](https://courses.edx.org/certificates/f9c30b3913be4004b95813db59432509).
+  * 2018 LADOK3 Authorization course, University of Gothenburg.
 
 
 ## Employments
 
-## Current Employment
-  * 20180201 - Senior Lecturer in Theory of Science, Dept. of Philosophy, Linguistics and Theory of Science, University of Gothenburg.
+### Current Employment
+  * 20180201 - Senior Lecturer in Theory of Science, Dept. of Philosophy, Linguistics and Theory of Science, University of Gothenburg. Full time. (Application number PAR 2017/92).
 
 ### Research projects, externally funded. <!-- aand formas-->
   1. Responsible for work package "Portal construction", 40%, 2017-2021, "Arenor för relationsbyggande samverkan genom medborgarforskning",
@@ -41,17 +42,16 @@ date: \today
       PI: Margareta Hallberg, Grant number: [2012-1117](http://vrproj.vr.se/detail.asp?arendeid=90421).
   1. Researcher 50%, 2015, "Subcultures on the Net: Resistance and Engagement in Knowledge Practices", LETStudio, pilot project.
 
-### Adjunct lecturer, instructor
+### Previous employments
   * [Instructor, part time, 2004-2006](http://files.christopherkullenberg.se/universitywest.pdf). University West.
   * [Adjunct Lecturer, part time, 2006-2013](http://files.christopherkullenberg.se/anstallningarGU.pdf). University of Gothenburg.
   * [Instructor, part time, 2014-2015](http://files.christopherkullenberg.se/anstallningarGU.pdf). University of Gothenburg.
-
-### Lecturer
   * [Senior lecturer, part time, 201708-201802](http://files.christopherkullenberg.se/anstallningsbeslutboras.pdf). University of Borås.
-  * 20180201 - current. Senior Lecturer in Theory of Science, full time. Application number PAR 2017/92. University of Gothenburg.
 
-### Other
+
+### Administrative duties
   * [Study Administrator, spring semester 2014](http://files.christopherkullenberg.se/studierektoronline.pdf). University of Gothenburg.
+	<!-- Lägg till koordinator-->
 
 
 
@@ -231,7 +231,7 @@ date: \today
 
   (see also: [publons.com/a/1172130/](publons.com/a/1172130/))
 
-  1. *New Media and Society" (2018)
+  1. *New Media and Society* (2018)
   1. *Citizen Science: Theory and Practice* (2018)
   1. *Citizen Science: Theory and Practice* (2018)
   1. *Journal of Science Communication* (2018)
