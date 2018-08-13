@@ -211,11 +211,11 @@ date: \today
 
 ## Research Collaborations
 
-  <!-- scishops.eu -->
-
+  1. Member of the [Expert and advisory board for Scishops.eu](https://www.scishops.eu/export-and-advisory-board/#16).
   1. Member of the [Citizen Science Association Working Group for Data and Metadata.](https://citizenscienceassociation.org/overview/steering-committees/#metadata)
-  1. Member of the [Learning and Media Technology Studio, LETStudio, University of Gothenburg.](http://letstudio.gu.se/members/christopher-kullenberg)
+  1. Member of the [Learning and Media Technology Studio, LETStudio, University of Gothenburg.](http://letstudio.gu.se/members/christopher-kullenberg).
   1. Board Member of the [Swedish Ernst Cassirer Society](http://cassirer.se/sallskapet/styrelse/).
+  1. Member of the scientific advisory board of the project ["Minnen av Selma Lagerlöf", funded by Riksbankens Jubileumsfond](http://anslag.rj.se/sv/anslag/52553).
 
 
 
@@ -256,8 +256,6 @@ date: \today
   1. [2015 1. present, Editorial board member, Resistance Studies Journal.](http://resistance-journal.org/editorialboard/)
 
 
-### Other
-  1. Member of the scientific advisory board of the project ["Minnen av Selma Lagerlöf", funded by Riksbankens Jubileumsfond](http://anslag.rj.se/sv/anslag/52553).
 
 
 ## Public outreach and extra-academic collaborations
