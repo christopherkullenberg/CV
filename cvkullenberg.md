@@ -539,7 +539,7 @@ roll på sex institutioner vid Göteborgs universitet", University of Gothenburg
 
 ## Other pedagogical experiences
 
-   <!-- lägg till koordinator -->
-
+  1. 2018 - ongoing. Programme Co-ordinator for the Master's Programme for communication officers in the public sector, 60 - 120
+credits, University of Gothenburg. 
   1. [Study Administrator (Studierektor), Spring semester 2014](http://files.christopherkullenberg.se/studierektoronline.pdf).
-  1. [2012 1. 2014. Member of Rådet för Europastudier vid Göteborgs universitet (REGU)](http://files.christopherkullenberg.se/IntygREGU.pdf).
+  1. [2012 - 2014. Member of Rådet för Europastudier vid Göteborgs universitet (REGU)](http://files.christopherkullenberg.se/IntygREGU.pdf).
