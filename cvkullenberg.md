@@ -58,6 +58,8 @@ date: \today
 
 ## Publications
 
+See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-1577-3570)
+
 ### Monographs
   1. Kullenberg, C. (2012) *The Quantification of Society. A Study of a Swedish Research Institute
   and Survey-Based Social Science*, Department of Philosophy, Linguistics and Theory of Science, University of Gothenburg, Doctoral dissertation,  [ISBN 978-91-628-8458-1](https://gupea.ub.gu.se/handle/2077/28807). 213 pages.
@@ -68,12 +70,13 @@ date: \today
 
 #### Peer reviewed
 
+  <!-- Shakespeares world -->
   <!-- Spotifyartikeln -->
   <!-- Anslagstavlan pedagogikartikel -->
 
-  1. **Kullenberg, Christopher**, Frauke Rohden, Anders Björkvall, Fredrik Brounéus, Anders Avellan-Hultman, Johan Järlehed, Sara Van Meerbergen, et al. “What Are Analog Bulletin Boards Used for Today? Analysing Media Uses, Intermediality and Technology Affordances in Swedish Bulletin Board Messages Using a Citizen Science Approach.” PLOS ONE 13, no. 8 (August 2018): e0202077. https://doi.org/10.1371/journal.pone.0202077.
+  1. **Kullenberg, Christopher**, Frauke Rohden, Anders Björkvall, Fredrik Brounéus, Anders Avellan-Hultman, Johan Järlehed, Sara Van Meerbergen, et al. “What Are Analog Bulletin Boards Used for Today? Analysing Media Uses, Intermediality and Technology Affordances in Swedish Bulletin Board Messages Using a Citizen Science Approach.” *PLOS ONE* 13, no. 8 (August 2018): e0202077. [10.1371/journal.pone.0202077](https://doi.org/10.1371/journal.pone.0202077).
   1.  Marisa Ponti, Thomas Hillman, **Christopher Kullenberg**, Dick Kasperowski (2018) "Getting it Right or Being Top Rank: Games in Citizen Science", *Citizen Science: Theory and Practice*, 3(1), DOI: [10.5334/cstp.101](http://doi.org/10.5334/cstp.101).
-  1. **Kullenberg, C.** , & Nelhans, Gustaf (2017) ["Measuring Welfare beyond GDP 1. Kullenberg, C.  Objective and Subjective Indicators in Sweden, 1968-2015"](https://dx.doi.org/10.3384/VS.2001-5992.17517), *Valuation Studies, 5(1)*,  [10.3384/VS.2001-5992.17517](https://dx.doi.org/10.3384/VS.2001-5992.17517).
+  1. **Kullenberg, C.** , & Nelhans, Gustaf (2017) ["Measuring Welfare beyond GDP - Objective and Subjective Indicators in Sweden, 1968-2015"](https://dx.doi.org/10.3384/VS.2001-5992.17517), *Valuation Studies, 5(1)*,  [10.3384/VS.2001-5992.17517](https://dx.doi.org/10.3384/VS.2001-5992.17517).
   1. **Kullenberg, C.** , & Dick Kasperowski (2016) "What Is Citizen Science? – A Scientometric Meta-Analysis", *PLoS ONE*, 11(1): e0147152, [10.1371/journal.pone.0147152](http://dx.doi.org/10.1371/journal.pone.0147152).
   1. **Kullenberg, C.**  (2015) "Citizen Science as Resistance: Crossing the Boundary Between Reference and Representation", [Journal of Resistance Studies](https://gup.ub.gu.se/publication/218601-citizen-science-as-resistance-crossing-the-boundary-between-reference-and-representation), 1(1).
   1. **Kullenberg, C.** , & Nelhans, Gustaf (2015) "The Happiness Turn? Mapping the Emergence of Happiness Studies using Cited References", *Scientometrics*, Volume 103, Issue 2, Page 615-630,  [10.1007/s11192-015-1536-3](http://dx.doi.org/10.1007/s11192-015-1536-3).
