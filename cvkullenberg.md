@@ -71,9 +71,10 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 #### Peer reviewed
 
   <!-- Shakespeares world -->
-  <!-- Spotifyartikeln -->
+  <!-- Spotifyartikeln UPPDATERA-->
   <!-- Anslagstavlan pedagogikartikel -->
 
+  1. Fleischer, Rasmus & **Kullenberg, Christopher** (in press) "The Political Significance of Spotify in Sweden— Analysing the #backaspotify Campaign using Twitter Data", *Culture Unbound*.
   1. **Kullenberg, Christopher**, Frauke Rohden, Anders Björkvall, Fredrik Brounéus, Anders Avellan-Hultman, Johan Järlehed, Sara Van Meerbergen, et al. “What Are Analog Bulletin Boards Used for Today? Analysing Media Uses, Intermediality and Technology Affordances in Swedish Bulletin Board Messages Using a Citizen Science Approach.” *PLOS ONE* 13, no. 8 (August 2018): e0202077. [10.1371/journal.pone.0202077](https://doi.org/10.1371/journal.pone.0202077).
   1.  Marisa Ponti, Thomas Hillman, **Christopher Kullenberg**, Dick Kasperowski (2018) "Getting it Right or Being Top Rank: Games in Citizen Science", *Citizen Science: Theory and Practice*, 3(1), DOI: [10.5334/cstp.101](http://doi.org/10.5334/cstp.101).
   1. **Kullenberg, C.** , & Nelhans, Gustaf (2017) ["Measuring Welfare beyond GDP - Objective and Subjective Indicators in Sweden, 1968-2015"](https://dx.doi.org/10.3384/VS.2001-5992.17517), *Valuation Studies, 5(1)*,  [10.3384/VS.2001-5992.17517](https://dx.doi.org/10.3384/VS.2001-5992.17517).
@@ -115,9 +116,7 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 ### Other publications
 
 #### Reports
-
-  <!-- lägg till: Formasrapporten -->
-
+  1. Kasperowski, Dick & Kullenberg, Christopher (2018) "[Medborgarforskning och vetenskapens demokratisering](http://www.formas.se/sv/Om-Formas/Formas-Publikationer/Rapporter/Medborgarforskning-och-vetenskapens-demokratisering/)", Forskningsrådet Formas, Rapport R3:2018, ISBN 978-91-540-6102-0.
   1. Kullenberg, C.  Ulrike Sturm, Sven Schade, Luigi Ceccaroni, Margaret Gold,
   Christopher C. M. Kyba, Bernat Claramunt, Muki Haklay, Dick Kasperowski,
   Alexandra Albert, Jaume Piera, Jonathan Brier, Christopher Kullenberg,
@@ -264,6 +263,12 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 ## Public outreach and extra-academic collaborations
 
 ### Interviews in mass media
+
+  1. 20180904 - Göteborgsforskning: Klassisk annonsering fortfarande poppis, GöteborgDirekt.
+  1. 20180903 - Metoden medborgarforskning innebär att forskare tar hjälp av allmänheten, Sveriges Radio P4.  
+  1. 20180831 - Anslagstavlan används fortfarande och är populär, Sveriges Radio P4.
+  1. 20180828 - "Analoga anslagstavlor behövs visst..", Forskning.se.
+  1. 20180828 - "Anslagstavlor fortfarande poppis", SVT Nyheter Väst.
   1. 20180412 - Computer Sweden, ["Stort skifte väntar när forskningens data öppnas upp"](https://computersweden.idg.se/2.2683/1.700745/forskning-data).
   1. 20180314 - Göteborgs Posten, ["Expert: Tystnaden skadar Google"](http://www.gp.se/nyheter/ekonomi/experten-d%C3%A4rf%C3%B6r-skadar-tystnaden-google-1.5393870).
   1. 20180308 - Dagens Nyheter, ["Hatkontots filmer tillbaka på Youtube"](https://www.dn.se/nyheter/sverige/hatkontots-filmer-tillbaka-pa-youtube/).
@@ -367,6 +372,9 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 
 
 ### Invited speaker
+
+<!-- Utrecht -->
+
   1. 20180602 - "The politics of Data in the intersection between Hacker Culture and Citizen Science", Science & Dissent Workshop, June 1-2, 2018, University of Geneva, Switzerland
   1. 20171211 - ["Öppen vetenskap och demokrati"](http://www.u-care.uu.se/kalendarium/evenemang/?eventId=29958), Mötesplats U-CARE 1. Open Science, Uppsala University.
   1. 20171204 - "Medborgarvetenskap och samverkan", SSU Haga-Anneldal, Gotenburg.
@@ -423,7 +431,6 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 
 ### Theory of Science: Courses
 
-<!-- Lägg till evidenshandledningen-->
 
 #### Course administrator and teacher
   1. 2017 (Course administrator together with Mats Dahlström) Digital Research Methods, distance course 15 credits BMBD116h, University of Borås.
@@ -437,7 +444,7 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 
 #### Course administrator and teacher
   1. 2018 (Course administrator) "KT2501 V18 Magisteruppsats", 15 ECTS, Second cycle, University of Gothenburg.
-  1. 2012 1. 2013, 2017. (Course administrator) ["Communication in New and Social Media"](http://files.christopherkullenberg.se/kursplaner/KT2102.pdf), 7.5 ECTS, Second cycle, University of Gothenburg.
+  1. 2012, 2013, 2017, 2018 (Course administrator) ["Communication in New and Social Media"](http://files.christopherkullenberg.se/kursplaner/KT2102.pdf), 7.5 ECTS, Second cycle, University of Gothenburg.
   1. 2005 (Course administrator) "Media, Individual and Every-day Life", 7.5 ECTS, Basic level, University West.
   1. 2005 (Course administrator) "Strategic Communication", 7.5 ECTS, Basic level, University West.
 
@@ -517,8 +524,9 @@ roll på sex institutioner vid Göteborgs universitet", University of Gothenburg
 ### Evidence-basing: practice, theory, context: Master's level (Magister): Thesis supervision
   1. Emelie Askaner (2018) "Implementering och standardisering: Undersökning av en  standardiserings påverkan på arbetsterapeuter professionella status - Förväntningar och farhågor  inför en implementeringsplan av AusTOMs, Magisteruppsats, University of Gothenburg.
 
-
-
+### Evidence-basing: practice, theory, context: Master's level (Magister): Thesis examination
+  1. Annika Linell (2015) "Att bryta ny mark. En analys av Skolforskningsinstitutets
+första steg inom utbildningsvetenskaplig kumulativitet.", Magisteruppsats, University of Gothenburg.
 
 ## Courses & Thesis supervision, postgraduate level
 
