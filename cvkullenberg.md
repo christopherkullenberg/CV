@@ -71,10 +71,9 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 #### Peer reviewed
 
   <!-- Shakespeares world -->
-  <!-- Spotifyartikeln UPPDATERA-->
   <!-- Anslagstavlan pedagogikartikel -->
 
-  1. Fleischer, Rasmus & **Kullenberg, Christopher** (in press) "The Political Significance of Spotify in Sweden— Analysing the #backaspotify Campaign using Twitter Data", *Culture Unbound*.
+  1. Fleischer, Rasmus & **Kullenberg, Christopher** (2018) "[The Political Significance of Spotify in Sweden— Analysing the #backaspotify Campaign using Twitter Data](http://www.cultureunbound.ep.liu.se/article.asp?DOI=10.3384/cu.2000.1525.20180918)", *Culture Unbound*, Vol 10, Issue 2, DOI 10.3384/cu.2000.1525.20180918.
   1. **Kullenberg, Christopher**, Frauke Rohden, Anders Björkvall, Fredrik Brounéus, Anders Avellan-Hultman, Johan Järlehed, Sara Van Meerbergen, et al. “What Are Analog Bulletin Boards Used for Today? Analysing Media Uses, Intermediality and Technology Affordances in Swedish Bulletin Board Messages Using a Citizen Science Approach.” *PLOS ONE* 13, no. 8 (August 2018): e0202077. [10.1371/journal.pone.0202077](https://doi.org/10.1371/journal.pone.0202077).
   1.  Marisa Ponti, Thomas Hillman, **Christopher Kullenberg**, Dick Kasperowski (2018) "Getting it Right or Being Top Rank: Games in Citizen Science", *Citizen Science: Theory and Practice*, 3(1), DOI: [10.5334/cstp.101](http://doi.org/10.5334/cstp.101).
   1. **Kullenberg, C.** , & Nelhans, Gustaf (2017) ["Measuring Welfare beyond GDP - Objective and Subjective Indicators in Sweden, 1968-2015"](https://dx.doi.org/10.3384/VS.2001-5992.17517), *Valuation Studies, 5(1)*,  [10.3384/VS.2001-5992.17517](https://dx.doi.org/10.3384/VS.2001-5992.17517).
@@ -205,6 +204,7 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
   Nationell Datatjänst. [DOI 10.5878/002633](http://dx.doi.org/10.5878/002633).
 
 #### Software
+  1. Kullenberg, C (2018) *#backaspotify* code repository, Visualisation and anonymisation software for Twitter analysis, [https://github.com/christopherkullenberg/backaspotify](https://github.com/christopherkullenberg/backaspotify)
   1. Kullenberg, C (2018) *Talk Analyzer*, forum analysis software, [https://github.com/christopherkullenberg/talk-analyzer](https://github.com/christopherkullenberg/talk-analyzer)
   1. Kullenberg, C. (2015) *Cite.py*, Citation analysis software, [https://github.com/christopherkullenberg/Citepy](https://github.com/christopherkullenberg/Citepy)
   1. Kullenberg, C. (2016) [offentligautredningar.flov.gu.se](http://offentligautredningar.flov.gu.se/), Search engine for Statens offentliga utredningar,  [github.com/christopherkullenberg/offentligautredningar.se](https://github.com/christopherkullenberg/offentligautredningar.se).
