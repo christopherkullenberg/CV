@@ -14,7 +14,6 @@ date: \today
   * [B.A., Media \& Communication Science, 2004](http://files.christopherkullenberg.se/examengrundutbildningonline.pdf).
   * [M.A., Theory of Science, 2005](http://files.christopherkullenberg.se/examengrundutbildningonline.pdf).
 
-
 ### Doctoral degree
   * [Ph.D., Theory of Science, 2012.](http://files.christopherkullenberg.se/doctoraldegreeonline.pdf)
   
@@ -50,7 +49,9 @@ date: \today
 
 
 ### Administrative duties
-  * [Study Administrator, spring semester 2014](http://files.christopherkullenberg.se/studierektoronline.pdf). University of Gothenburg.
+ * 2018 - ongoing. Programme Co-ordinator for the Master's Programme for communication officers in the public sector, 60 - 120
+credits, University of Gothenburg. 
+ * [Study Administrator, spring semester 2014](http://files.christopherkullenberg.se/studierektoronline.pdf). University of Gothenburg.
 	<!-- Lägg till koordinator-->
 
 
@@ -212,7 +213,6 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 
 
 ## Research Collaborations
-
   1. Member of the [Expert and advisory board for Scishops.eu](https://www.scishops.eu/export-and-advisory-board/#16).
   1. Member of the [Citizen Science Association Working Group for Data and Metadata.](https://citizenscienceassociation.org/overview/steering-committees/#metadata)
   1. Member of the [Learning and Media Technology Studio, LETStudio, University of Gothenburg.](http://letstudio.gu.se/members/christopher-kullenberg).
@@ -265,7 +265,7 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 ### Interviews in mass media
 
   1. 20180904 - Göteborgsforskning: Klassisk annonsering fortfarande poppis, GöteborgDirekt.
-  1. 20180903 - Metoden medborgarforskning innebär att forskare tar hjälp av allmänheten, Sveriges Radio P4.  
+  1. 20180903 - Metoden medborgarforskning innebär att forskare tar hjälp av allmänheten, Sveriges Radio P4.
   1. 20180831 - Anslagstavlan används fortfarande och är populär, Sveriges Radio P4.
   1. 20180828 - "Analoga anslagstavlor behövs visst..", Forskning.se.
   1. 20180828 - "Anslagstavlor fortfarande poppis", SVT Nyheter Väst.
@@ -373,8 +373,8 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 
 ### Invited speaker
 
-<!-- Utrecht -->
 
+  1. 20180926 - "How does Technology Transform Media and Public Opinion? - about Digital Platforms and the Future of Free Speech", Science Park Utrecht, Utrecht, The Netherlands, Organised by the Embassy of Sweden, The Hague.
   1. 20180602 - "The politics of Data in the intersection between Hacker Culture and Citizen Science", Science & Dissent Workshop, June 1-2, 2018, University of Geneva, Switzerland
   1. 20171211 - ["Öppen vetenskap och demokrati"](http://www.u-care.uu.se/kalendarium/evenemang/?eventId=29958), Mötesplats U-CARE 1. Open Science, Uppsala University.
   1. 20171204 - "Medborgarvetenskap och samverkan", SSU Haga-Anneldal, Gotenburg.
@@ -452,7 +452,7 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 ### Master's Programme for communication officers in the public sector: Thesis supervision, Master (Magister) level}
 
   <!-- Lägg till Daniel Kursu -->
-  <!-- Lägg till våren 18, 3 till uppsatser -->
+  <!-- Lägg till My Airijoki -->
 
 
   1. Gabriela Velasquez Ulloa (2018) "Hur når vi ut? Om att skapa engagemang
