@@ -52,8 +52,6 @@ date: \today
  * 2018 - ongoing. Programme Co-ordinator for the Master's Programme for communication officers in the public sector, 60 - 120
 credits, University of Gothenburg. 
  * [Study Administrator, spring semester 2014](http://files.christopherkullenberg.se/studierektoronline.pdf). University of Gothenburg.
-	<!-- Lägg till koordinator-->
-
 
 
 
@@ -374,7 +372,7 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 ### Invited speaker
 
 
-  1. 20180926 - "How does Technology Transform Media and Public Opinion? - about Digital Platforms and the Future of Free Speech", Science Park Utrecht, Utrecht, The Netherlands, Organised by the Embassy of Sweden, The Hague.
+  1. 20180926 - "[How does Technology Transform Media and Public Opinion? - about Digital Platforms and the Future of Free Speech](https://www.swedenabroad.se/free-speech)", Science Park Utrecht, Utrecht, The Netherlands, Organised by the Embassy of Sweden, The Hague.
   1. 20180602 - "The politics of Data in the intersection between Hacker Culture and Citizen Science", Science & Dissent Workshop, June 1-2, 2018, University of Geneva, Switzerland
   1. 20171211 - ["Öppen vetenskap och demokrati"](http://www.u-care.uu.se/kalendarium/evenemang/?eventId=29958), Mötesplats U-CARE 1. Open Science, Uppsala University.
   1. 20171204 - "Medborgarvetenskap och samverkan", SSU Haga-Anneldal, Gotenburg.
@@ -443,6 +441,7 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 ### Media & Communication Studies, Strategic Communication: Courses
 
 #### Course administrator and teacher
+  1. 2018 (Course administrator) "KT2504 H18 Organisationskommunikation 1 / Organizational Communication", 7,5 ECTS, Second cycle, University of Gothenburg.
   1. 2018 (Course administrator) "KT2501 V18 Magisteruppsats", 15 ECTS, Second cycle, University of Gothenburg.
   1. 2012, 2013, 2017, 2018 (Course administrator) ["Communication in New and Social Media"](http://files.christopherkullenberg.se/kursplaner/KT2102.pdf), 7.5 ECTS, Second cycle, University of Gothenburg.
   1. 2005 (Course administrator) "Media, Individual and Every-day Life", 7.5 ECTS, Basic level, University West.
@@ -455,11 +454,11 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
   <!-- Lägg till My Airijoki -->
 
 
-  1. Gabriela Velasquez Ulloa (2018) "Hur når vi ut? Om att skapa engagemang
-på sociala medier", University of Gothenburg. 
-  1. Emelie Engström (2018) "Goa patienter och kompetent personal? En innehålls- och textanalys av Sahlgrenska Universitetssjukhusets värdeord på Instagram", University of Gothenburg.
-  1. Clara Tortosa (2017) "Vem är göteborgaren i Vårt Göteborg? - En diskursanalys av Vi och dem i en kommuntidning", University of Gothenburg.
-  1. Peter Häggbom Norrby (2017) "Medborgaren i kommunens kommunikationspolicy - En jämförelse mellan tio kommuner", University of Gothenburg.
+  1. Gabriela Velasquez Ulloa (2018) ["Hur når vi ut? Om att skapa engagemang
+på sociala medier"](https://gupea.ub.gu.se/handle/2077/58024), University of Gothenburg. 
+  1. Emelie Engström (2018) ["Goa patienter och kompetent personal? En innehålls- och textanalys av Sahlgrenska Universitetssjukhusets värdeord på Instagram"](https://gupea.ub.gu.se/handle/2077/58030), University of Gothenburg.
+  1. Clara Tortosa (2017) ["Vem är göteborgaren i Vårt Göteborg? - En diskursanalys av Vi och dem i en kommuntidning"](https://gupea.ub.gu.se/handle/2077/54970), University of Gothenburg.
+  1. Peter Häggbom Norrby (2017) ["Medborgaren i kommunens kommunikationspolicy - En jämförelse mellan tio kommuner"](https://gupea.ub.gu.se/handle/2077/54948), University of Gothenburg.
   1. Louise Sjöström (2017), "Från kulturpolitik till kommunikation - En analys av hur fem verksamheters statliga och kommunala uppdrag omsätts i kommunikationen", University of Gothenburg.
   1. Joacim Schmidt (2017) ["Facebooks möjligheter och risker: En studie om svenska kommuners användande av Facebook"](https://gupea.ub.gu.se/bitstream/2077/52545/1/gupea_2077_52545_1.pdf), University of Gothenburg.
   1. Sofie Andersson (2013) "Det kommunikativa målarbetet – en kommunal budgetresa från politiker till medarbetare", University of Gothenburg.
@@ -492,9 +491,9 @@ på sociala medier", University of Gothenburg.
 
 ### Master's Programme for communication officers in the public sector: Thesis examination, master's Degree (Magister).
 
-  1. Katarina von Sydow (2018) "Angereds närsjukhus kommunikation av folkhälsa – en fallstudie av 'Rökfria lekplatser' och 'Angereds hjältar', University of Gothenburg.
-  1. Sofie Alnäs (2018) "I skärningspunkten mellan lokal och central styrning. En undersökning av kommunikatörens
-roll på sex institutioner vid Göteborgs universitet", University of Gothenburg.
+  1. Katarina von Sydow (2018) ["Angereds närsjukhus kommunikation av folkhälsa – en fallstudie av 'Rökfria lekplatser' och 'Angereds hjältar'](https://gupea.ub.gu.se/handle/2077/58013), University of Gothenburg.
+  1. Sofie Alnäs (2018) ["I skärningspunkten mellan lokal och central styrning. En undersökning av kommunikatörens
+roll på sex institutioner vid Göteborgs universitet"](https://gupea.ub.gu.se/handle/2077/58021), University of Gothenburg.
 
 
 ### Information architecture studies: Thesis examination, bachelor's Degree
