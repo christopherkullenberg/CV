@@ -203,9 +203,10 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
   Nationell Datatjänst. [DOI 10.5878/002633](http://dx.doi.org/10.5878/002633).
 
 #### Software
-  1. Kullenberg, C (2018) *#backaspotify* code repository, Visualisation and anonymisation software for Twitter analysis, [https://github.com/christopherkullenberg/backaspotify](https://github.com/christopherkullenberg/backaspotify)
-  1. Kullenberg, C (2018) *Talk Analyzer*, forum analysis software, [https://github.com/christopherkullenberg/talk-analyzer](https://github.com/christopherkullenberg/talk-analyzer)
-  1. Kullenberg, C. (2015) *Cite.py*, Citation analysis software, [https://github.com/christopherkullenberg/Citepy](https://github.com/christopherkullenberg/Citepy)
+  1. Kullenberg, C (2018) *Flashbackscraper*, scraper software for the Flashback.org internet forum, [https://github.com/christopherkullenberg/flashbackscraper](https://github.com/christopherkullenberg/flashbackscraper).
+  1. Kullenberg, C (2018) *#backaspotify* code repository, Visualisation and anonymisation software for Twitter analysis, [https://github.com/christopherkullenberg/backaspotify](https://github.com/christopherkullenberg/backaspotify).
+  1. Kullenberg, C (2018) *Talk Analyzer*, forum analysis software, [https://github.com/christopherkullenberg/talk-analyzer](https://github.com/christopherkullenberg/talk-analyzer).
+  1. Kullenberg, C. (2015) *Cite.py*, Citation analysis software, [https://github.com/christopherkullenberg/Citepy](https://github.com/christopherkullenberg/Citepy).
   1. Kullenberg, C. (2016) [offentligautredningar.flov.gu.se](http://offentligautredningar.flov.gu.se/), Search engine for Statens offentliga utredningar,  [github.com/christopherkullenberg/offentligautredningar.se](https://github.com/christopherkullenberg/offentligautredningar.se).
   1. Kullenberg, C. (2016) *[Genuskollen.se](https://genuskollen.se)*, Gender counter algorithm based on names, [github.com/christopherkullenberg/gendercounter](https://github.com/christopherkullenberg/gendercounter).
 
@@ -227,7 +228,6 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
   Philosophy, Linguistics and Theory of Science, University of Gothenburg, (2017).
 
 ### Pre-publication reviews
-
 
   (see also: [publons.com/a/1172130/](publons.com/a/1172130/))
 
@@ -371,7 +371,7 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 
 ### Invited speaker
 
-
+  1. 20181129 - "[Samhällets användning av artdata](https://www.lansstyrelsen.se/orebro/kalenderhandelser---orebro/2018-10-16-samverkansmote-om-artdata.html)", Samverkansmöte om Artdata, Länsstyrelsen i Örebro, Norrköping, Sweden.
   1. 20180926 - "[How does Technology Transform Media and Public Opinion? - about Digital Platforms and the Future of Free Speech](https://www.swedenabroad.se/free-speech)", Science Park Utrecht, Utrecht, The Netherlands, Organised by the Embassy of Sweden, The Hague.
   1. 20180602 - "The politics of Data in the intersection between Hacker Culture and Citizen Science", Science & Dissent Workshop, June 1-2, 2018, University of Geneva, Switzerland
   1. 20171211 - ["Öppen vetenskap och demokrati"](http://www.u-care.uu.se/kalendarium/evenemang/?eventId=29958), Mötesplats U-CARE 1. Open Science, Uppsala University.
@@ -422,7 +422,7 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
   1. [2006. Teaching and Learning in Higher Education](http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf) ([Högskolepedagogik för lärare, PE0940](http://files.christopherkullenberg.se/PE0940.pdf)), 7.5 ECTS.
   1. [2006. Supervision in Postgraduate Education](http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf) ([Högskolepedagogisk handledning, PD0180](http://files.christopherkullenberg.se/PD0180.pdf)), 7.5 ECTS.
   1. [2016. Formal credits for the course HPE102 Teaching and learning in Higher Education 2: Discipline Specific Pedagogic](http://kursplaner.gu.se/svenska/HPE102.pdf).
-
+  <!-- HPE 103 -->
 
 
 ## Courses & Thesis supervision/examination, graduate level
@@ -441,8 +441,8 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 ### Media & Communication Studies, Strategic Communication: Courses
 
 #### Course administrator and teacher
-  1. 2018 (Course administrator) "KT2504 H18 Organisationskommunikation 1 / Organizational Communication", 7,5 ECTS, Second cycle, University of Gothenburg.
-  1. 2018 (Course administrator) "KT2501 V18 Magisteruppsats", 15 ECTS, Second cycle, University of Gothenburg.
+  1. 2018 (Course administrator) "KT2104 H18 Organisationskommunikation 1 / Organizational Communication", 7,5 ECTS, Second cycle, University of Gothenburg.
+  1. 2018, 2019 (Course administrator) "KT2501 V18 Magisteruppsats", 15 ECTS, Second cycle, University of Gothenburg.
   1. 2012, 2013, 2017, 2018 (Course administrator) ["Communication in New and Social Media"](http://files.christopherkullenberg.se/kursplaner/KT2102.pdf), 7.5 ECTS, Second cycle, University of Gothenburg.
   1. 2005 (Course administrator) "Media, Individual and Every-day Life", 7.5 ECTS, Basic level, University West.
   1. 2005 (Course administrator) "Strategic Communication", 7.5 ECTS, Basic level, University West.
@@ -451,7 +451,7 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 ### Master's Programme for communication officers in the public sector: Thesis supervision, Master (Magister) level}
 
   <!-- Lägg till Daniel Kursu -->
-  <!-- Lägg till My Airijoki -->
+  <!-- Lägg till My Airijoki, ellen fasth -->
 
 
   1. Gabriela Velasquez Ulloa (2018) ["Hur når vi ut? Om att skapa engagemang
