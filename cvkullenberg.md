@@ -17,15 +17,16 @@ date: \today
 ### Doctoral degree
   * [Ph.D., Theory of Science, 2012.](http://files.christopherkullenberg.se/doctoraldegreeonline.pdf)
   
-### Promotion to Reader (Docent)
-  * [Reader in Theory of Science (Docent i Vetenskapsteori), 2018-05-09](http://files.christopherkullenberg.se/Docentbevis_ChristopherKullenberg_P2017_366_anon.pdf)
+### Promotion to Associate Professor (Docent)
+  * [Associate Professor in Theory of Science (Docent i Vetenskapsteori), 2018-05-09](http://files.christopherkullenberg.se/Docentbevis_ChristopherKullenberg_P2017_366_anon.pdf)
 
 ### Other courses
-  * [2006 Teaching and Learning in Higher Education](http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf) ([Högskolepedagogik för lärare, PE0940](http://files.christopherkullenberg.se/PE0940.pdf)), 7.5 ECTS.
-  * [2006 Supervision in Postgraduate Education](http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf) ([Högskolepedagogisk handledning, PD0180](http://files.christopherkullenberg.se/PD0180.pdf)), 7.5 ECTS.
+  * [2006 Teaching and Learning in Higher Education](http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf) ([Högskolepedagogik för lärare, PE0940](http://files.christopherkullenberg.se/PE0940.pdf)), 7.5 credits.
+  * [2006 Supervision in Postgraduate Education](http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf) ([Högskolepedagogisk handledning, PD0180](http://files.christopherkullenberg.se/PD0180.pdf)), 7.5 credits.
   * [2016 Formal credits for the course HPE102 Teaching and learning in Higher Education 2: Discipline Specific Pedagogic](http://kursplaner.gu.se/svenska/HPE102.pdf).
   * [2016 MITx 6.00.1x Introduction to Computer Science](https://courses.edx.org/certificates/f9c30b3913be4004b95813db59432509).
   * 2018 LADOK3 Authorization course, University of Gothenburg.
+  * 2018 HPE103 Teaching and Learning in Higher Education 3: Applied Analysis, 5 credits (Behörighetsgivande högskolepedagogik 3: Självständigt arbete).
 
 
 ## Employments
@@ -419,8 +420,8 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 <!-- TEACHING -->
 
 ## Formal education, Teaching in higher education (Högskolepedagogik)
-  1. [2006. Teaching and Learning in Higher Education](http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf) ([Högskolepedagogik för lärare, PE0940](http://files.christopherkullenberg.se/PE0940.pdf)), 7.5 ECTS.
-  1. [2006. Supervision in Postgraduate Education](http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf) ([Högskolepedagogisk handledning, PD0180](http://files.christopherkullenberg.se/PD0180.pdf)), 7.5 ECTS.
+  1. [2006. Teaching and Learning in Higher Education](http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf) ([Högskolepedagogik för lärare, PE0940](http://files.christopherkullenberg.se/PE0940.pdf)), 7.5 credits.
+  1. [2006. Supervision in Postgraduate Education](http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf) ([Högskolepedagogisk handledning, PD0180](http://files.christopherkullenberg.se/PD0180.pdf)), 7.5 credits.
   1. [2016. Formal credits for the course HPE102 Teaching and learning in Higher Education 2: Discipline Specific Pedagogic](http://kursplaner.gu.se/svenska/HPE102.pdf).
   <!-- HPE 103 -->
 
@@ -432,26 +433,26 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 
 #### Course administrator and teacher
   1. 2017 (Course administrator together with Mats Dahlström) Digital Research Methods, distance course 15 credits BMBD116h, University of Borås.
-  1. 2013 ["FHV241 The Strand: People, Knowledge and Public Health Practice"](http://files.christopherkullenberg.se/kursplaner/FHV241Strimman.pdf), 6 ECTS, (Strimman, moment 1: Tre konstruktioner av människan och folkhälsoarbete i praktiken), 1.5 ECTS, Second cycle, University of Gothenburg.
-  1. 2007 - 2014. (Course administrator 2012 - 2013). ["NTH001 Theoretical and Historical Perspectives on Science, 7.5 ECTS](http://files.christopherkullenberg.se/kursplaner/NTH001_Teoretiska_och_historiska_perspektiv_pa%cc%8a_naturvetenskap_10512.pdf), First cycle, University of Gothenburg.
-  1. 2014 ["VT1101 Classical Theory of Science, Introductory Course (Introduktion till klassisk vetenskapsteori)"](http://files.christopherkullenberg.se/kursplaner/VT1101_Introduktion_i_klassisk_vetenskapsteori__grundkurs_13185.pdf), 15 ECTS, First cycle, University of Gothenburg.
-  1. 2014 ["VT2106 Classical Theory of Science (Klassisk vetenskapsteori)"](http://files.christopherkullenberg.se/kursplaner/VT2106_Klassisk_vetenskapsteori_13187.pdf), 15 ECTS, Second cycle level, University of Gothenburg.
+  1. 2013 ["FHV241 The Strand: People, Knowledge and Public Health Practice"](http://files.christopherkullenberg.se/kursplaner/FHV241Strimman.pdf), 6 credits, (Strimman, moment 1: Tre konstruktioner av människan och folkhälsoarbete i praktiken), 1.5 credits, Second cycle, University of Gothenburg.
+  1. 2007 - 2014. (Course administrator 2012 - 2013). ["NTH001 Theoretical and Historical Perspectives on Science, 7.5 credits](http://files.christopherkullenberg.se/kursplaner/NTH001_Teoretiska_och_historiska_perspektiv_pa%cc%8a_naturvetenskap_10512.pdf), First cycle, University of Gothenburg.
+  1. 2014 ["VT1101 Classical Theory of Science, Introductory Course (Introduktion till klassisk vetenskapsteori)"](http://files.christopherkullenberg.se/kursplaner/VT1101_Introduktion_i_klassisk_vetenskapsteori__grundkurs_13185.pdf), 15 credits, First cycle, University of Gothenburg.
+  1. 2014 ["VT2106 Classical Theory of Science (Klassisk vetenskapsteori)"](http://files.christopherkullenberg.se/kursplaner/VT2106_Klassisk_vetenskapsteori_13187.pdf), 15 credits, Second cycle level, University of Gothenburg.
 
 
 ### Media & Communication Studies, Strategic Communication: Courses
 
 #### Course administrator and teacher
-  1. 2018 (Course administrator) "KT2104 H18 Organisationskommunikation 1 / Organizational Communication", 7,5 ECTS, Second cycle, University of Gothenburg.
-  1. 2018, 2019 (Course administrator) "KT2501 V18 Magisteruppsats", 15 ECTS, Second cycle, University of Gothenburg.
-  1. 2012, 2013, 2017, 2018 (Course administrator) ["Communication in New and Social Media"](http://files.christopherkullenberg.se/kursplaner/KT2102.pdf), 7.5 ECTS, Second cycle, University of Gothenburg.
-  1. 2005 (Course administrator) "Media, Individual and Every-day Life", 7.5 ECTS, Basic level, University West.
-  1. 2005 (Course administrator) "Strategic Communication", 7.5 ECTS, Basic level, University West.
+  1. 2018 (Course administrator) "KT2104 H18 Organisationskommunikation 1 / Organizational Communication", 7,5 credits, Second cycle, University of Gothenburg.
+  1. 2018, 2019 (Course administrator) "KT2501 V18 Magisteruppsats", 15 credits, Second cycle, University of Gothenburg.
+  1. 2012, 2013, 2017, 2018 (Course administrator) ["Communication in New and Social Media"](http://files.christopherkullenberg.se/kursplaner/KT2102.pdf), 7.5 credits, Second cycle, University of Gothenburg.
+  1. 2005 (Course administrator) "Media, Individual and Every-day Life", 7.5 credits, Basic level, University West.
+  1. 2005 (Course administrator) "Strategic Communication", 7.5 credits, Basic level, University West.
 
 
 ### Master's Programme for communication officers in the public sector: Thesis supervision, Master (Magister) level}
 
   <!-- Lägg till Daniel Kursu -->
-  <!-- Lägg till My Airijoki, ellen fasth -->
+  <!-- Lägg till My Airijoki, ellen fasth,  -->
 
 
   1. Gabriela Velasquez Ulloa (2018) ["Hur når vi ut? Om att skapa engagemang
