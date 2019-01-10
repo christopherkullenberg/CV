@@ -206,7 +206,7 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 #### Software
   1. Kullenberg, C (2018) *Flashbackscraper*, scraper software for the Flashback.org internet forum, [https://github.com/christopherkullenberg/flashbackscraper](https://github.com/christopherkullenberg/flashbackscraper).
   1. Kullenberg, C (2018) *#backaspotify* code repository, Visualisation and anonymisation software for Twitter analysis, [https://github.com/christopherkullenberg/backaspotify](https://github.com/christopherkullenberg/backaspotify).
-  1. Kullenberg, C (2018) *Talk Analyzer*, forum analysis software, [https://github.com/christopherkullenberg/talk-analyzer](https://github.com/christopherkullenberg/talk-analyzer).
+  1. Kullenberg, C (2018) *Talk Analyzer*, forum analysis software, [https://github.com/christopherkullenberg/talk-analyzer](https://github.com/christopherkullenberg/talk-analyzer), Kullenberg C (2019) talk-analyzer. Figshare. DOI: 10.6084/m9.figshare.7571003.v1.
   1. Kullenberg, C. (2015) *Cite.py*, Citation analysis software, [https://github.com/christopherkullenberg/Citepy](https://github.com/christopherkullenberg/Citepy).
   1. Kullenberg, C. (2016) [offentligautredningar.flov.gu.se](http://offentligautredningar.flov.gu.se/), Search engine for Statens offentliga utredningar,  [github.com/christopherkullenberg/offentligautredningar.se](https://github.com/christopherkullenberg/offentligautredningar.se).
   1. Kullenberg, C. (2016) *[Genuskollen.se](https://genuskollen.se)*, Gender counter algorithm based on names, [github.com/christopherkullenberg/gendercounter](https://github.com/christopherkullenberg/gendercounter).
