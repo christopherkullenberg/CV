@@ -73,11 +73,13 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
   <!-- Shakespeares world -->
   <!-- Anslagstavlan pedagogikartikel -->
 
+  1. Hallberg, M. & **Kullenberg, C.** (in press) "Happiness Studies: Co-Production of Social Science and Social Order", accepted for publication in *Nordic Journal of Science and Technology Studies*.
+  1. Rohden, F., **Kullenberg, C.**, Hagen, N., Kasperowski, D (in press) "Tagging, Pinging and Linking - User Roles in Virtual Citizen Science Forums", Accepted for publication in *Citizen Science: Theory and Practice*.
   1. Fleischer, Rasmus & **Kullenberg, Christopher** (2018) "[The Political Significance of Spotify in Sweden— Analysing the #backaspotify Campaign using Twitter Data](http://www.cultureunbound.ep.liu.se/article.asp?DOI=10.3384/cu.2000.1525.20180918)", *Culture Unbound*, Vol 10, Issue 2, DOI 10.3384/cu.2000.1525.20180918.
   1. **Kullenberg, Christopher**, Frauke Rohden, Anders Björkvall, Fredrik Brounéus, Anders Avellan-Hultman, Johan Järlehed, Sara Van Meerbergen, et al. “What Are Analog Bulletin Boards Used for Today? Analysing Media Uses, Intermediality and Technology Affordances in Swedish Bulletin Board Messages Using a Citizen Science Approach.” *PLOS ONE* 13, no. 8 (August 2018): e0202077. [10.1371/journal.pone.0202077](https://doi.org/10.1371/journal.pone.0202077).
   1.  Marisa Ponti, Thomas Hillman, **Christopher Kullenberg**, Dick Kasperowski (2018) "Getting it Right or Being Top Rank: Games in Citizen Science", *Citizen Science: Theory and Practice*, 3(1), DOI: [10.5334/cstp.101](http://doi.org/10.5334/cstp.101).
   1. **Kullenberg, C.** , & Nelhans, Gustaf (2017) ["Measuring Welfare beyond GDP - Objective and Subjective Indicators in Sweden, 1968-2015"](https://dx.doi.org/10.3384/VS.2001-5992.17517), *Valuation Studies, 5(1)*,  [10.3384/VS.2001-5992.17517](https://dx.doi.org/10.3384/VS.2001-5992.17517).
-  1. **Kullenberg, C.** , & Dick Kasperowski (2016) "What Is Citizen Science? – A Scientometric Meta-Analysis", *PLoS ONE*, 11(1): e0147152, [10.1371/journal.pone.0147152](http://dx.doi.org/10.1371/journal.pone.0147152).
+  1. **Kullenberg, C.** , & Dick Kasperowski (2016) "What is Citizen Science? – A Scientometric Meta-Analysis", *PLoS ONE*, 11(1): e0147152, [10.1371/journal.pone.0147152](http://dx.doi.org/10.1371/journal.pone.0147152).
   1. **Kullenberg, C.**  (2015) "Citizen Science as Resistance: Crossing the Boundary Between Reference and Representation", [Journal of Resistance Studies](https://gup.ub.gu.se/publication/218601-citizen-science-as-resistance-crossing-the-boundary-between-reference-and-representation), 1(1).
   1. **Kullenberg, C.** , & Nelhans, Gustaf (2015) "The Happiness Turn? Mapping the Emergence of Happiness Studies using Cited References", *Scientometrics*, Volume 103, Issue 2, Page 615-630,  [10.1007/s11192-015-1536-3](http://dx.doi.org/10.1007/s11192-015-1536-3).
 
@@ -119,14 +121,9 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
   1. Kullenberg, C.  Ulrike Sturm, Sven Schade, Luigi Ceccaroni, Margaret Gold,
   Christopher C. M. Kyba, Bernat Claramunt, Muki Haklay, Dick Kasperowski,
   Alexandra Albert, Jaume Piera, Jonathan Brier, Christopher Kullenberg,
-  Soledad Luna (2017) ["Defining principles for mobile apps and platforms development in citizen science"](https://doi.org/10.3897/rio.4.e23394), Workshop Report, Research Ideas and Outcomes 4:
-  e23394 (04 Jan 2018).
-  1. Kullenberg, C.  Björkvall, Anders, Johan Järlehed, Christopher Kullenberg, Helle Lykke Nielsen,
-  Andreas Nord, Tove Rosendal, Sara Van Meerbergen & Gustav Westberg (2017) ["Slutrapport
-  Anslagstavlan - Forskarfredags Massexperiment 2016](https://www.forskarfredag.se/filer/ff2016-anslagstavlan-slutrapport.pdf), VA-rapport 2017:1}, Red. Fredrik Bronéus,
-  Stockholm: Vetenskap och Allmänhet, ISSN 1653-6843.
-  1. Kullenberg, C.  Kullenberg, Christopher (2017) [Open data - buzz word or virtual opportunities?](http://www.slu.se/globalassets/ew/subw/lifewatch/publikationer/slw-summary-report-web-170622.pdf), in *Swedish LifeWatch – a national e-infrastructure for biodiversity data*, ArtDatabanken SLU, ISBN
-  978-91-87853-17-3.
+  Soledad Luna (2017) ["Defining principles for mobile apps and platforms development in citizen science"](https://doi.org/10.3897/rio.4.e23394), Workshop Report, Research Ideas and Outcomes 4: e23394 (04 Jan 2018).
+  1. Kullenberg, C.  Björkvall, Anders, Johan Järlehed, Christopher Kullenberg, Helle Lykke Nielsen, Andreas Nord, Tove Rosendal, Sara Van Meerbergen & Gustav Westberg (2017) ["Slutrapport Anslagstavlan - Forskarfredags Massexperiment 2016](https://www.forskarfredag.se/filer/ff2016-anslagstavlan-slutrapport.pdf), VA-rapport 2017:1, Red. Fredrik Bronéus, Stockholm: Vetenskap och Allmänhet, ISSN 1653-6843.
+  1. Kullenberg, C.  Kullenberg, Christopher (2017) [Open data - buzz word or virtual opportunities?](http://www.slu.se/globalassets/ew/subw/lifewatch/publikationer/slw-summary-report-web-170622.pdf), in *Swedish LifeWatch – a national e-infrastructure for biodiversity data*, ArtDatabanken SLU, ISBN 978-91-87853-17-3.
 
 #### Preface and review of translation
   1. Kullenberg, C.  (2012) "Introduktion", in *Tre Klassiska Texter – Émile Durkheim, Gabriel Tarde, Max Weber*, fackgranskad av Christopher Kullenberg, Göteborg: Korpen Koloni.
