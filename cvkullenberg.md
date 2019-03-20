@@ -71,7 +71,6 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 #### Peer reviewed
 
   <!-- Shakespeares world -->
-  <!-- Anslagstavlan pedagogikartikel -->
 
   1. Hallberg, M. & **Kullenberg, C.** (in press) "Happiness Studies: Co-Production of Social Science and Social Order", accepted for publication in *Nordic Journal of Science and Technology Studies*.
   1. Rohden, F., **Kullenberg, C.**, Hagen, N., Kasperowski, D (in press) "Tagging, Pinging and Linking - User Roles in Virtual Citizen Science Forums", Accepted for publication in *Citizen Science: Theory and Practice*.
@@ -97,8 +96,9 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 #### Peer reviewed
 
 <!-- Norska boken + LETSboken-->
-<!-- Anslagstavlan på svenska till antologi -->
 
+  1. Helle Lykke Nielsen, Tove Rosendahl, Johan Järlehed, Christopher Kullenberg (in press) "Investigating Bulletin Boards with Students - What can Citizen Science offer Education and Research in the Linguistic Landscape?", Language Teaching in the Linguistic Landscape.
+  1. Nord, Andreas, Järlehed, Johan & Kullenberg, Christopher (2019, in press) "För anslagstavlan i tiden. Vad händer på svenska anslagstavlor?", in Bianchi, Marco, Håkansson, David, Melander, Björn, Pfister, Linda, Westman, Maria & Östman, Carin (eds.), Svenskans beskrivning 36. Förhandlingar vid trettiosjätte sammankomsten. Uppsala 25–27 oktober 2017. Uppsala: Institutionen för nordiska språk vid Uppsala universitet. S. 179–194. 
   1. Hård af Segerstad, Y. ; Howes, C. ; Kasperowski, D. & Kullenberg, C. (2017) "Studying closed communities on-line: digital methods and ethical considerations beyond informed consent and pseudonymity". Zimmer, M. & Kinder-Kurlanda, K. (Eds.). *Internet Research Ethics for the Social Age: New Cases and Challenges*. Peter Lang.
   1. Kullenberg, C. (2011) "Sociology in the Making: Statistics as a Mediator between the Social sciences, Practice and the State", in Ann Rudinow Saetnan, Heidi Mork Lomell, Svein Hammer, *The Mutual Construction of Statistics and Society*, New York: Routledge.
 
