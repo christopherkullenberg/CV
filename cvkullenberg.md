@@ -379,11 +379,9 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
   1. 20170426 - ["Collecting Social Science Data with Smartphone Apps and School Children"](https://ecsa.citizen-science.net/sites/default/files/draft_agenda_second_workshop_appsplatforms.pdf), ECSA workshop "Defining Principles for Mobile Apps and Platforms Development in Citizen Science", Gothenburg, Sweden.
   1. 20170330 - "Vad händer om vi inte kan enas om vad som är sant?", [FLoV, Göteborgs Universitet](http://flov.gu.se/aktuellt/Nyheter/fulltext//oppet-hus-pa-flov-med-panelsamtal-om-alternativa-fakta-och-informationsbubblor.cid1428426).
   1. 20170329 - "Vad är på gång inom citizen science?", [Informationsmöte Vetenskap med och för samhället Horisont 2020](http://www.vinnova.se/sv/Aktuellt--publicerat/Kalendarium/2017/170329-Informationsmote-Vetenskap-med-och-for-samhallet/), Vinnova, Stockholm. Lecture available on [Youtube](https://youtu.be/HHW0j7Zo5E0).
-  1. 20170329 - "Vad är på gång inom citizen science?", [Informationsmöte Vetenskap med och för samhället Horisont 2020](http://www.vinnova.se/sv/Aktuellt--publicerat/Kalendarium/2017/170329-Informationsmote-Vetenskap-med-och-for-samhallet/), Vinnova, Stockholm. Lecture available on [Youtube](https://youtu.be/HHW0j7Zo5E0).
   1. 20161214 - "Digital methods 1. Theory, Practice and Ethics", Higher seminar, Karlstad University.
   1. 20161116 - ["Tusen platåer"](http://www.stadsbiblioteket.nu/tusen-plataer/), Göteborg, Stadsbiblioteket.
   1. 20161028 - "Statens offentliga utredningar digitaliserade", Högre seminarium, Idéhistoria, Lunds universitet.
-  1. 20161012 - ["VA-Dagen 2016 om öppen vetenskap"](https://v-a.se/events/va-dagen-2016/), Stockholm. "Video: [https://youtu.be/CUNnddKvZ9o?t=43m52s](https://youtu.be/CUNnddKvZ9o?t=43m52s).
   1. 20161012 - ["VA-Dagen 2016 om öppen vetenskap"](https://v-a.se/events/va-dagen-2016/), Stockholm. "Video: [https://youtu.be/CUNnddKvZ9o?t=43m52s](https://youtu.be/CUNnddKvZ9o?t=43m52s).
   1. 20160922 - ["Kan alla forska?"](http://flov.gu.se/aktuellt/Nyheter/fulltext//sju-filosofer-forelaser-pa-bokmassan-.cid1403852), Forskartorget, Bokmässan, Göteborg.
   1. 20160921 - ["Att nå ut via sociala medier"](http://kompetensutveckling.adm.gu.se/seminar/detail/2260), University of Gothenburg.
