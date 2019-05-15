@@ -104,7 +104,6 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 <!-- Norska boken + LETSboken-->
 
   1. Helle Lykke Nielsen, Tove Rosendahl, Johan Järlehed, Christopher Kullenberg (in press) "Investigating Bulletin Boards with Students - What can Citizen Science offer Education and Research in the Linguistic Landscape?", Language Teaching in the Linguistic Landscape.
-  1. Nord, Andreas, Järlehed, Johan & Kullenberg, Christopher (2019, in press) "För anslagstavlan i tiden. Vad händer på svenska anslagstavlor?", in Bianchi, Marco, Håkansson, David, Melander, Björn, Pfister, Linda, Westman, Maria & Östman, Carin (eds.), Svenskans beskrivning 36. Förhandlingar vid trettiosjätte sammankomsten. Uppsala 25–27 oktober 2017. Uppsala: Institutionen för nordiska språk vid Uppsala universitet. S. 179–194. 
   1. Hård af Segerstad, Y. ; Howes, C. ; Kasperowski, D. & Kullenberg, C. (2017) "Studying closed communities on-line: digital methods and ethical considerations beyond informed consent and pseudonymity". Zimmer, M. & Kinder-Kurlanda, K. (Eds.). *Internet Research Ethics for the Social Age: New Cases and Challenges*. Peter Lang.
   1. Kullenberg, C. (2011) "Sociology in the Making: Statistics as a Mediator between the Social sciences, Practice and the State", in Ann Rudinow Saetnan, Heidi Mork Lomell, Svein Hammer, *The Mutual Construction of Statistics and Society*, New York: Routledge.
 
@@ -133,6 +132,11 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 
 #### Preface and review of translation
   1. Kullenberg, C.  (2012) "Introduktion", in *Tre Klassiska Texter – Émile Durkheim, Gabriel Tarde, Max Weber*, fackgranskad av Christopher Kullenberg, Göteborg: Korpen Koloni.
+
+#### Proceedings: Peer reviewed
+
+  1. Nord, Andreas, Järlehed, Johan & Kullenberg, Christopher (2019) "För anslagstavlan i tiden. Vad händer på svenska anslagstavlor?", in Bianchi, Marco, Håkansson, David, Melander, Björn, Pfister, Linda, Westman, Maria & Östman, Carin (eds.), Svenskans beskrivning 36. Förhandlingar vid trettiosjätte sammankomsten. Uppsala 25–27 oktober 2017. Uppsala: Institutionen för nordiska språk vid Uppsala universitet. S. 179–194. 
+
 
 #### Conference contributions, peer reviewed  
 
@@ -219,7 +223,7 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
   1. Member of the [Expert and advisory board for Scishops.eu](https://www.scishops.eu/export-and-advisory-board/#16).
   1. Member of the [Citizen Science Association Working Group for Data and Metadata.](https://citizenscienceassociation.org/overview/steering-committees/#metadata)
   1. Member of the [Learning and Media Technology Studio, LETStudio, University of Gothenburg.](http://letstudio.gu.se/members/christopher-kullenberg).
-  1. Board Member of the [Swedish Ernst Cassirer Society](http://cassirer.se/sallskapet/styrelse/).
+  1. 2016-2018. Board Member of the [Swedish Ernst Cassirer Society](http://cassirer.se/sallskapet/styrelse/).
   1. Member of the scientific advisory board of the project ["Minnen av Selma Lagerlöf", funded by Riksbankens Jubileumsfond](http://anslag.rj.se/sv/anslag/52553).
 
 
