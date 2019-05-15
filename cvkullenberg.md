@@ -82,6 +82,12 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
   1. **Kullenberg, C.**  (2015) "Citizen Science as Resistance: Crossing the Boundary Between Reference and Representation", [Journal of Resistance Studies](https://gup.ub.gu.se/publication/218601-citizen-science-as-resistance-crossing-the-boundary-between-reference-and-representation), 1(1).
   1. **Kullenberg, C.** , & Nelhans, Gustaf (2015) "The Happiness Turn? Mapping the Emergence of Happiness Studies using Cited References", *Scientometrics*, Volume 103, Issue 2, Page 615-630,  [10.1007/s11192-015-1536-3](http://dx.doi.org/10.1007/s11192-015-1536-3).
 
+
+
+#### Editorship of peer reviewed journal issues
+
+  1. Dick Kasperowski & **Christopher Kullenberg"** (2019) "Special Issue: Many Modes of Citizen Science", *Science and Technology Studies*,  Vol 32/2019, Issue 2.  
+
 #### Non-peer review
   1. Kullenberg, C.  (2016) ["Sökandet efter den digitala politiken"](https://humanit.hb.se/article/view/504/572), *Human IT*, 13(2): 34-46 (book review).
   1. Kullenberg, C.  (2015) "Internetövervakning som metod", [Ikaros](http://gup.ub.gu.se/records/fulltext/220443/220443.pdf), 2015(1), pp 9–11.
@@ -418,7 +424,7 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
   1. [2006. Teaching and Learning in Higher Education](http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf) ([Högskolepedagogik för lärare, PE0940](http://files.christopherkullenberg.se/PE0940.pdf)), 7.5 credits.
   1. [2006. Supervision in Postgraduate Education](http://files.christopherkullenberg.se/hogskolepedagogikonline.pdf) ([Högskolepedagogisk handledning, PD0180](http://files.christopherkullenberg.se/PD0180.pdf)), 7.5 credits.
   1. [2016. Formal credits for the course HPE102 Teaching and learning in Higher Education 2: Discipline Specific Pedagogic](http://kursplaner.gu.se/svenska/HPE102.pdf).
-  <!-- HPE 103 -->
+  1. [2018. HPE103: Teaching and Learning in Higher Education 3: Applied Analysis, 5 Credits, Second Cycle](http://kursplaner.gu.se/svenska/HPE103.pdf)
 
 
 ## Courses & Thesis supervision/examination, graduate level
@@ -437,6 +443,7 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 ### Media & Communication Studies, Strategic Communication: Courses
 
 #### Course administrator and teacher
+  
   1. 2018 (Course administrator) "KT2104 H18 Organisationskommunikation 1 / Organizational Communication", 7,5 credits, Second cycle, University of Gothenburg.
   1. 2018, 2019 (Course administrator) "KT2501 V18 Magisteruppsats", 15 credits, Second cycle, University of Gothenburg.
   1. 2012, 2013, 2017, 2018 (Course administrator) ["Communication in New and Social Media"](http://files.christopherkullenberg.se/kursplaner/KT2102.pdf), 7.5 credits, Second cycle, University of Gothenburg.
@@ -545,6 +552,7 @@ första steg inom utbildningsvetenskaplig kumulativitet.", Magisteruppsats, Univ
 
 ## Other pedagogical experiences
 
+  1. 2018 PI for ["Alumnundersökning Kommunikatörsprogrammet", Alumni Study Report](https://gup.ub.gu.se/publication/273029). 
   1. 2018 - ongoing. Programme Co-ordinator for the Master's Programme for communication officers in the public sector, 60 - 120
 credits, University of Gothenburg. 
   1. [Study Administrator (Studierektor), Spring semester 2014](http://files.christopherkullenberg.se/studierektoronline.pdf).
