@@ -70,10 +70,8 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 
 #### Peer reviewed
 
-  <!-- Shakespeares world -->
-
-  1. Hallberg, M. & **Kullenberg, C.** (in press) "Happiness Studies: Co-Production of Social Science and Social Order", accepted for publication in *Nordic Journal of Science and Technology Studies*.
-  1. Rohden, F., **Kullenberg, C.**, Hagen, N., Kasperowski, D (in press) "Tagging, Pinging and Linking - User Roles in Virtual Citizen Science Forums", Accepted for publication in *Citizen Science: Theory and Practice*.
+  1. Frauke Rohden, **Christopher Kullenberg**, Niclas Hagen, Dick Kasperowski (2019) "Tagging, Pinging and Linking – User Roles in Virtual Citizen Science Forums", *Citizen science: theory and practice* 4(1), p.19. DOI: [10.5334/cstp.181](http://doi.org/10.5334/cstp.181).
+  1. Hallberg, M. & **Kullenberg, C.** (2019) "Happiness Studies: Co-Production of Social Science and Social Order", *Nordic Journal of Science and Technology Studies* 7(9) [https://doi.org/10.5324/njsts.v7i1.2530](https://doi.org/10.5324/njsts.v7i1.2530).
   1. Fleischer, Rasmus & **Kullenberg, Christopher** (2018) "[The Political Significance of Spotify in Sweden— Analysing the #backaspotify Campaign using Twitter Data](http://www.cultureunbound.ep.liu.se/article.asp?DOI=10.3384/cu.2000.1525.20180918)", *Culture Unbound*, Vol 10, Issue 2, DOI 10.3384/cu.2000.1525.20180918.
   1. **Kullenberg, Christopher**, Frauke Rohden, Anders Björkvall, Fredrik Brounéus, Anders Avellan-Hultman, Johan Järlehed, Sara Van Meerbergen, et al. “What Are Analog Bulletin Boards Used for Today? Analysing Media Uses, Intermediality and Technology Affordances in Swedish Bulletin Board Messages Using a Citizen Science Approach.” *PLOS ONE* 13, no. 8 (August 2018): e0202077. [10.1371/journal.pone.0202077](https://doi.org/10.1371/journal.pone.0202077).
   1.  Marisa Ponti, Thomas Hillman, **Christopher Kullenberg**, Dick Kasperowski (2018) "Getting it Right or Being Top Rank: Games in Citizen Science", *Citizen Science: Theory and Practice*, 3(1), DOI: [10.5334/cstp.101](http://doi.org/10.5334/cstp.101).
@@ -86,7 +84,7 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 
 #### Editorship of peer reviewed journal issues
 
-  1. Dick Kasperowski & **Christopher Kullenberg"** (2019) "Special Issue: Many Modes of Citizen Science", *Science and Technology Studies*,  Vol 32/2019, Issue 2.  
+  1. Dick Kasperowski & **Christopher Kullenberg** (2019) "Special Issue: Many Modes of Citizen Science", *Science and Technology Studies*,  Vol 32/2019, Issue 2.  
 
 #### Non-peer review
   1. Kullenberg, C.  (2016) ["Sökandet efter den digitala politiken"](https://humanit.hb.se/article/view/504/572), *Human IT*, 13(2): 34-46 (book review).
@@ -103,8 +101,10 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 
 <!-- Norska boken + LETSboken-->
 
-  1. Helle Lykke Nielsen, Tove Rosendahl, Johan Järlehed, Christopher Kullenberg (in press) "Investigating Bulletin Boards with Students - What can Citizen Science offer Education and Research in the Linguistic Landscape?", Language Teaching in the Linguistic Landscape.
-  1. Hård af Segerstad, Y. ; Howes, C. ; Kasperowski, D. & Kullenberg, C. (2017) "Studying closed communities on-line: digital methods and ethical considerations beyond informed consent and pseudonymity". Zimmer, M. & Kinder-Kurlanda, K. (Eds.). *Internet Research Ethics for the Social Age: New Cases and Challenges*. Peter Lang.
+  1. Kasperowski, Dick; **Kullenberg, Christopher**; Rohden, Frauke (2020) "The Participatory Epistemic Cultures of Citizen Humanities: Bildung and epistemic subjects", in Hetland et al. *A History of Participation in Museums and Archives*, Routledge: London and New York.
+  1. Kasperowski, Dick; **Kullenberg, Christopher**; Rohden, Frauke (2020) "The epistemology of mobilising citizens in the sciences: Tensions in epistemic cultures of contribution and ideals of science", in Mäkitalo et al. *Designs for Experimentation and Inquiry"*, Routledge: London and New York.
+  1. Helle Lykke Nielsen, Tove Rosendahl, Johan Järlehed, **Christopher Kullenberg** (in press) "Investigating Bulletin Boards with Students - What can Citizen Science offer Education and Research in the Linguistic Landscape?", Language Teaching in the Linguistic Landscape.
+  1. Hård af Segerstad, Y. ; Howes, C. ; Kasperowski, D. & **Kullenberg, C.** (2017) "Studying closed communities on-line: digital methods and ethical considerations beyond informed consent and pseudonymity". Zimmer, M. & Kinder-Kurlanda, K. (Eds.). *Internet Research Ethics for the Social Age: New Cases and Challenges*. Peter Lang.
   1. Kullenberg, C. (2011) "Sociology in the Making: Statistics as a Mediator between the Social sciences, Practice and the State", in Ann Rudinow Saetnan, Heidi Mork Lomell, Svein Hammer, *The Mutual Construction of Statistics and Society*, New York: Routledge.
 
 #### Editorial review
@@ -379,6 +379,7 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 
 ### Invited speaker
 
+  1. 20191205 - "Who owns your data? A Conference about Big Data, privacy online and the future of internet", Science Park Utrecht, Utrecht, The Netherlands, Organised by the Embassy of Sweden, The Hague.
   1. 20181129 - "[Samhällets användning av artdata](https://www.lansstyrelsen.se/orebro/kalenderhandelser---orebro/2018-10-16-samverkansmote-om-artdata.html)", Samverkansmöte om Artdata, Länsstyrelsen i Örebro, Norrköping, Sweden.
   1. 20180926 - "[How does Technology Transform Media and Public Opinion? - about Digital Platforms and the Future of Free Speech](https://www.swedenabroad.se/free-speech)", Science Park Utrecht, Utrecht, The Netherlands, Organised by the Embassy of Sweden, The Hague.
   1. 20180602 - "The politics of Data in the intersection between Hacker Culture and Citizen Science", Science & Dissent Workshop, June 1-2, 2018, University of Geneva, Switzerland
@@ -448,9 +449,11 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 
 #### Course administrator and teacher
   
+  1. 2019 (Course administrator) "KT2109 - Strategisk kommunikation", 7,5 credits, Second cycle, University of Gothenburg.
+  1. 2019 (Course administrator) "KT1102 - Kommunikation i nya och sociala medier - Introduktion", 7,5 credits, First cycle, University of Gothenburg. 
   1. 2018 (Course administrator) "KT2104 H18 Organisationskommunikation 1 / Organizational Communication", 7,5 credits, Second cycle, University of Gothenburg.
   1. 2018, 2019 (Course administrator) "KT2501 V18 Magisteruppsats", 15 credits, Second cycle, University of Gothenburg.
-  1. 2012, 2013, 2017, 2018 (Course administrator) ["Communication in New and Social Media"](http://files.christopherkullenberg.se/kursplaner/KT2102.pdf), 7.5 credits, Second cycle, University of Gothenburg.
+  1. 2012, 2013, 2017, 2018, 2019 (Course administrator) ["Communication in New and Social Media"](http://files.christopherkullenberg.se/kursplaner/KT2102.pdf), 7.5 credits, Second cycle, University of Gothenburg.
   1. 2005 (Course administrator) "Media, Individual and Every-day Life", 7.5 credits, Basic level, University West.
   1. 2005 (Course administrator) "Strategic Communication", 7.5 credits, Basic level, University West.
 
@@ -498,6 +501,9 @@ på sociala medier"](https://gupea.ub.gu.se/handle/2077/58024), University of Go
 
 ### Master's Programme for communication officers in the public sector: Thesis examination, master's Degree (Magister).
 
+  1. Emilia Vermelin (2019) "Dömd på förhand: (o)dialogisk kommunikation och epistemisk orättvisa.", University of Gothenburg.
+  1. Malin Fallgren (2019) "Kan kultur kommunicera mellan myndighet och medborgare? - En kommunikationsstrategisk fallstudie av Lights in Biskopsgården", University of Gothenburg. 
+  1. Lina Ahlstedt (2019) "Lyssnar dom??", University of Gothenburg.
   1. Katarina von Sydow (2018) ["Angereds närsjukhus kommunikation av folkhälsa – en fallstudie av 'Rökfria lekplatser' och 'Angereds hjältar'](https://gupea.ub.gu.se/handle/2077/58013), University of Gothenburg.
   1. Sofie Alnäs (2018) ["I skärningspunkten mellan lokal och central styrning. En undersökning av kommunikatörens
 roll på sex institutioner vid Göteborgs universitet"](https://gupea.ub.gu.se/handle/2077/58021), University of Gothenburg.
