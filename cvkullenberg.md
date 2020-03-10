@@ -270,6 +270,7 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 
 ### Interviews in mass media
 
+  1. 20200307 - "Forskare varnar: kan kapa din dator", [SVT nyheter](https://www.svt.se/nyheter/forskaren-varnar-kan-kapa-din-dator).
   1. 20180904 - Göteborgsforskning: Klassisk annonsering fortfarande poppis, GöteborgDirekt.
   1. 20180903 - Metoden medborgarforskning innebär att forskare tar hjälp av allmänheten, Sveriges Radio P4.
   1. 20180831 - Anslagstavlan används fortfarande och är populär, Sveriges Radio P4.
@@ -436,8 +437,8 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 
 ### Theory of Science: Courses
 
-
 #### Course administrator and teacher
+  1. 2019 VT1500 "Medborgarforskning: teori och praktik", University of Gothenburg. 
   1. 2017 (Course administrator together with Mats Dahlström) Digital Research Methods, distance course 15 credits BMBD116h, University of Borås.
   1. 2013 ["FHV241 The Strand: People, Knowledge and Public Health Practice"](http://files.christopherkullenberg.se/kursplaner/FHV241Strimman.pdf), 6 credits, (Strimman, moment 1: Tre konstruktioner av människan och folkhälsoarbete i praktiken), 1.5 credits, Second cycle, University of Gothenburg.
   1. 2007 - 2014. (Course administrator 2012 - 2013). ["NTH001 Theoretical and Historical Perspectives on Science, 7.5 credits](http://files.christopherkullenberg.se/kursplaner/NTH001_Teoretiska_och_historiska_perspektiv_pa%cc%8a_naturvetenskap_10512.pdf), First cycle, University of Gothenburg.
