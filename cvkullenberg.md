@@ -99,11 +99,9 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 
 #### Peer reviewed
 
-<!-- Norska boken + LETSboken-->
-
+  1. Nielsen, H. L., Rosendal, T., Järlehed, J., & **Kullenberg, C.** (2020). "Investigating Bulletin Boards with Students: What Can Citizen Science Offer Education and Research in the Linguistic Landscape?" In D. Malinowski, H. H. Maxim, & S. Dubreil (Eds.), *Language Teaching in the Linguistic Landscape: Mobilizing Pedagogy in Public Space* (pp. 349–371). Springer International Publishing. [https://doi.org/10.1007/978-3-030-55761-4_15](https://doi.org/10.1007/978-3-030-55761-4_15)
   1. Kasperowski, Dick; **Kullenberg, Christopher**; Rohden, Frauke (2020) "The Participatory Epistemic Cultures of Citizen Humanities: Bildung and epistemic subjects", in Hetland et al. *A History of Participation in Museums and Archives*, Routledge: London and New York.
   1. Kasperowski, Dick; **Kullenberg, Christopher**; Rohden, Frauke (2020) "The epistemology of mobilising citizens in the sciences: Tensions in epistemic cultures of contribution and ideals of science", in Mäkitalo et al. *Designs for Experimentation and Inquiry"*, Routledge: London and New York.
-  1. Helle Lykke Nielsen, Tove Rosendahl, Johan Järlehed, **Christopher Kullenberg** (in press) "Investigating Bulletin Boards with Students - What can Citizen Science offer Education and Research in the Linguistic Landscape?", Language Teaching in the Linguistic Landscape.
   1. Hård af Segerstad, Y. ; Howes, C. ; Kasperowski, D. & **Kullenberg, C.** (2017) "Studying closed communities on-line: digital methods and ethical considerations beyond informed consent and pseudonymity". Zimmer, M. & Kinder-Kurlanda, K. (Eds.). *Internet Research Ethics for the Social Age: New Cases and Challenges*. Peter Lang.
   1. Kullenberg, C. (2011) "Sociology in the Making: Statistics as a Mediator between the Social sciences, Practice and the State", in Ann Rudinow Saetnan, Heidi Mork Lomell, Svein Hammer, *The Mutual Construction of Statistics and Society*, New York: Routledge.
 
