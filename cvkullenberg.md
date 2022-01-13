@@ -50,7 +50,7 @@ date: \today
 
 
 ### Administrative duties
- * 2018 - ongoing. Programme Co-ordinator for the Master's Programme for communication officers in the public sector, 60 - 120
+ * 2018 - 2020. Programme Co-ordinator for the Master's Programme for communication officers in the public sector, 60 - 120
 credits, University of Gothenburg. 
  * [Study Administrator, spring semester 2014](http://files.christopherkullenberg.se/studierektoronline.pdf). University of Gothenburg.
 
@@ -154,6 +154,10 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 #### Research notes
   1. Kullenberg, C.  (2017) "Bibliometric probing of the concept 'open science' - a notebook",
   [https://github.com/christopherkullenberg/openscienceliterature/](https://github.com/christopherkullenberg/openscienceliterature/).
+  
+#### Peer reviewed encyclopedia entries and bibliographies
+ 
+1. "Citizen Science". (2021). In Environmental Science. Oxford University Press. https://doi.org/10.1093/obo/9780199363445-0133
 
 
 #### Popularizations in news media
@@ -268,6 +272,7 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 
 ### Interviews in mass media
 
+  1. 20210124 -  [P3 Dokumentär "Arabiska våren"](https://sverigesradio.se/avsnitt/1630734).
   1. 20200307 - "Forskare varnar: kan kapa din dator", [SVT nyheter](https://www.svt.se/nyheter/forskaren-varnar-kan-kapa-din-dator).
   1. 20180904 - Göteborgsforskning: Klassisk annonsering fortfarande poppis, GöteborgDirekt.
   1. 20180903 - Metoden medborgarforskning innebär att forskare tar hjälp av allmänheten, Sveriges Radio P4.
