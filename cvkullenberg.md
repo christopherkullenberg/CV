@@ -16,7 +16,7 @@ date: \today
 
 ### Doctoral degree
   * [Ph.D., Theory of Science, 2012.](http://files.christopherkullenberg.se/doctoraldegreeonline.pdf)
-  
+
 ### Promotion to Associate Professor (Docent)
   * [Associate Professor in Theory of Science (Docent i Vetenskapsteori), 2018-05-09](http://files.christopherkullenberg.se/Docentbevis_ChristopherKullenberg_P2017_366_anon.pdf)
 
@@ -50,8 +50,8 @@ date: \today
 
 
 ### Administrative duties
- * 2018 - 2020. Programme Co-ordinator for the Master's Programme for communication officers in the public sector, 60 - 120
-credits, University of Gothenburg. 
+ * 2022 (Aug) - 2023 (Mar). Acting Head of doctoral studies at the Department of Philosophy, Linguistics and Theory of Science.
+ * 2018 - 2020. Programme Co-ordinator for the Master's Programme for communication officers in the public sector, 60 - 120 credits, University of Gothenburg.
  * [Study Administrator, spring semester 2014](http://files.christopherkullenberg.se/studierektoronline.pdf). University of Gothenburg.
 
 
@@ -133,7 +133,7 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 
 #### Proceedings: Peer reviewed
 
-  1. Nord, Andreas, Järlehed, Johan & Kullenberg, Christopher (2019) "För anslagstavlan i tiden. Vad händer på svenska anslagstavlor?", in Bianchi, Marco, Håkansson, David, Melander, Björn, Pfister, Linda, Westman, Maria & Östman, Carin (eds.), Svenskans beskrivning 36. Förhandlingar vid trettiosjätte sammankomsten. Uppsala 25–27 oktober 2017. Uppsala: Institutionen för nordiska språk vid Uppsala universitet. S. 179–194. 
+  1. Nord, Andreas, Järlehed, Johan & Kullenberg, Christopher (2019) "För anslagstavlan i tiden. Vad händer på svenska anslagstavlor?", in Bianchi, Marco, Håkansson, David, Melander, Björn, Pfister, Linda, Westman, Maria & Östman, Carin (eds.), Svenskans beskrivning 36. Förhandlingar vid trettiosjätte sammankomsten. Uppsala 25–27 oktober 2017. Uppsala: Institutionen för nordiska språk vid Uppsala universitet. S. 179–194.
 
 
 #### Conference contributions, peer reviewed  
@@ -154,13 +154,15 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 #### Research notes
   1. Kullenberg, C.  (2017) "Bibliometric probing of the concept 'open science' - a notebook",
   [https://github.com/christopherkullenberg/openscienceliterature/](https://github.com/christopherkullenberg/openscienceliterature/).
-  
+
 #### Peer reviewed encyclopedia entries and bibliographies
- 
-1. "Citizen Science". (2021). In Environmental Science. Oxford University Press. https://doi.org/10.1093/obo/9780199363445-0133
+
+1. Kullenberg, C. (2021), "Citizen Science", In Environmental Science. Oxford University Press. https://doi.org/10.1093/obo/9780199363445-0133
+1. Kullenberg, C. (2023), "Citizen Science", In: Encyclopedia of Social innovation, edit. by J. Howaldt and C. Kaletka, Cheltenham: Edward Elgar.
 
 
-#### Popularizations in news media
+#### Popularizations
+  1. Kullenberg, C. (2022) Guest blogging, *Curie*, [https://www.tidningencurie.se/kronikorer/christopher-kullenberg](https://www.tidningencurie.se/kronikorer/christopher-kullenberg)
   1. Kullenberg, C. (2015) ["Tankesprång som kopplar ihop världen"](http://www.svd.se/tankesprang-som-kopplar-ihop-varlden), *SvD Under Strecket*, 4 September, 2015.
   1. Kullenberg, C. (2014) ["Gazakonfliktens underjordiska liv"](http://www.svd.se/kultur/understrecket/gazakonfliktens-underjordiska-liv_3776810.svd), *SvD Under Strecket*, 26 Juli, 2014.
   1. Kullenberg, C. (2011) ["Internet nära oss"](http://www.fria.nu/artikel/88431), *Fria tidningen* 2011-05-30.
@@ -441,7 +443,7 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 ### Theory of Science: Courses
 
 #### Course administrator and teacher
-  1. 2019 VT1500 "Medborgarforskning: teori och praktik", University of Gothenburg. 
+  1. 2019 VT1500 "Medborgarforskning: teori och praktik", University of Gothenburg.
   1. 2017 (Course administrator together with Mats Dahlström) Digital Research Methods, distance course 15 credits BMBD116h, University of Borås.
   1. 2013 ["FHV241 The Strand: People, Knowledge and Public Health Practice"](http://files.christopherkullenberg.se/kursplaner/FHV241Strimman.pdf), 6 credits, (Strimman, moment 1: Tre konstruktioner av människan och folkhälsoarbete i praktiken), 1.5 credits, Second cycle, University of Gothenburg.
   1. 2007 - 2014. (Course administrator 2012 - 2013). ["NTH001 Theoretical and Historical Perspectives on Science, 7.5 credits](http://files.christopherkullenberg.se/kursplaner/NTH001_Teoretiska_och_historiska_perspektiv_pa%cc%8a_naturvetenskap_10512.pdf), First cycle, University of Gothenburg.
@@ -452,9 +454,9 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 ### Media & Communication Studies, Strategic Communication: Courses
 
 #### Course administrator and teacher
-  
+
   1. 2019 (Course administrator) "KT2109 - Strategisk kommunikation", 7,5 credits, Second cycle, University of Gothenburg.
-  1. 2019 (Course administrator) "KT1102 - Kommunikation i nya och sociala medier - Introduktion", 7,5 credits, First cycle, University of Gothenburg. 
+  1. 2019 (Course administrator) "KT1102 - Kommunikation i nya och sociala medier - Introduktion", 7,5 credits, First cycle, University of Gothenburg.
   1. 2018 (Course administrator) "KT2104 H18 Organisationskommunikation 1 / Organizational Communication", 7,5 credits, Second cycle, University of Gothenburg.
   1. 2018, 2019 (Course administrator) "KT2501 V18 Magisteruppsats", 15 credits, Second cycle, University of Gothenburg.
   1. 2012, 2013, 2017, 2018, 2019 (Course administrator) ["Communication in New and Social Media"](http://files.christopherkullenberg.se/kursplaner/KT2102.pdf), 7.5 credits, Second cycle, University of Gothenburg.
@@ -469,7 +471,7 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 
 
   1. Gabriela Velasquez Ulloa (2018) ["Hur når vi ut? Om att skapa engagemang
-på sociala medier"](https://gupea.ub.gu.se/handle/2077/58024), University of Gothenburg. 
+på sociala medier"](https://gupea.ub.gu.se/handle/2077/58024), University of Gothenburg.
   1. Emelie Engström (2018) ["Goa patienter och kompetent personal? En innehålls- och textanalys av Sahlgrenska Universitetssjukhusets värdeord på Instagram"](https://gupea.ub.gu.se/handle/2077/58030), University of Gothenburg.
   1. Clara Tortosa (2017) ["Vem är göteborgaren i Vårt Göteborg? - En diskursanalys av Vi och dem i en kommuntidning"](https://gupea.ub.gu.se/handle/2077/54970), University of Gothenburg.
   1. Peter Häggbom Norrby (2017) ["Medborgaren i kommunens kommunikationspolicy - En jämförelse mellan tio kommuner"](https://gupea.ub.gu.se/handle/2077/54948), University of Gothenburg.
@@ -506,7 +508,7 @@ på sociala medier"](https://gupea.ub.gu.se/handle/2077/58024), University of Go
 ### Master's Programme for communication officers in the public sector: Thesis examination, master's Degree (Magister).
 
   1. Emilia Vermelin (2019) "Dömd på förhand: (o)dialogisk kommunikation och epistemisk orättvisa.", University of Gothenburg.
-  1. Malin Fallgren (2019) "Kan kultur kommunicera mellan myndighet och medborgare? - En kommunikationsstrategisk fallstudie av Lights in Biskopsgården", University of Gothenburg. 
+  1. Malin Fallgren (2019) "Kan kultur kommunicera mellan myndighet och medborgare? - En kommunikationsstrategisk fallstudie av Lights in Biskopsgården", University of Gothenburg.
   1. Lina Ahlstedt (2019) "Lyssnar dom??", University of Gothenburg.
   1. Katarina von Sydow (2018) ["Angereds närsjukhus kommunikation av folkhälsa – en fallstudie av 'Rökfria lekplatser' och 'Angereds hjältar'](https://gupea.ub.gu.se/handle/2077/58013), University of Gothenburg.
   1. Sofie Alnäs (2018) ["I skärningspunkten mellan lokal och central styrning. En undersökning av kommunikatörens
@@ -566,8 +568,8 @@ första steg inom utbildningsvetenskaplig kumulativitet.", Magisteruppsats, Univ
 
 ## Other pedagogical experiences
 
-  1. 2018 PI for ["Alumnundersökning Kommunikatörsprogrammet", Alumni Study Report](https://gup.ub.gu.se/publication/273029). 
+  1. 2018 PI for ["Alumnundersökning Kommunikatörsprogrammet", Alumni Study Report](https://gup.ub.gu.se/publication/273029).
   1. 2018 - ongoing. Programme Co-ordinator for the Master's Programme for communication officers in the public sector, 60 - 120
-credits, University of Gothenburg. 
+credits, University of Gothenburg.
   1. [Study Administrator (Studierektor), Spring semester 2014](http://files.christopherkullenberg.se/studierektoronline.pdf).
   1. [2012 - 2014. Member of Rådet för Europastudier vid Göteborgs universitet (REGU)](http://files.christopherkullenberg.se/IntygREGU.pdf).
