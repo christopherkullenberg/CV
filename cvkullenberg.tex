@@ -4,10 +4,10 @@
 %
 \documentclass[
 ]{article}
+\usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -45,6 +45,9 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
 
 \title{CV}
 \author{Christopher Kullenberg}
@@ -295,6 +298,11 @@ issues}\label{editorship-of-peer-reviewed-journal-issues}}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
+  Kasperowski, D, Berti Suman, A, Chen, S-L and Kullenberg, C. 2023.
+  Where Environmental Citizen Science Meets the Law. Citizen Science:
+  Theory and Practice, 8(1): 8, pp.~1--4. DOI:
+  https://doi.org/10.5334/cstp.596
+\item
   Dick Kasperowski \& \textbf{Christopher Kullenberg} (2019) ``Special
   Issue: Many Modes of Citizen Science'', \emph{Science and Technology
   Studies}, Vol 32/2019, Issue 2.
@@ -359,7 +367,7 @@ issues}\label{editorship-of-peer-reviewed-journal-issues}}
   (2020) ``The epistemology of mobilising citizens in the sciences:
   Tensions in epistemic cultures of contribution and ideals of
   science'', in Mäkitalo et al.~\emph{Designs for Experimentation and
-  Inquiry"}, Routledge: London and New York.
+  Inquiry''}, Routledge: London and New York.
 \item
   Hård af Segerstad, Y. ; Howes, C. ; Kasperowski, D. \&
   \textbf{Kullenberg, C.} (2017) ``Studying closed communities on-line:
@@ -444,7 +452,7 @@ issues}\label{editorship-of-peer-reviewed-journal-issues}}
   Kullenberg, C. Björkvall, Anders, Johan Järlehed, Christopher
   Kullenberg, Helle Lykke Nielsen, Andreas Nord, Tove Rosendal, Sara Van
   Meerbergen \& Gustav Westberg (2017)
-  \href{https://www.forskarfredag.se/filer/ff2016-anslagstavlan-slutrapport.pdf}{"Slutrapport
+  \href{https://www.forskarfredag.se/filer/ff2016-anslagstavlan-slutrapport.pdf}{``Slutrapport
   Anslagstavlan - Forskarfredags Massexperiment 2016}, VA-rapport
   2017:1, Red. Fredrik Bronéus, Stockholm: Vetenskap och Allmänhet, ISSN
   1653-6843.
@@ -992,7 +1000,7 @@ media}\label{interviews-in-mass-media}}
   balansgång mellan globala krav''}.
 \item
   20161002 - Arbetarbladet,
-  \href{http://www.arbetarbladet.se/gavleborg/sandviken/vilken-betydelse-har-anslagstavlan-i-dag}{"Vilken
+  \href{http://www.arbetarbladet.se/gavleborg/sandviken/vilken-betydelse-har-anslagstavlan-i-dag}{``Vilken
   betydelse har anslagstavlan idag?}.
 \item
   20160930 - SR P1, \href{http://t.sr.se/2dszL0a}{Vetenskapsradions
@@ -1008,7 +1016,7 @@ media}\label{interviews-in-mass-media}}
   20160811 - DagensETC, ``Forskningen har flyttat in i hemmet''.
 \item
   20160915 - Språktidningen,
-  \href{http://spraktidningen.se/blogg/skolelever-far-prova-pa-forskarlivet}{"Skolelever
+  \href{http://spraktidningen.se/blogg/skolelever-far-prova-pa-forskarlivet}{``Skolelever
   får pröva på forskarlivet}.
 \item
   20160530 - P4 Östergötland, \href{http://t.sr.se/1NY9nMZ}{``Landets
@@ -1066,7 +1074,7 @@ media}\label{interviews-in-mass-media}}
   20150601 - Hallands Nyheter, ``Kommunen betalar med informationen''.
 \item
   20150323 - Sveriges Television Vetenskapens Värld,
-  \href{https://youtu.be/vG8sZQnU7mU?t=18m1s}{"Medborgarforskning.}
+  \href{https://youtu.be/vG8sZQnU7mU?t=18m1s}{``Medborgarforskning.}
 \item
   20150103 - SVT Nyheter,
   \href{http://www.svt.se/nyheter/utrikes/gmail-senaste-malet-for-kinas-natcensur?cmpid=del:pd:ny:20160803:gmail-senaste-malet-for-kinas-natcensur:nyh}{``Gmail
@@ -1089,21 +1097,21 @@ media}\label{interviews-in-mass-media}}
   \href{http://www.information.dk/471440}{``Det er godt, at vi smadrer
   myten om det frie internet''}.
 \item
-  20130906 - Sveriges Radio P1, \href{http://t.sr.se/OfP0gG}{"Hur trygga
-  är vi på nätet?}
+  20130906 - Sveriges Radio P1, \href{http://t.sr.se/OfP0gG}{``Hur
+  trygga är vi på nätet?}
 \item
   20130719 - Dagens Nyheter,
   \href{http://www.dn.se/kultur-noje/sjalvforstorande-bilder-gor-succe/}{``Självförstörande
   bilder gör succe''}.
 \item
   20130615 - Helsingborgs Dagblad,
-  \href{http://www.hd.se/2013-06-15/storebror-ser-dig1.\%20Kullenberg,\%20C.\%20men-bryr-vi-oss}{"Storebror
+  \href{http://www.hd.se/2013-06-15/storebror-ser-dig1.\%20Kullenberg,\%20C.\%20men-bryr-vi-oss}{``Storebror
   ser dig, men bryr vi oss?}
 \item
   20130613 - Arbetaren, ``Obama-administrationen måste förklara sig''.
 \item
   20130607 - Sverige Radio P3,
-  \href{http://t.sr.se/MiZb35}{"Korrerapporten.}
+  \href{http://t.sr.se/MiZb35}{``Korrerapporten.}
 \item
   20130601 - Utbildningsradion,
   \href{http://urskola.se/Produkter/176858-UR-Samtiden-Overvakning-och-kontroll-Internetovervakning-och-revolutioner}{``Internetövervakning
@@ -1141,8 +1149,9 @@ media}\label{interviews-in-mass-media}}
   Telecomix, The Hackers Bent On Exposing Those Who Censor And Surveil
   The Internet''}.
 \item
-  20111204 - SR P4 Jönköping, \href{http://t.sr.se/1gy095E}{"Christopher
-  från Bodafors är Årets svensk}.
+  20111204 - SR P4 Jönköping,
+  \href{http://t.sr.se/1gy095E}{``Christopher från Bodafors är Årets
+  svensk}.
 \item
   2011 - ARTE, TRACKS, ``Christopher Kullenberg'', Also on Youtube:
   \url{https://www.youtube.com/watch?v=a3ppeRZHVcY}.
@@ -1168,13 +1177,13 @@ media}\label{interviews-in-mass-media}}
   praktiserar yttrandefrihet''}.
 \item
   2011060 - Dagens Nyheter,
-  \href{http://www.dn.se/nyheter/varlden/sa-begransar-syrien-friheten-pa-internet}{"Så
+  \href{http://www.dn.se/nyheter/varlden/sa-begransar-syrien-friheten-pa-internet}{``Så
   begränsar Syrien internet.}
 \item
   20110407 - SR P1 Obs!, \href{http://t.sr.se/1zjt3PQ}{``Internet, Gud
   och människan''}.
 \item
-  20110407 - SR P1, \href{http://t.sr.se/PbptWr}{"Internet, ett nytt
+  20110407 - SR P1, \href{http://t.sr.se/PbptWr}{``Internet, ett nytt
   politiskt subjekt?}
 \item
   20110407 - Hackerspaces Signal Radio,
@@ -1194,10 +1203,10 @@ media}\label{interviews-in-mass-media}}
   chatt 1. en säkerhetsrisk''}.
 \item
   20110221 - Sveriges Radio Studio ett,
-  \href{http://t.sr.se/1cUlHfI}{"Studio Ett1. extrasändning om Libyen.}
+  \href{http://t.sr.se/1cUlHfI}{``Studio Ett1. extrasändning om Libyen.}
 \item
   20110214 - Sveriges Radio Studio ett,
-  \href{http://t.sr.se/1D1zCXq}{"Iran 1. oppositionen uppmanar till
+  \href{http://t.sr.se/1D1zCXq}{``Iran 1. oppositionen uppmanar till
   demonstrationer.}
 \item
   20110202 - PC-facile,
@@ -1330,12 +1339,12 @@ workshops}\label{exhibitions-and-public-outreach-workshops}}
   Gotenburg.
 \item
   20171108 -
-  \href{http://gps400.gu.se/digitalAssets/1662/1662945_gps400-conference_final-programme.pdf}{"Collecting
+  \href{http://gps400.gu.se/digitalAssets/1662/1662945_gps400-conference_final-programme.pdf}{``Collecting
   Analog Bulletin Board Messages Using a Citizen Science Methodology,
   GPS 400 Gothenburg Cultures on the town 1621-2021}.
 \item
   20170915 -
-  \href{http://patriksv.net/2017/08/program-and-inbjudna-deltagare-15-september-pa-kth/}{"Perspektiv
+  \href{http://patriksv.net/2017/08/program-and-inbjudna-deltagare-15-september-pa-kth/}{``Perspektiv
   på digitalt driven forskning inom humaniora'}, Royal Institute of
   Technology (KTH), Stockholm.
 \item
@@ -1365,7 +1374,7 @@ workshops}\label{exhibitions-and-public-outreach-workshops}}
   seminarium, Idéhistoria, Lunds universitet.
 \item
   20161012 - \href{https://v-a.se/events/va-dagen-2016/}{``VA-Dagen 2016
-  om öppen vetenskap''}, Stockholm. "Video:
+  om öppen vetenskap''}, Stockholm. ``Video:
   \url{https://youtu.be/CUNnddKvZ9o?t=43m52s}.
 \item
   20160922 -
@@ -1544,7 +1553,7 @@ teacher}\label{course-administrator-and-teacher}}
   Gothenburg.
 \item
   2007 - 2014. (Course administrator 2012 - 2013).
-  \href{http://files.christopherkullenberg.se/kursplaner/NTH001_Teoretiska_och_historiska_perspektiv_pa\%cc\%8a_naturvetenskap_10512.pdf}{"NTH001
+  \href{http://files.christopherkullenberg.se/kursplaner/NTH001_Teoretiska_och_historiska_perspektiv_pa\%cc\%8a_naturvetenskap_10512.pdf}{``NTH001
   Theoretical and Historical Perspectives on Science, 7.5 credits},
   First cycle, University of Gothenburg.
 \item
@@ -1641,7 +1650,7 @@ level\}}\label{masters-programme-for-communication-officers-in-the-public-sector
   Gothenburg.
 \item
   Malin Arosilta (2013) ``Demokratiska värden som varumärke - En studie
-  om''Göteborg 2021``.'', University of Gothenburg.
+  om''Göteborg 2021''.'', University of Gothenburg.
 \item
   Anna Cöster (2013) ``Att vara kyrka på internet. Svenska kyrkan i
   sociala medier.'', University of Gothenburg.
@@ -1657,24 +1666,24 @@ level\}}\label{masters-programme-for-communication-officers-in-the-public-sector
   Gothenburg.
 \item
   Sven Lindström (2013) ``Vad håller vi på med? - En kartläggning av
-  kommunikationsprocessen kring kampanjen''Vad håller du på med?''",
+  kommunikationsprocessen kring kampanjen''Vad håller du på med?''\,``,
   University of Gothenburg.
 \item
-  Sunanda Malm (2013) " Målförståelse, kommunikation och
+  Sunanda Malm (2013) '' Målförståelse, kommunikation och
   varumärkesarbete på en svensk myndighet, sett ur ett
-  medarbetarperspektiv"", University of Gothenburg.
+  medarbetarperspektiv''\,``, University of Gothenburg.
 \item
-  Maria Pettersson (2013) "``Vissa saker är bara jävligt svårt att prata
-  om'' - Om ungas användning av internet för terapeutiska samtal.",
-  University of Gothenburg.
+  Maria Pettersson (2013) ````Vissa saker är bara jävligt svårt att
+  prata om'' - Om ungas användning av internet för terapeutiska
+  samtal.'', University of Gothenburg.
 \item
   Annie Sjölund (2013) ``Skall man skjuta får man ju vårda också'' - En
-  studie om sjuksköterskors uppfattningar om Försvarsmakten", University
-  of Gothenburg.
+  studie om sjuksköterskors uppfattningar om Försvarsmakten'',
+  University of Gothenburg.
 \item
-  Agneta Slonawski (2013) "''Jag tror man mest söker information hos
+  Agneta Slonawski (2013) ``\,''Jag tror man mest söker information hos
   kompisar eller på nätet.'' - Förutsättningar för att nå unga med
-  information om alkohol och droger för Mini-Maria Göteborg.",
+  information om alkohol och droger för Mini-Maria Göteborg.'',
   University of Gothenburg.
 \item
   Karin Svenner (2013) ``Synen på kommunikation - en kvalitativ
@@ -1713,8 +1722,8 @@ level}\label{media-and-communication-studies-thesis-supervision-bachelor-level}}
 \item
   Lars Karlsson (2006)
   \href{http://www.uppsatser.se/uppsats/7e12f0e57f/}{``Primitiv och utan
-  identitet : en kvalitativ analys av synen på''den andre" i Metros
-  pratbubbletävling"}, University West, Media \& Communication studies.
+  identitet : en kvalitativ analys av synen på''den andre'' i Metros
+  pratbubbletävling''}, University West, Media \& Communication studies.
 \item
   Tobias Hagrenius (2006)
   \href{http://urn.kb.se/resolve?urn=urn:nbn:se:hv:diva-851}{``Samma
@@ -1763,7 +1772,7 @@ public sector: Thesis examination, master's Degree
   Lina Ahlstedt (2019) ``Lyssnar dom??'', University of Gothenburg.
 \item
   Katarina von Sydow (2018)
-  \href{https://gupea.ub.gu.se/handle/2077/58013}{"Angereds närsjukhus
+  \href{https://gupea.ub.gu.se/handle/2077/58013}{``Angereds närsjukhus
   kommunikation av folkhälsa -- en fallstudie av `Rökfria lekplatser'
   och `Angereds hjältar'}, University of Gothenburg.
 \item
@@ -1841,7 +1850,7 @@ supervision}\label{evidence-basing-practice-theory-context-masters-level-magiste
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Emelie Askaner (2018) "Implementering och standardisering:
+  Emelie Askaner (2018) ``Implementering och standardisering:
   Undersökning av en standardiserings påverkan på arbetsterapeuter
   professionella status - Förväntningar och farhågor inför en
   implementeringsplan av AusTOMs, Magisteruppsats, University of

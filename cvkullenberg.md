@@ -84,6 +84,7 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 
 #### Editorship of peer reviewed journal issues
 
+  1. Kasperowski, D, Berti Suman, A, Chen, S-L and Kullenberg, C. 2023. Where Environmental Citizen Science Meets the Law. Citizen Science: Theory and Practice, 8(1): 8, pp. 1–4. DOI: https://doi.org/10.5334/cstp.596
   1. Dick Kasperowski & **Christopher Kullenberg** (2019) "Special Issue: Many Modes of Citizen Science", *Science and Technology Studies*,  Vol 32/2019, Issue 2.  
 
 #### Non-peer review
