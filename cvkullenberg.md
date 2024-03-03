@@ -69,8 +69,10 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 ### Journal articles
 
 #### Peer reviewed
+1. Kasperowski, D., Berti Suman, A., Chen, S.-L., & **Kullenberg, C.** (2023). Where Environmental Citizen Science Meets the Law. Citizen Science: Theory and Practice, 8(1), 8. https://doi.org/10.5334/cstp.596
 
-  1. Frauke Rohden, **Christopher Kullenberg**, Niclas Hagen, Dick Kasperowski (2019) "Tagging, Pinging and Linking – User Roles in Virtual Citizen Science Forums", *Citizen science: theory and practice* 4(1), p.19. DOI: [10.5334/cstp.181](http://doi.org/10.5334/cstp.181).
+  1. Jönsson, M., Kasperowski, D., Coulson, S. J., Nilsson, J., Bína, P., Kullenberg, C., Hagen, N., Van Der Wal, R., & Peterson, J. (2023). "Inequality persists in a large citizen science programme despite increased participation through ICT innovations". *Ambio*. https://[doi.org/10.1007/s13280-023-01917-1](https://doi.org/10.1007/s13280-023-01917-1)
+  1. Frauke Rohden, **Christopher Kullenberg**, Niclas Hagen, Dick Kasperowski (2019) "Tagging, Pinging and Linking – User Roles in Virtual Citizen Science Forums", *Citizen science: theory and practice* 4(1), p.19. DOI: [10.5334/cstp.181](https://doi.org/10.5334/cstp.181).
   1. Hallberg, M. & **Kullenberg, C.** (2019) "Happiness Studies: Co-Production of Social Science and Social Order", *Nordic Journal of Science and Technology Studies* 7(9) [https://doi.org/10.5324/njsts.v7i1.2530](https://doi.org/10.5324/njsts.v7i1.2530).
   1. Fleischer, Rasmus & **Kullenberg, Christopher** (2018) "[The Political Significance of Spotify in Sweden— Analysing the #backaspotify Campaign using Twitter Data](http://www.cultureunbound.ep.liu.se/article.asp?DOI=10.3384/cu.2000.1525.20180918)", *Culture Unbound*, Vol 10, Issue 2, DOI 10.3384/cu.2000.1525.20180918.
   1. **Kullenberg, Christopher**, Frauke Rohden, Anders Björkvall, Fredrik Brounéus, Anders Avellan-Hultman, Johan Järlehed, Sara Van Meerbergen, et al. “What Are Analog Bulletin Boards Used for Today? Analysing Media Uses, Intermediality and Technology Affordances in Swedish Bulletin Board Messages Using a Citizen Science Approach.” *PLOS ONE* 13, no. 8 (August 2018): e0202077. [10.1371/journal.pone.0202077](https://doi.org/10.1371/journal.pone.0202077).
