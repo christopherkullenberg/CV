@@ -5,16 +5,19 @@
 \documentclass[
 ]{article}
 \usepackage{amsmath,amssymb}
-\usepackage{lmodern}
 \usepackage{iftex}
 \ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
 \else % if luatex or xetex
-  \usepackage{unicode-math}
+  \usepackage{unicode-math} % this also loads fontspec
   \defaultfontfeatures{Scale=MatchLowercase}
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -33,14 +36,6 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\hypersetup{
-  pdftitle={CV},
-  pdfauthor={Christopher Kullenberg},
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
-\urlstyle{same} % disable monospaced font for URLs
 \setlength{\emergencystretch}{3em} % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
@@ -48,6 +43,14 @@
 \ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={CV},
+  pdfauthor={Christopher Kullenberg},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
 
 \title{CV}
 \author{Christopher Kullenberg}
@@ -1532,56 +1535,103 @@ workshops}\label{exhibitions-and-public-outreach-workshops}}
   Credits, Second Cycle}
 \end{enumerate}
 
+\hypertarget{administrative-systems}{%
+\subsection{Administrative systems}\label{administrative-systems}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \setcounter{enumii}{2023}
+  \tightlist
+  \item
+    Time Edit scheduling system. 2 day training course, University of
+    Gothenburg.
+  \end{enumerate}
+\end{enumerate}
+
 \hypertarget{courses-thesis-supervisionexamination-graduate-level}{%
 \subsection{Courses \& Thesis supervision/examination, graduate
 level}\label{courses-thesis-supervisionexamination-graduate-level}}
 
-\hypertarget{theory-of-science-courses}{%
-\subsubsection{Theory of Science:
-Courses}\label{theory-of-science-courses}}
+\hypertarget{theory-of-science}{%
+\subsubsection{Theory of Science}\label{theory-of-science}}
 
 \hypertarget{course-administrator-and-teacher}{%
 \paragraph{Course administrator and
 teacher}\label{course-administrator-and-teacher}}
 
+\emph{incomplete} 1. 2019 VT1500 ``Medborgarforskning: teori och
+praktik'', University of Gothenburg. 1. 2017 (Course administrator
+together with Mats Dahlström) Digital Research Methods, distance course
+15 credits BMBD116h, University of Borås. 1. 2013
+\href{http://files.christopherkullenberg.se/kursplaner/FHV241Strimman.pdf}{``FHV241
+The Strand: People, Knowledge and Public Health Practice''}, 6 credits,
+(Strimman, moment 1: Tre konstruktioner av människan och folkhälsoarbete
+i praktiken), 1.5 credits, Second cycle, University of Gothenburg. 1.
+2007 - 2014. (Course administrator 2012 - 2013).
+\href{http://files.christopherkullenberg.se/kursplaner/NTH001_Teoretiska_och_historiska_perspektiv_pa\%cc\%8a_naturvetenskap_10512.pdf}{``NTH001
+Theoretical and Historical Perspectives on Science, 7.5 credits}, First
+cycle, University of Gothenburg. 1. 2014
+\href{http://files.christopherkullenberg.se/kursplaner/VT1101_Introduktion_i_klassisk_vetenskapsteori__grundkurs_13185.pdf}{``VT1101
+Classical Theory of Science, Introductory Course (Introduktion till
+klassisk vetenskapsteori)''}, 15 credits, First cycle, University of
+Gothenburg. 1. 2014
+\href{http://files.christopherkullenberg.se/kursplaner/VT2106_Klassisk_vetenskapsteori_13187.pdf}{``VT2106
+Classical Theory of Science (Klassisk vetenskapsteori)''}, 15 credits,
+Second cycle level, University of Gothenburg.
+
+\hypertarget{thesis-examination}{%
+\paragraph{Thesis examination}\label{thesis-examination}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \setcounter{enumii}{2022}
+  \tightlist
+  \item
+    Magisterexamensarbete, Marlon Leyman, ``Enactment \&
+    Perspectivalism: On Ontology contra Epistemology'', University of
+    Gothenburg.
+  \end{enumerate}
+\end{enumerate}
+
+\hypertarget{liberal-arts}{%
+\subsubsection{Liberal Arts}\label{liberal-arts}}
+
+\hypertarget{courses}{%
+\paragraph{Courses}\label{courses}}
+
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  2019 VT1500 ``Medborgarforskning: teori och praktik'', University of
-  Gothenburg.
+  2021, 22, 23, 24 - LIB260, ``Theory of science for the humanities'',
+  University of Gothenburg (course module, 7.5 credits).
 \item
-  2017 (Course administrator together with Mats Dahlström) Digital
-  Research Methods, distance course 15 credits BMBD116h, University of
-  Borås.
+  2024 - LIB220 ``Epistemology'' (course module, 10 credits).
 \item
-  2013
-  \href{http://files.christopherkullenberg.se/kursplaner/FHV241Strimman.pdf}{``FHV241
-  The Strand: People, Knowledge and Public Health Practice''}, 6
-  credits, (Strimman, moment 1: Tre konstruktioner av människan och
-  folkhälsoarbete i praktiken), 1.5 credits, Second cycle, University of
-  Gothenburg.
-\item
-  2007 - 2014. (Course administrator 2012 - 2013).
-  \href{http://files.christopherkullenberg.se/kursplaner/NTH001_Teoretiska_och_historiska_perspektiv_pa\%cc\%8a_naturvetenskap_10512.pdf}{``NTH001
-  Theoretical and Historical Perspectives on Science, 7.5 credits},
-  First cycle, University of Gothenburg.
-\item
-  2014
-  \href{http://files.christopherkullenberg.se/kursplaner/VT1101_Introduktion_i_klassisk_vetenskapsteori__grundkurs_13185.pdf}{``VT1101
-  Classical Theory of Science, Introductory Course (Introduktion till
-  klassisk vetenskapsteori)''}, 15 credits, First cycle, University of
-  Gothenburg.
-\item
-  2014
-  \href{http://files.christopherkullenberg.se/kursplaner/VT2106_Klassisk_vetenskapsteori_13187.pdf}{``VT2106
-  Classical Theory of Science (Klassisk vetenskapsteori)''}, 15 credits,
-  Second cycle level, University of Gothenburg.
+  2022, 23 - ``Internship project'', Course administrator.
 \end{enumerate}
 
-\hypertarget{media-communication-studies-strategic-communication-courses}{%
-\subsubsection{Media \& Communication Studies, Strategic Communication:
-Courses}\label{media-communication-studies-strategic-communication-courses}}
+\hypertarget{thesis-supervision}{%
+\paragraph{Thesis supervision}\label{thesis-supervision}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  2023 Keller, Heidi ``The Chosen Creatures: How Animal Juxtapositions
+  in Antisemitic Propaganda Contributed to Institutionalized
+  otherness'', University of Gothenburg.
+\end{enumerate}
+
+\hypertarget{media-communication-studies-strategic-communication}{%
+\subsubsection{Media \& Communication Studies, Strategic
+Communication}\label{media-communication-studies-strategic-communication}}
 
 \hypertarget{course-administrator-and-teacher-1}{%
 \paragraph{Course administrator and
@@ -1892,10 +1942,8 @@ level}\label{courses-thesis-supervision-postgraduate-level}}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  2017 - ongoing.
-  \href{http://files.christopherkullenberg.se/Beslut\%20byte\%20handledare\%20J\%20Vikstrom.pdf}{Co-supervisor
-  for Licentiate thesis of Jörgen Vikström}, Theory of Science,
-  University of Gothenburg.
+  2023 - ongoing. Main supervisor for doctoral candidate Annika Linell,
+  Theory of Science, University of Gothenburg.
 \item
   2016 - 2017. Co-supervisor for Ph.D.-candidate Erik Joelsson, Theory
   of Science, University of Gothenburg.
@@ -1956,19 +2004,22 @@ experiences}\label{other-pedagogical-experiences}}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  2018 PI for
+  2024 Appointed as evaluator for the main field of study ``Education
+  with Specialization in Learning, Communication and Information
+  Technology''. Appointed by the Dean of the Faculty of Pedagogics,
+  University of Gothenburg, as per decision GU 2023/3511. 2018 PI for
   \href{https://gup.ub.gu.se/publication/273029}{``Alumnundersökning
   Kommunikatörsprogrammet'', Alumni Study Report}.
 \item
-  2018 - ongoing. Programme Co-ordinator for the Master's Programme for
+  2018 - 2020 Programme Co-ordinator for the Master's Programme for
   communication officers in the public sector, 60 - 120 credits,
   University of Gothenburg.
 \item
   \href{http://files.christopherkullenberg.se/studierektoronline.pdf}{Study
-  Administrator (Studierektor), Spring semester 2014}.
+  Administrator (Studierektor), Spring semester 2014, 2022 - ongoing}.
 \item
   \href{http://files.christopherkullenberg.se/IntygREGU.pdf}{2012 -
-  2014. Member of Rådet för Europastudier vid Göteborgs universitet
+  2014. Member of ``Rådet för Europastudier vid Göteborgs universitet''
   (REGU)}.
 \end{enumerate}
 

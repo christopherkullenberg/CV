@@ -440,12 +440,15 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
   1. [2016. Formal credits for the course HPE102 Teaching and learning in Higher Education 2: Discipline Specific Pedagogic](http://kursplaner.gu.se/svenska/HPE102.pdf).
   1. [2018. HPE103: Teaching and Learning in Higher Education 3: Applied Analysis, 5 Credits, Second Cycle](http://kursplaner.gu.se/svenska/HPE103.pdf)
 
+## Administrative systems
+  1. 2024. Time Edit scheduling system. 2 day training course, University of Gothenburg.
 
 ## Courses & Thesis supervision/examination, graduate level
 
-### Theory of Science: Courses
+### Theory of Science
 
 #### Course administrator and teacher
+  *incomplete*
   1. 2019 VT1500 "Medborgarforskning: teori och praktik", University of Gothenburg.
   1. 2017 (Course administrator together with Mats Dahlström) Digital Research Methods, distance course 15 credits BMBD116h, University of Borås.
   1. 2013 ["FHV241 The Strand: People, Knowledge and Public Health Practice"](http://files.christopherkullenberg.se/kursplaner/FHV241Strimman.pdf), 6 credits, (Strimman, moment 1: Tre konstruktioner av människan och folkhälsoarbete i praktiken), 1.5 credits, Second cycle, University of Gothenburg.
@@ -453,8 +456,21 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
   1. 2014 ["VT1101 Classical Theory of Science, Introductory Course (Introduktion till klassisk vetenskapsteori)"](http://files.christopherkullenberg.se/kursplaner/VT1101_Introduktion_i_klassisk_vetenskapsteori__grundkurs_13185.pdf), 15 credits, First cycle, University of Gothenburg.
   1. 2014 ["VT2106 Classical Theory of Science (Klassisk vetenskapsteori)"](http://files.christopherkullenberg.se/kursplaner/VT2106_Klassisk_vetenskapsteori_13187.pdf), 15 credits, Second cycle level, University of Gothenburg.
 
+#### Thesis examination
+  1. 2023. Magisterexamensarbete, Marlon Leyman, "Enactment & Perspectivalism: On Ontology contra Epistemology", University of Gothenburg.
 
-### Media & Communication Studies, Strategic Communication: Courses
+
+### Liberal Arts
+
+#### Courses
+  1. 2021, 22, 23, 24 - LIB260, "Theory of science for the humanities", University of Gothenburg (course module, 7.5 credits).
+  1. 2024 -  LIB220 "Epistemology" (course module, 10 credits).
+  1. 2022, 23 - "Internship project", Course administrator.
+
+#### Thesis supervision
+  1. 2023 Keller, Heidi "The Chosen Creatures: How Animal Juxtapositions in Antisemitic Propaganda Contributed to Institutionalized otherness", University of Gothenburg.
+
+### Media & Communication Studies, Strategic Communication
 
 #### Course administrator and teacher
 
@@ -552,7 +568,7 @@ första steg inom utbildningsvetenskaplig kumulativitet.", Magisteruppsats, Univ
 ## Courses & Thesis supervision, postgraduate level
 
 ### Ph.D-thesis supervision
-  1. 2017 - ongoing. [Co-supervisor for Licentiate thesis of Jörgen Vikström](http://files.christopherkullenberg.se/Beslut%20byte%20handledare%20J%20Vikstrom.pdf), Theory of Science, University of Gothenburg.
+  1. 2023 - ongoing. Main supervisor for doctoral candidate Annika Linell, Theory of Science, University of Gothenburg.
   1. 2016 - 2017. Co-supervisor for Ph.D.-candidate Erik Joelsson, Theory of Science, University of Gothenburg. [Thesis completed in February 2017](https://gupea.ub.gu.se/handle/2077/51493).
 
 ### Teaching, post-graduate level
@@ -571,8 +587,10 @@ första steg inom utbildningsvetenskaplig kumulativitet.", Magisteruppsats, Univ
 
 ## Other pedagogical experiences
 
-  1. 2018 PI for ["Alumnundersökning Kommunikatörsprogrammet", Alumni Study Report](https://gup.ub.gu.se/publication/273029).
-  1. 2018 - ongoing. Programme Co-ordinator for the Master's Programme for communication officers in the public sector, 60 - 120
+  1. 2024 Appointed as evaluator for the main field of study "Education with Specialization in Learning, Communication
+and Information Technology". Appointed by the Dean of the Faculty of Pedagogics, University of Gothenburg, as per decision GU 2023/3511. 
+  2018 PI for ["Alumnundersökning Kommunikatörsprogrammet", Alumni Study Report](https://gup.ub.gu.se/publication/273029).
+  1. 2018 - 2020  Programme Co-ordinator for the Master's Programme for communication officers in the public sector, 60 - 120
 credits, University of Gothenburg.
-  1. [Study Administrator (Studierektor), Spring semester 2014](http://files.christopherkullenberg.se/studierektoronline.pdf).
-  1. [2012 - 2014. Member of Rådet för Europastudier vid Göteborgs universitet (REGU)](http://files.christopherkullenberg.se/IntygREGU.pdf).
+  1. [Study Administrator (Studierektor), Spring semester 2014, 2022 - ongoing](http://files.christopherkullenberg.se/studierektoronline.pdf).
+  1. [2012 - 2014. Member of "Rådet för Europastudier vid Göteborgs universitet" (REGU)](http://files.christopherkullenberg.se/IntygREGU.pdf).
