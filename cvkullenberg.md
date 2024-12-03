@@ -238,6 +238,9 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 
 ## Referee work
 
+### Member of PhD. grading committee
+  1. 2025-05-20, Zakayo Källström, *Black Open Access: Shadow Libraries and Text Piracy*, Umeå University. As per the Dean's decision Dnr FS 4.3-2072-24.
+
 ### Expert for employment or promotion
   1. Reviewer for application as Ph.D. candidate in Theory of Science, Dept. of
   Philosophy, Linguistics and Theory of Science, University of Gothenburg, (2017).
