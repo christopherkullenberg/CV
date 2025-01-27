@@ -50,6 +50,7 @@ date: \today
 
 
 ### Administrative duties
+ * 2023 (Mar) - Unit head, Linguistics and Theory of Science unit.
  * 2022 (Aug) - 2023 (Mar). Acting Head of doctoral studies at the Department of Philosophy, Linguistics and Theory of Science.
  * 2018 - 2020. Programme Co-ordinator for the Master's Programme for communication officers in the public sector, 60 - 120 credits, University of Gothenburg.
  * [Study Administrator, spring semester 2014](http://files.christopherkullenberg.se/studierektoronline.pdf). University of Gothenburg.
@@ -69,6 +70,9 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 ### Journal articles
 
 #### Peer reviewed
+
+1. Fors Connolly, F., Frech, J., Brülde, B., & **Kullenberg, C.** (2024). Are Danes really happier than Swedes and Australians? A comparative analysis of subjective well-being measurement issues in Denmark, Sweden, and Australia. International Journal of Wellbeing, 14(3), 1–27. https://doi.org/10.5502/ijw.v14i3.3881
+
 1. Kasperowski, D., Berti Suman, A., Chen, S.-L., & **Kullenberg, C.** (2023). Where Environmental Citizen Science Meets the Law. Citizen Science: Theory and Practice, 8(1), 8. https://doi.org/10.5334/cstp.596
 
   1. Jönsson, M., Kasperowski, D., Coulson, S. J., Nilsson, J., Bína, P., Kullenberg, C., Hagen, N., Van Der Wal, R., & Peterson, J. (2023). "Inequality persists in a large citizen science programme despite increased participation through ICT innovations". *Ambio*. https://[doi.org/10.1007/s13280-023-01917-1](https://doi.org/10.1007/s13280-023-01917-1)
