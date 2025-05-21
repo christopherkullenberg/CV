@@ -34,7 +34,7 @@ date: \today
 ### Current Employment
   * 20180201 - Senior Lecturer in Theory of Science, Dept. of Philosophy, Linguistics and Theory of Science, University of Gothenburg. Full time. (Application number PAR 2017/92).
 
-### Research projects, externally funded. <!-- aand formas-->
+### Research projects, externally funded. <!-- and formas-->
   1. Responsible for work package "Portal construction", 40%, 2017-2021, "Arenor för relationsbyggande samverkan genom medborgarforskning",
   Vinnova, PI: [Dick Kasperowski](mailto:dick.kasperowski@gu.se), Grant number: 2017-03527.
   1. Researcher 50%, 2015-2018, "Taking Science to the Crowd: Researchers, Programmers and Volunteer Contributors Transforming Science Online." Marianne & Marcus Wallenberg Foundation. PI: [Dick Kasperowski](mailto:dick.kasperowski@gu.se), Grant number: [MMW 2013.0020](https://www.wallenberg.com/MMW/projektanslag-2013).
@@ -71,9 +71,9 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 
 #### Peer reviewed
 
-1. Fors Connolly, F., Frech, J., Brülde, B., & **Kullenberg, C.** (2024). Are Danes really happier than Swedes and Australians? A comparative analysis of subjective well-being measurement issues in Denmark, Sweden, and Australia. International Journal of Wellbeing, 14(3), 1–27. https://doi.org/10.5502/ijw.v14i3.3881
+  1. Fors Connolly, F., Frech, J., Brülde, B., & **Kullenberg, C.** (2024). Are Danes really happier than Swedes and Australians? A comparative analysis of subjective well-being measurement issues in Denmark, Sweden, and Australia. International Journal of Wellbeing, 14(3), 1–27. https://doi.org/10.5502/ijw.v14i3.3881
 
-1. Kasperowski, D., Berti Suman, A., Chen, S.-L., & **Kullenberg, C.** (2023). Where Environmental Citizen Science Meets the Law. Citizen Science: Theory and Practice, 8(1), 8. https://doi.org/10.5334/cstp.596
+  1. Kasperowski, D., Berti Suman, A., Chen, S.-L., & **Kullenberg, C.** (2023). Where Environmental Citizen Science Meets the Law. Citizen Science: Theory and Practice, 8(1), 8. https://doi.org/10.5334/cstp.596
 
   1. Jönsson, M., Kasperowski, D., Coulson, S. J., Nilsson, J., Bína, P., Kullenberg, C., Hagen, N., Van Der Wal, R., & Peterson, J. (2023). "Inequality persists in a large citizen science programme despite increased participation through ICT innovations". *Ambio*. https://[doi.org/10.1007/s13280-023-01917-1](https://doi.org/10.1007/s13280-023-01917-1)
   1. Frauke Rohden, **Christopher Kullenberg**, Niclas Hagen, Dick Kasperowski (2019) "Tagging, Pinging and Linking – User Roles in Virtual Citizen Science Forums", *Citizen science: theory and practice* 4(1), p.19. DOI: [10.5334/cstp.181](https://doi.org/10.5334/cstp.181).
@@ -243,7 +243,8 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 ## Referee work
 
 ### Member of PhD. grading committee
-  1. 2025-05-20, Zakayo Källström, *Black Open Access: Shadow Libraries and Text Piracy*, Umeå University. As per the Dean's decision Dnr FS 4.3-2072-24.
+  1. 2025-05-20, Zakayo Källström, Umeå University. As per the Dean's decision Dnr FS 4.3-2072-24. Thesis reference: Kjellström, Z. (2025). *Black open access : shadow libraries and text piracy*. [https://urn.kb.se/resolve?urn=urn:nbn:se:umu:diva-237824](https://urn.kb.se/resolve?urn=urn:nbn:se:umu:diva-237824).
+
 
 ### Expert for employment or promotion
   1. Reviewer for application as Ph.D. candidate in Theory of Science, Dept. of
@@ -470,8 +471,8 @@ See also [https://orcid.org/0000-0002-1577-3570](https://orcid.org/0000-0002-157
 ### Liberal Arts
 
 #### Courses
-  1. 2021, 22, 23, 24 - LIB260, "Theory of science for the humanities", University of Gothenburg (course module, 7.5 credits).
-  1. 2024 -  LIB220 "Epistemology" (course module, 10 credits).
+  1. 2021-25 - LIB260, "Theory of science for the humanities", University of Gothenburg (course module, 7.5 credits).
+  1. 2024-25 -  LIB220 "Epistemology" (course module, 10 credits).
   1. 2022, 23 - "Internship project", Course administrator.
 
 #### Thesis supervision
@@ -566,7 +567,8 @@ roll på sex institutioner vid Göteborgs universitet"](https://gupea.ub.gu.se/h
 
 
 ### Evidence-basing: practice, theory, context: Master's level (Magister): Thesis supervision
-  1. Emelie Askaner (2018) "Implementering och standardisering: Undersökning av en  standardiserings påverkan på arbetsterapeuter professionella status - Förväntningar och farhågor  inför en implementeringsplan av AusTOMs, Magisteruppsats, University of Gothenburg.
+  1. Celestine Johansson (2025) "Mindfulness i klassrummet - En kvalitativ metaanalys av ungdomars erfarenheter av skolbaserad mindfulness", Magisteruppsats, University of Gothenburg.
+  1. Emelie Askaner (2018) "Implementering och standardisering: Undersökning av en  standardiserings påverkan på arbetsterapeuter professionella status - Förväntningar och farhågor inför en implementeringsplan av AusTOMs, Magisteruppsats, University of Gothenburg.
 
 ### Evidence-basing: practice, theory, context: Master's level (Magister): Thesis examination
   1. Annika Linell (2015) "Att bryta ny mark. En analys av Skolforskningsinstitutets
@@ -579,6 +581,7 @@ första steg inom utbildningsvetenskaplig kumulativitet.", Magisteruppsats, Univ
   1. 2016 - 2017. Co-supervisor for Ph.D.-candidate Erik Joelsson, Theory of Science, University of Gothenburg. [Thesis completed in February 2017](https://gupea.ub.gu.se/handle/2077/51493).
 
 ### Teaching, post-graduate level
+  1. 2023, 2025, Course administrator, teacher. HFVT301, *Theory of Science and knowledge production in the humanities*, 7.5 credits, University of Gothenburg.
   1. (2018-03-14), Guest lecture, "Digital methods", *Digital and Visual Methods*, Chalmers University of Technology, Dept. for Science, Technology and Society.
   1. (2017), Guest lecture, "Outreach and cooperation with society at large", [Introduktionsvecka för doktorander](http://hum.gu.se/utbildning/forskarniva/introduktionsvecka-for-doktorander-2017), University of Gothenburg.
   1. (2016), Guest lecture "Citizen Science and Biodiversity Research", BioEnv higher education, Department of Biological and Environmental Sciences, University of Gothenburg.
